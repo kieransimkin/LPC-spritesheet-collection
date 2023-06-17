@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"shoot-north":[0,12],"shoot-west":[13,25],"shoot-south":[26,38],"shoot-east":[39,51]},"frames":{"width":64,"height":64,"count":52},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteuY1AAAAGFBMVEVMaXEigjY5qk4UDAkZVB0JMgtTv3H6+vqz6Yv7AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABPdJREFUeNrt2ttu6zYQQFFe5f//44K07LiP4gRhXa0FHLh92CNGNCHnkhIAAAAAAAAAAAAAAAAAAKyqp29dQHT9en3o7ZdLKSW3vjpi7wKi69frQ33L5TheI75vAdH16/Wx9//oXxO+cAHh9ev1off/7OeAknv9tgVE16/X/9b7f+kE7F5AeP16fawv5dVvegNHFhBdv14fff9/+roF/Mr69fqtB2jjArwB9A6QA6T/3gP0OSF/3QLi69fr1/v5W5zPAf3LFhBev14f6P99AnLOf30A4wuI5Xp9qB8D8k/fvm4Bv7B+vX65H4+Qc0LOiw+QrQsIr/93+/TlfdWvnIB89vnvD2B8AbFcrw/1KaX8tlJvX0A01+tDfdj2BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPy31De9Xn85b7lMua2M0Otv3feWy3Ecx5zQq16vvzLg7M8JVa/XXzqAZbSzL+XyEdTr79yn2nMZ7TkgX1+AXn/ffjzBxrdQz3zhGabX37l3A/X60AHqPZeScz9fLy9Ar79xn+qj59E/6ny9vgC9/sb9+C1sn/14ybldXoBef+M+1T4HnP3CAvS/0qeUwtdPKbn/f9yn2np/fgLUL/bjJXr9tOpj/dHe/i/0zx9DvLWl3+Teu08x8/rRPq/PsP+xPtXWmn69T+ED1FqO9qED9Pn1J/t/fULvvbezr/o/P0G992g/1h/t186P/R9/DdTO89f1Ow5Q8BHUg4+gn68/2t90/+vr/OlT2nOCco72y+//z68/2f/1CfpN58f9+/79r/MRptfrAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2Kq+6fX6y3nLZcptZYRef+u+t1yO4zjmhF71ev2VAWd/Tqh6vf7SASyjnf3CEdTr79yn2nMZ7TkgX1+AXn/ffjzBcs5lDhn/dfUZptffuXcD9frYAeq953w+v3q/vgC9/r79GFAfc0LO/VFXFqDX37afA8aEUka/tgD9vj65f3vvf2251zqO4PN14TOkfmOfkvu39/7X+dFvfP80X/R/3Kdon/Ze//b79/wxxMvSb3L1gX68g2N92np9+/c5Qf/3/ec7eK1PW69/+/0bf003Hl89L/0t3e37FO3PT1GBPu28/u33P9XWcn7+06+I9uMdHOvTzuvffv9Tb/Mp1lrXL5+gSP/8FLWxt/+x+9fbpF9+Awb754Qey/et//b7n/qkjw1IwQH7rm//o/sHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP9H9U2v11/OWy5Tbisj9Ppb9332x3EcJbde9Xr9lQHvfk6oer3+0gGcj6/jmP8uH0G9/s59qj2/B5Sj5OsL0Ovv26f3d1BlTMiXn2F6/Z17N1CvDx6gXEruvZ+vVa/XXxqQx0e/R5+vj6rX6y8MGBNyr3NCv/zbWL3+zv1rwEjngF71G/rnz4PW+pSS+7+r/5gwPgX23qp+sR//d73/sXb9J/d/V/8e8KRPMZE+cn37t23/Pya01qp+m8j1A+u3/7H9r+eE1nvv+o0i14+s3/7H9r/28wy2tjTg7v0vPoB68AG02Nv/2P17TdBvPT+B6wfXb/+D+/+coN91ftz/b9//Oh9her0eAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHb7B57unogpUQByAAAAAElFTkSuQmCC"]});
+                var animationN = new createjs.Sprite(spriteSheet, "shoot-north");
+                var animationS = new createjs.Sprite(spriteSheet, "shoot-south");
+                var animationW = new createjs.Sprite(spriteSheet, "shoot-west");
+                var animationE = new createjs.Sprite(spriteSheet, "shoot-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":52},"animations":{"shoot-north":[0,12],"shoot-west":[13,25],"shoot-south":[26,38],"shoot-east":[39,51]}}

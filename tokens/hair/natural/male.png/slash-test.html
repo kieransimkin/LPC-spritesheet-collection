@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]},"frames":{"width":64,"height":64,"count":24},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqVFVAAAAGFBMVEVMaXGiJgDlVgC/QACkJgAmDRRqEQj/igABChDTAAAAAnRSTlMAnI8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAATjSURBVHja7d3bTuQwEEXR7viS///jkeOkLzwgJdu4mmEvGiQeTtmuGMQwUnG7SZIkSZIkSZKkv6w+/NUD0AIoX+uyLOuSmmsbgNvnp4cHoAVYvqa1pdtrWVOus7fP24cPAAuwfE17sr+fXx9uf0D78AFYAZjfGvBSYPrysH34AAM6QPI1pecFbB/z3Ac4oH34AKwAzLd4iy77xzR/edQ+fIAhHQD5mp4taK+cZi/P2ocPMKIDJN/i6Tj+mvKF50+XR+3DBxjSAZAvecvvb6nly8TlcfvwAXABmC85p63ClmwfJy8P24cPMKADKF/e0jmlXOcuD9uHDzCgAyj/pQM5z14etg8fYEAHUL7UnHMPtuz05Wn78AF4B1i+x1/UgOVB+/ABBnVgVL5O3j5uHz4ALzAwX+dvH7cPH4AXwPny/IV8mb593D58AF5gwAYOt/nbx7vHBxhQAG+AgcsH716SJEmSJEmSJEmSJEmSJEmSJEmSJEmSJJ0VOz191OTymLOP6F1djtGdEU8Arh4bH9G7Wp/js5dr09vBHYCrx8Z571qNl+nl7VWn3gG4emyc9663b3108EIVdgfg6rFxnH88xGcHT9/jAVcQrh4Xx/lbn9+/vnVwWVKddwXh6qFxnN+LpPRWYk2nzgCvIFw9NI7zvUjuc5ufHVxPDA/GdwitHhzH+b1IH1y7pN7BNsG2zLtDaPXgOM53bVZe7pXWVuzU/HJ8B9Dq0XGc/1Jom13eXmXuHbi8+ifEcf5wL22Q+fbhzFMcdAcurv4ZcZx/NDOX+71c+BMKQ+7A1dU/Io7zR5FtnnwJuQNg9fg4zu9VjkohdwCtHh3H+ZfvJ5F3AA4vjo3fhoxejr0D5faL47cPGH3t+O3oB2ALJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJP2kOupvIFRbcGn8/9JHTqaUIvIf0L/QFtT0MgA95QvTp1l+wBcQ7l9kC+pz9nB7P708zQ/4AuL9i2zBtvuX/PnVB+TZFxC+ApEtqPv07R5dl+Xk3EOeh90b0b/IFrT0Y/J2mz5/YXWWZ93j/QtuwWMA/f46O3kV5nH3eP+CW1DS408AbN+Dz24f5nH3eP+CW1By/+mja+PnT67O8rh7vH/BLehDt+/9k3sppx8/y+Pu8f6FtyAf2Z4/Pbwe5XH3eP/iW1C++fSn87x7vH/hLYhcnXePnyC8Bd9++tN53L0RJYJb8NsfAD5BcAuCDdj8rz7///AAJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJP0Z5fB7dxBegOTLMbZwiXoCeAfhBUC+lH1uantdvQDo/uAdhBcg+fKcHNzj0+8P3kF4AZIvz7G1+0Msk+8P3kF4AZR/3N2jwPT7g3cQXoDkS1qWt/6tS5p7f/AOwgugfElpfYunlObeH7yD8AIoX/L60r/U3k4Pf4f3h+4gvADKl5T7BP+15Zp8fvo+vD9wB+EFUL4Nz26htefy+R/l+f2BOwgvgPJtXHl7bU/t0r+jBtwftoPwAihf8jY//nWI/Nnl8f2BOwgvgPJb7H5pavyo+0N3EF6A5cv2DYM8gAEXEO8gtgDL99z1X4MO+BqCO4gvwPL0fwHwBcQ7iC/A8nj39ALymfXhBWKn7heH/gfzAUiSJEmSJEmSJEmSJEmSJEnSn/EPnwFegZbCdW8AAAAASUVORK5CYII="]});
+                var animationN = new createjs.Sprite(spriteSheet, "slash-north");
+                var animationS = new createjs.Sprite(spriteSheet, "slash-south");
+                var animationW = new createjs.Sprite(spriteSheet, "slash-west");
+                var animationE = new createjs.Sprite(spriteSheet, "slash-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":24},"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]}}

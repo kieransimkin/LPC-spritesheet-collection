@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]},"frames":{"width":64,"height":64,"count":36},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9Dn1AAAAJFBMVEVMaXFHNzBiQTUAAAAlGxnEtZ/d3d1ya35NSl2XW1pUPDP/4DZ2srrtAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABPNJREFUeNrt3dtu2zgUBVBejuyk+f//HeiSJpkBCkTHY0blWiia5mHzcFN23QgFVAoAAAAAAAAAAADA/6T33v/0/U/P6z+2f+mttb7n1uTx7YXy2Quof2p+6XWNbL+32vv2+6Xy2Qugf2r+PrJu+ePrtfLpA9A/t/9br+2Ib0u02m9XymcPQP/k/KX0+nmB2stypXz2APTPzS/L0usXfVkulc9eQP1T88t9XyDW6bEvcL9SPnsA+ufml3Lv20s3tl/rK/ha+fQB6J/b//6vsM8LXCyfPgD9k/v/+hH67RVG57MHoH92/hr6iJ85gNH57AXUPzG//OvfYOc2MDqfvYD6n57/dxyg/LB8KSU+xyMuls8fgP65/ZcSkYqPzqcPQP/c/ld7vpRL5h9wAPrn9n95sx/A9C8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4m/Xe+5Xnj85P3r/32mvNLJHbQHb+6Pzs/bd8P/XE54dsIDt/dH72/r221ms7v0JyA9n5o/Oz91/ztce6yJANZOePzs/ef823HrGdQPSnbyA7f3R+9v7r+2Y9gRon30LJDWTnj87rXyNaa61GHVQgO390fvb+EW9tW6HGgA1k54/Oz9x/2X58aC2OI2j1uRvIzh+d139ZemstYsvXfYFvfIinN5CcPzo/e//j/bPcXz7qP3sDufmj87P3v5XSb8vLsA1k54/O63+7LcvWP37na43nbSA5f3R+9v4ft+HXD/EjXX+VJ28gMX90fvb+n3+QOJyI5zeQmz86P3v/Bxi+gcFm7w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf73ee//T9z89r//Y/uV42Hnve/Lbzz4fns9eQP1T80tvUWvfH9nYWq81Wr9UPnsB9E/NL6VHtNrq6+vra221RVwrnz4A/XP7XxeIdfzr67qFOHMAo/PZC6h/Yn7p/eORw9uLuF8sn70A+qfmly/5bYWL5bMXQP/U/G2B+P3U83MHMDqfvYD6n59feqvrc6u3+Prl+xsYnc9eAP0z8/cF3tZoxNvZAxidz15A/U/P328drK/c45V8tXz6APTP7X+/k9A2J24j/YB89gLqn5pf+n15eb8R9bLc++Xy2Qugf2p+uS+3e6wv3qhxvy33q+WzB6B/bn5Zlnu0fYEW92W5Wj57APrn5pelRPT9p8AeUZbL5bMXUP/U/HI7bmceNzFvV8tnD0D/3Pz3FY7/SHK9fPoA9M/t/2vmds189gLqf37+5c1+ANO/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+4Xhc0GXnj85P3r/3WnvNLJHbQHb+6Pzs/ddHJvbMCskNZOePzs/ef8u32lurfcQGsvNH5/Vf8y16PbnCAwpk54/Oz90/tv4R66Nbz6yQ3EB2/ui8/tsbKOraf/3j0wtk54/OT97/+ASPuj46OmJQgez80fmJ+28LbPVba28nVnhEgez80fmZ+28L7PGIGuvfwr2U5bkFsvNH56fuH/sCdVshorXWl+V5B5CdPzqv/7bA+xG83JdvvoceUyA7f3R+3v7/WeBlufVSbsMKZOePzs/Wvxz5bYXYTmBZbrfnHUB2/uj87P1L+VWPNdaP8O/fjk9vIDl/dH72/tsS8e7Mjcj8BnLzR+dn7/8Awzcw2Oz9AQAAAAAAAAAAAAAAAAAAHuQfAPJb+VKChnIAAAAASUVORK5CYII="]});
+                var animationN = new createjs.Sprite(spriteSheet, "walking-north");
+                var animationS = new createjs.Sprite(spriteSheet, "walking-south");
+                var animationW = new createjs.Sprite(spriteSheet, "walking-west");
+                var animationE = new createjs.Sprite(spriteSheet, "walking-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":36},"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]}}

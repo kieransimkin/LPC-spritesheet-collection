@@ -1,0 +1,63 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧘jacket trim frock_lace bronze 🎬walking": {
+				"name": "🧘jacket trim frock_lace bronze 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
+					"0f09f8eac77616c6b696e67/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9D",
+							"n1AAAADFBMVEVMaXGXPCP/yVp7IAjX2yS5AAAAAXRSTlMAQObYZgAAAAlwSFlzAA",
+							"ALEwAACxMBAJqcGAAAAflJREFUeNrt3UtuhDAQBUAb7n/nSBkyUra0pUfjqs2sGr",
+							"v9edKwYQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAIC7ZvPxp/6T9fM8ik+Z0fHT9fr/1B7njG7A7fHT9bv3H1",
+							"+AlyTQxv27gfqXQJX5SyAJJIGC9av+hfROoMIDihsggY4V7yGO8A2+/4AzfABX1Y",
+							"90Ao3MAXxIAsUO4AMSaIQTaInCDRzhBFrSQLX/QgKNJf2nzfgDils4s9Pvvv8vYA",
+							"sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4M/899OvfjSf/6L61P5/v9t987",
+							"PD6fpv503nv6x+Zva//Q2sLuBrEqh6ASWQBJJAEkgCSSAJJIEkkASSQBJIAkkgCS",
+							"SBJJAEerd9O7cMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCLzebjT/3H6n",
+							"9r7384vDyB6vjp+s37vz69HluA6vjpev2HF6D7Ddy9fzdQ/xJoRX3XAyiBJNBLEq",
+							"j296PvDfzU5RNobJtAo9hA9AZd5YX+rwN4dk2QdAIteBHVOYHiB/ApCTRyB6B4cm",
+							"vzr7dfOwDl8csPqO9/+i1+eP4ze/7qyz833/+9jy8AAAAAAAAATf0AMlYHH8lsEt",
+							"cAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				]
+			}
+		}
+	}
+}

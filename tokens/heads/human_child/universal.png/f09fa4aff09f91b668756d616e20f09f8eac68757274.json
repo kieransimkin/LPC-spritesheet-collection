@@ -1,0 +1,51 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶human 🎬hurt": {
+				"name": "🤯👶human 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b668756d616e20f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXH51bonGSDkpHyZQjzMhmX67OcqPElXzuTy9/hWhq5ga1D1AA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAf5JREFUeNrtm8uOwz",
+							"AIRQuYpun/f/DIzcgl2QUsezzcs+kOVZDLM3k8AAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAGAsfTDSQ3P1FiEiK14NhA8n9//FeRQtPMZDd/9RwOTBsIHsAhOj5PPwnyhMMQA",
+							"DNfzWNDzcAARgcT3DYAAJg/Sc83ABaoJP/7qaQsIHsASAVkeY9UeL7Bk4piBCAe/",
+							"4j0fI7R5XqS75vQIwAyBOAzIM0k76YX0JSfxzPL5OaCHoEkHuQZtGd3zsR7W/eXU",
+							"XYRtBjID5IL60gLrRtnwBsGzkn4YiB+CC9uoK+T6BEd0EeA/FJfPlVFLcUzuMN9J",
+							"nEl19FlcoUA10nce8cnroLCw7SHVZRqbuw+CQupwAoB/5CxmV6eJCO77JynzPqIG",
+							"0deHeQjq+ietSQfyOBCasoK4CU5wwWu8m4nUKiCupQQ9Yvw2aTUXiwgq4B8J8ztL",
+							"JoBNomwzVIxxTU55xRR9FKWTOFtX8/XkF9zhlcjpW8LHuPikziHwWJiEtB4RpykV",
+							"HOi2C9Q2jNRL4uzATAKQBJ/1aCX0Estoi7inDtZE0Zx1Hcl7/9zmM1AcCLOb4O5n",
+							"C/swXCizkTawhezJnfhdElAHgxZ3AKO/VRCMCUMo4MNDUAfOpk4f8JEtBvEwoBzI",
+							"mAwP9zs1A5wGeK80KAD3X/Nj+MEA0Jr0yC3wAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

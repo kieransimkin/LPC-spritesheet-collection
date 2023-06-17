@@ -1,0 +1,59 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧍👶 🎬hurt": {
+				"name": "🧍👶 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa78df09f91b620f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXEnGSDMhmX51brkpHyZQjz67OcoGCCn+kJ7AAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAA3FJREFUeNrtWsmSYjEMQ17S///HU3",
+							"Z4CzzmIKeGGmjr0NBU2YBseUm43RqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaD",
+							"QajUaj0Wg0Go1Go9FoNBqNRqPx3wEA/v5v45/zLyZ+UA4Xk47AG/m3oXpiHKI6DF",
+							"wID6CWA4sOPpp/VVfbJQA3dVUmAhAzS/LiESUNrjn46AC4A3IQDlNBvEjQN4aqmZ",
+							"ipjlEgEKsOPr4Fe7Ke/0iogWnDk/8g0OKhQCBWHXyDDFRFAIioOtgaJnpA1OgABP",
+							"srDr6iE8z0izQk+Zco35Y5rCOeslU8uv6Sgy8ZRe8JSNNnJi6mQeDQfG60hNYcfE",
+							"cN2hXAVqDoGSKzCsUU6aZgJbTk4Dv4l1mDYgzkIgCNKeqkHzgZgCg5Kw52fPAega",
+							"y8cxDnvgJkiKd+xhipHxdujEkJrTh43OP8zRF4MS/yJzlTAPsmxEgAOlQeCpjoUL",
+							"ASWnGQZykbTEgFXxT0Q1Zgv4KfA7f8v2uACoC64lTAEHs0WAktOLgvIvnZY4sorB",
+							"E/dQXBXgSA/QR5/CanJOIk4EBusZZ/2RIeEvKTA9zoJvKwx4myY8SSgiBy4R/8B3",
+							"gGuCKYCpr8C8gSGBLC4SDemnRgetoEhT/LxTgriAwgBM8REGcHSb8EwOlVKlIfZs",
+							"qfQ4RJOhCgYD+nqGOPi3bCDtIZwKkgOoBIxs/809/hKgCnl7E8Pr0/FMaIzUHJPl",
+							"L22OP4MViWAohg/CH/+bMEWY1AjPGYXFTvA1L3JXuoBQmJ6H/0GGzim30eiJE9LH",
+							"qmnOsPOQTBza9VjGxkkHxTVE9xMD91yT4DYHP+iX5Cj8FysufXkJhgfGvFUbzhLH",
+							"fq/vSaO1nH4lMgc6kmgHkEVbKHZwBMZxP1whQru31hDcn7FKSMggSA7MHx3n551c",
+							"kjoVk4QR8k7fzfe0jBPs5So3QFDV7oARnAzV4qe4zjfquStyhgh0hxletOqE5uY5",
+							"nBcaKDmgAGbiX7aN8aDhwzmegxWM72yu8xj4RvycSV0FdfC5UMjieVCMwbuIJ9zK",
+							"+xx+0ElgKoD/YAbY9HRVEF/PXtI/XToC2Dbxg1CRwrkdEBiIltG6LKAZz24cD4De",
+							"jpChHibz+S3e+QV3/TxdvfC+80qwZwt3f+Nu86sv/mH7ZVA1gS/q9n+9fhD0XiFd",
+							"Nxw59+AAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶mouse 🎬hurt": {
+				"name": "🤯👶mouse 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b66d6f75736520f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJFBMVEVMaXEPDxHY3Ny4u7zWs51VWF+LlJi8i20XFxr6+vpITlc2Nj92/7",
+							"2lAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAuZJREFUeNrtms",
+							"ty7CAMREcCZEz+/39vCTzgVN0skFJMEXdvEhajhY71oO3XC4IgCIIgCIIgCIIgCI",
+							"IgCIIgCIIgCHqYiIh+OkEL8h+YA/3/BIIL8s8xxp5zCvVIawk++/mPMcb0Tjlx0v",
+							"NMBv0EUQAxjfxVABMJ9BMEAAUgNWMk8wC8BB/fgo4Y45FC0uGZQqrHQAaCVQIA8w",
+							"SO40jhUtLT1AjoBOvP5wmCgIikFJiZNYNJRMhE8AowSxDS1iPM56kJlJRm1/g3wR",
+							"ZgniCkOeRT86cJpOUEId3eNf3MJ9ueXiXoCvDw/KdwUu3hdIqhBF6UxB4AToau/0",
+							"QhcNA/YgPQA8wCgJNRG4hcW4ywDcAtwBwAOBntAa7pa0OUVgaAk/EeAn2PJw/CaY",
+							"DDyajN3+Jk/IkZQiL1Imxe4SuBMF9Aw8nQX1ucjD8yQzSB0dZ/XAGGk6H1Y/WieF",
+							"TQtjOE6DgOT/USHdEQoDsZ10V60sl4z5DUKihtPEMoOZ7/FuAwDfCbk8HTTsZoYf",
+							"UWsrUZS5k+EuByMppmnYzRwhQgzFhz8fEgQCtb2Nibvv95HACHkzHsdEML63tTmy",
+							"HOLUpK2RQAdyeDp+eIq4X1LardYjxbVC6liJTy9bybuKOF9Zu4aAsTx008FxEJSi",
+							"DvS8DshHBvYRYrKh5J2hCXOsQtJZBLEa3hIOVrVwLBmH+nGduGuF4E6xZlfKOaNf",
+							"/tGdqxBJw3cU8FeYf4lf/q5Vwv1vckYLtI/0IF+YZ4B3BNsfoU7AjAepH+jQqixE",
+							"PJuAKFHmHPCvDexD0VVCugtrD5i+CogAFgzwr4ZAXRbYjbYuRyfRfCOgIeCcBTQc",
+							"41+JrCp37aI1KeWQDeFSDpFi/mb5rqFlrtKN50D/18BwsxmHtYllKKflylS2hBDa",
+							"yeIZmDiJS6CFdHgkFg5QzJ3N6nZ1V7uw4CK9UAXDn/doAAAACgRQTuAJD/5QS45/",
+							"z+P7SMwM1+yD9ZEf8Am4oX42mc/5AAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

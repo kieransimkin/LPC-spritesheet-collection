@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]},"frames":{"width":64,"height":64,"count":24},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqVFVAAAAG1BMVEVMaXEAAABHNzBiQTUlGxkeEg6XW1rXmZOc89lf5xTYAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABNFJREFUeNrt3d1ONDcQhGGq3Tbc/xVHnlkISk6Cq7P9rXifA8RJtds/DGiRPG9vAAAAAAAAAAAAAAAAAH4NSfr3t79qBm4BL6+I0D++e53uK2bgL4GVV4xxzVsa4+mjFyyfPYOCJXDyOx0558xoGL1g+ewZlCzBeX6nR2yjYfSC5bNnULIE5/nr4O34+DyKr9R9xQz8JfDyO74LjJfsvmAGfgEvL80rOiIbRi9YPnsGBUtg5DUf4TFiTr1Y9zUzMAt4eUV+pTP0Yt1XzMBfAiuv+S099WLdV8zAXwIvr8zPR0C+XvcFM/ALeHkpvWd4a/cVM/CXwMtL99/g8ZLdF8zAL2DmZ9zmS3ZfMAO/gN2A5bW7BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+A+kt8YXB5ij98Zr1k4pvattCtbozXE7/1VkHVepmMIy9r81buc/i8x4D7VNwRi9OW7nHw8R5VxLTVOwRm+O2/m7RipnrONrU80VMEfvjNv5t/v27MzIWKGOFTBHb43b+fsJMtb1BovD11eYK2CO3hq383eR2M/wq4oapmCN3hy3848n+Ice73BJPX0FzNFb43b+8QSJtdb9Dp3Qs1fAHL01bufv9Rv78vi11siTNzBZLZij98bt/KPI+JIj4meH2J+CM3pz3M7fRe53qGXEfo/IzzfAnII1enPczv/9MULm9Xfk9ST/0adqdgvW6N1xO//1GLncNeLJLVijd8ft/PffpfslFg1T8Eb/E+J2/mHO2TYFb/T2uJ0v8Ae0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4n+nbPVeSnp5nA97XY9m0v312vmD/7BK9Z1CR9wpKK+Po7lwn7+5/RYneM6iYGZpzKnIebYCVd/e/okTvGVTsmydnzH0F5dkGOHl3/ytKdJ/BfePbvL8cXmBv5N39ryjRfgb3xdvSvvz27A54K+/uf0WJ1jOoqTlCUzGmTo6wmzf3v6JE6xlUzCHFDGkc/vw5eXf/Kkr0nkHN1Me1gB/Ko9GtvLv/FSW6z+C7FPv+58P3sXl5d/8rSnSfwVxj376d4+xNSGbe3f+KEs1nUBmRY3/R2XtgrLy7/xUlus9gjjFjjtMX0Xh5d/8rSjSfwb2C1+tIzt/H6OTd/a8o0XsG798iOY13kVl5d/8rSvSewf0zNM3XGjt5d/8rSvSeQf9fKWrcv5oSvWewW8G/0uRvobrnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBchvTXfNmF30F7Aye9751KdC2h30F7AyV83sHsbYLZvd9BewMkr3mO6x8dq3+6gvYCV11ozrRuH7PbdDtoLOHnlin3nWV/7dgftBay8Yu2LX3POtvbdDtoLWHnFiIgY6/ziTbt9s4P2AlZeV3Y/w8+v8DfbdztoL+DkrxcP7OXTx+lT3Gzf7qC9gJVXjCu91jp9h4fbvttBewErv8M51loj8rqCt6V9q4P2Ak5+X/09cnzR0xfQ7qC9gJW/wpER+y1MGWMc/BIpaN/poL2Ak5eup/f1V2Tm0ccJZvt2B+0FzPz9+zP0cPAxqLuFbgf9Bbz8lZbOb1+vmb/dQWcBLx/Xi+CMz0Ir5m930FvAbsDTPDwAAAAAAAAAAAAAAPi1/gLpuTGfmck8ogAAAABJRU5ErkJggg=="]});
+                var animationN = new createjs.Sprite(spriteSheet, "slash-north");
+                var animationS = new createjs.Sprite(spriteSheet, "slash-south");
+                var animationW = new createjs.Sprite(spriteSheet, "slash-west");
+                var animationE = new createjs.Sprite(spriteSheet, "slash-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":24},"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]}}

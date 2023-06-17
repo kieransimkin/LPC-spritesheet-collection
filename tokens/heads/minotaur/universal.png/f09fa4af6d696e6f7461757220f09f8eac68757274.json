@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯minotaur 🎬hurt": {
+				"name": "🤯minotaur 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af6d696e6f7461757220f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJFBMVEVMaXEiISG4h1FmOho6IA6XX0PPe0mePjfnqoP91bfv6efSzcvZrn",
+							"XAAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAyhJREFUeNrtnO",
+							"FugzAMhHFsJ2x7//edkkDTqdW25GhCik+qVvhRaT4+uAu0y2IymUwmk8lkMplMWU",
+							"S/b5tePP+V/thh6jr/BgeMIcQAT//YZQx1nH+tA0cwdGEDAv1z5ysZujIAzwmoGO",
+							"ABDF36Evx8fBWnkAMYurYBj6OiUGHAAQxd/BQUAkXl8JjehlAxvgMYunSMJb+JSJ",
+							"XKVkeGrh1jyft19X4NpKpKYc3b1JWhS8dYWtc48d2AOP91pa4MwTF27lNYPmTZRQ",
+							"Mc7wdzP4bwGDv5KUycc8rskpjVOSc9GYJj7ORFUJxGAzQO3qlGA7TWAYQhOMZOXw",
+							"RFlLkYwKwiHRmCY+wbFEGRPLU8x9rxgwyVGCtJtTH2iB5yBgNux2+9ARhDJcYy51",
+							"ddjL0ZIHLv4FwGMBUDiKUvQ2CMjQZS+ic2SSbIT2XA1+YAM321GtDKEBhjUYLOYQ",
+							"B/UjaAPrnJAIQhNMaiRfAc5yBK1874V1o/YGeo+iOwKkjJsHuC0vZkBjBnA5gbDU",
+							"AYAqvgdtAXgqoBGL+UsV9DtW3+GENwFYQXU8YvZUg5/qQ/Q2gVhAk6wVKGuE0yhC",
+							"GoCoIEnWMpQ4KPAPsgQxjCqiBWBCk8K3Kh83VA/MeHjy8ZwhBaBQGCYpN+LHLdm7",
+							"QEH7wP7QRgDGExFiLoJEVOlEMIgVWGMIRWQYSgkxS5dBoF5g8yBFZBiCAKWVuP2D",
+							"b6l7FyBRrAEFgFMYLQHnGWOg0xBFZBiCD4puxZHIAYwpoIQtABN2XfQWATQQjCb8",
+							"pG/nV/q3OaBzYRKQT1buK7iep0WdSpisyKQACKCNZDwJuyuwGqMxsQY1R7EAZ7CH",
+							"hTNl79dBOWJgfHKLCIQDUEaOLvYcByQBFprSE/Y2xLEbk3gK+XoVCC0HuCLClHRc",
+							"UP4OWaDiA1BCmC6egvBui01+Gh5t1SVIMBj03ODOiZouLi0f1axqSLSdP2kPxgU1",
+							"nNq/6OiwlKUdujfT4vo6bnYuq+5WXCUtTPezhzPpo3c4pKz9fT7SYC7RzYSaiT7J",
+							"vqwx2w32oYjYD9WsnpHLD5dzXAfrFqtAP09x7TeH0DQBAiFodaC1kAAAAASUVORK",
+							"5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

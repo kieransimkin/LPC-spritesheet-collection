@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]},"frames":{"width":64,"height":64,"count":28},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1b1AAAAGFBMVEVMaXGeJgC/QADlVgCkJgBqEQj/igAmDRTaQEzLAAAAAnRSTlMAnI8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAATDSURBVHja7d2BihsxDEVRR7Ls///j8uTJNkkLrRNY4faepYUtvWIgk80kC6PWAAAAAAAAAAAAqsRCf2Yf4WL25gj60l75cOu921sj6Iv7zK3rT46gP6pvMcaw9QzOEUF/YD/uE6z3oD+rNxvD8wmcYmsCfW3fwm2MMdajrxMg9p7F9LV9i+6u/v4zWP3WAdCX9nkNNPI57LqSVd/Ng/6QvoXp4R8j34mYZW7uk/6MvoW5d9eVkOkUsN7dbewcAH1lrwHrp3C+kupr6GV10p/R6yqo+/D8MWyudyQ2ts4g+tK+hX7orgFjPfg29n6G01f2a4Bfr6Nrhnu3SX9Onx+j6qVTJ4JeUq33SX9EvwboDWS+fuqxzwE26Y/o28xfYeS7jzwRzFzf0x/St9mvU8CuE0EDNp7B9LV9azHvz+GHL/pjep0Esz/nRn9SrxHx9EV/WJ8z2rz+fiunL+4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/Afi4wVo9HV95AKtvPf9WyPoi/tc+WJ521G3oD+tN93yPhfAaIwH/VG9bpy+7lY51gamoD+s1xNYp0DePHZ3exZ9cd8iV2et5SG5/WxziSR9db92n1077GJ7+RJ9aZ8D+hdtz/K+ewD0dX2LkVevU1avTVqT/pA+95/N6za/M2L1O8uX6Gv74T5v1ze36LGW90z6M3q9Cfnq9ZmARWxtDqGv7fUxwHz8UCd0GtjO7h76yv51QKzT4O0DoP/m/nVA+/AA6L+5fxnQPjwA+u/uNSF+eVnduwymr+x1CsRzv7mEl760fz0FwncH0Nf2+Qv9h+/mQn9MDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD/4cH0afXXvy9sb7Ogr+9AGLS2A0fKsoD+u1/alkfyt/Wf01X0+9rpVZS5iCvqzep0B6wQYWr3kexPoi/tcmZXbs9y6m2YF/TG9btqcp4BdS0C1umdnAn1x77k18triqgshbe8J+kN6bQDNCXmnZs+n8uhby5foS/uRA+77z7QK1MbO4gr60l77B4f//P9aSO9bm0foS/sc8LilQDuxdw+Avq5XMB7/uz7T6b61/46+sNe7EH96vHP1y8YGSvrSPldl2fMAvQ/561OAvrbPpZ/PA/R2cusA6Av7XPoZL0/hYd4n/RF9Dnh9WfW+dwD0db22Zf1uwN+/itLX9r+7sPXuH+w/o6/t1wa7Rn9sDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxT4sMFhPSlfWj/oG4V6+/NoC/utTGr637pEvSn9dpVsDYQuvbXBf1RfS6QNPOhU+CN/YP05b1WSObeOnc9hzcn0Bf39/11tla4mr+5f5C+pnft6tEOSV0H5Srl7f2D9HW99tetFYRfdg+AvrKf2vTiDysIdT27MYC+tm9zrAlxrQ/RjLFxIUtf27fppg120eN2/ctt+sbLKH1t36YWl4dWYX/9021uvBWhr+3b1CXQ7XmFz9z4MIC+tl8D8uPUDw6Avqz/GtA+PAD6mv7ngPbhAdCX9LqM/eUlM+iP6dscw/x5QuydAPSV/TXgaULQn9PnsrrnfXV7v9Snr+0BAAAAAAAAAAAAAAAAAAAAAAAA4M9+AMA9nNJyGQWMAAAAAElFTkSuQmCC"]});
+                var animationN = new createjs.Sprite(spriteSheet, "spellcast-north");
+                var animationS = new createjs.Sprite(spriteSheet, "spellcast-south");
+                var animationW = new createjs.Sprite(spriteSheet, "spellcast-west");
+                var animationE = new createjs.Sprite(spriteSheet, "spellcast-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":28},"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]}}

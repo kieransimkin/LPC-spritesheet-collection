@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯rat 🎬hurt": {
+				"name": "🤯rat 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af72617420f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJFBMVEVMaXHY3Ny4u7wPDxGLlJj6+vrWs51VWF+8i202Nj8XFxpITlfQsG",
+							"SyAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAtFJREFUeNrtms",
+							"mO4zAMREOytP///w4syVka6EPIhj2CWDn5ECBhuchH2Y+Hy+VyuVwul8vlcrlcLp",
+							"fL5XK5XC6Xy7WlROSXC9cl9WfCs+gCYnfg6vpHPh0QcFQ44BmyGEAxRoJ0oV+IZ+",
+							"hqAzKBmRmUFQb8RYa2bkE55gwmOhzIOeZvy/cHGdp+CIMphEDMUDQQe4Z2dyCN+o",
+							"dAxEhyfYZ2NwA06t8z8L0B9gy5AeE0IAByQ4b2xlgBB+n1I1EaYMvQ7hgrYJHRQE",
+							"QU9681QxNjpzbEWEnMfNzCfYjqDLBkaGLsoKgdMbZ3cKJARwPXGmDI0MTYQVG6VX",
+							"DxGTId6ANUU39jhibGDgM1GDtmyOhgS84QSW8OyPUZGhg7Z/j3GDtnyGhha84QAV",
+							"P/qBjInqEXxgbFPTBnyFwE15whJYFjZKRyS4Y+MFY3xDONFrbqUUhB78PlngzJbE",
+							"BajO2/fXx91aOQgpRz0htgy9AnxlpmSFj2KKQgWepvy5Ak2ypomyEvfL2VYEsp5a",
+							"4MWTeR9xZGiiY48HVQ1LpnUZYMWSnqFQAiXQuTk6IWPosyZMhKUakHqNc/KBbBvk",
+							"fMFrjpI1UjRSWI9BamPgqhk6J2faRq20RMLewdY4MBYwGgtXUdsGwithb2FxhbW2",
+							"sYFpRVDbBsIuYWZsTYelR/nKe3VvejqN7CcPx97SJIL4xVGFBb6+XvFrSyqgOmTa",
+							"SMGaJdBIn0GNsD0DvgdGBRA+6bIZJgwNjHowIEjBnEaLypA8cMUS+CL4zVBABtlH",
+							"+EoGFLA25cBGtjoncH9jTAtAimE2JUDIQPAwA34FqKqg3nCOlDoLoBmiHeDdA1sQ",
+							"o8XwxE8wBcjbG1zldjaWKoO6Bx4MBYXf0zWmN61r8huwMXUlTN8Wg8cw9GAzi6Ax",
+							"eqxl74OtVxKroBFxvwqviPS9cVDsT3gv+4dF3gwCf2VKcgl8v13+kfn44a2rWgHD",
+							"sAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

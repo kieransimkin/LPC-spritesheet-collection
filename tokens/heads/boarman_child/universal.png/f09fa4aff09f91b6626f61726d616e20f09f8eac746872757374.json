@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶boarman 🎬thrust": {
+				"name": "🤯👶boarman 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b6626f61726d616e20f09f8eac746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAJFBMVEVMaXFHNzBiQTUAAAAlGxnEtZ/d3d1ya35NSl1UPDOXW1r/4DbJuF",
+							"o6AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAA0ZJREFUeNrt3U",
+							"Fv2zgQgFGSM5Sc5P//34UoOXAK9GAtsF2W7xV1kMM30EFQZF6mFAAAAAAAAAAAAA",
+							"AA4C8TEfH7X/V/e1+itRZnGN+/6ZfpS9SjGZ81YnzqF+rPm6Ye/fVDv1a/RW1nPk",
+							"a0Gpt+ob70EvVlQI3S9Qv1pfeor6J3/UJ92c8B2VrLc8CuX6gvZY/x8MiW5yNEv1",
+							"Z/vka+DNCv1v94h3h/gn7u/hhQX/o7F6CfuC8/XyLvXYB+3r6Uki95pn61vpTMf5",
+							"XrJ+8Poy9Fv2gPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/KfioF+1j3P32O0R+s",
+							"n72lqNY0rol+2ztbg3QD9/3yKztqgZ+vX6sXz2WEEfN5dP6yfuS9SsY/N41psXoJ",
+							"+8z8xz93Te2j2tn7Xv4/tDa/mV9bl+PPTL9KX0Hq21zNGPvyPvvUXo5+7PB0jfH/",
+							"m8f94eoJ+530qJrT9uD9DP3Zeybb2PGyiffa2pX6b/PkfOmnn1H/rF+u9vEoN+wR",
+							"4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD/gl63Tby+h1s/dj8WT8b1+PN7ePKafuy",
+							"/RjnWDY+XMsX34WECqX6gvJTJbbfXz87O22jL1a/XHgDzun8/jHspbF6CfuC8R3y",
+							"vHxlMk9Ev15bUfE/RL9deAvP7fvQD9rH2JY+/4WDw4Pm9cgH7m/hzwlcf2ya/bF6",
+							"Cftj8PD84F5Pn+MYJ++v48Srj2T+edG0g/dV9i74/rJOnR99Av1pe9b3vW8W/f+q",
+							"5frC+979nGgJZ77/rF+tJLZoxThMgsXb9YX7brPPE8Rdz0i/XPCaFftP8Rbfrleg",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/qDnxgH9kn1cS2dCv2Z/tFFbq6FfsC9Ro7",
+							"W8P0E/eZ81Ws08Vk/dWj6rn7ofT5BzAW29u75YP3E/BpwLqI/9k6FfrD8GXAuoM/",
+							"PGBP3c/dhAf+4fz688/oxEeWsFqX7yPseAOiZkHktIu36d/hxw3UP52Pu7DxH93P",
+							"2vAx59i7d2kOrn7svZjwk5bqHeN/06fSkf14Qc3yLef4nUz92X8pFP944S9XP3AA",
+							"AAAAAAAAAAAAD8//0DCAFM8XaQY44AAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

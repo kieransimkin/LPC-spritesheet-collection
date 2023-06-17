@@ -1,0 +1,61 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧘jacket trim frock_lace bronze 🎬slash": {
+				"name": "🧘jacket trim frock_lace bronze 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
+					"0f09f8eac736c617368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAADFBMVEVMaXGXPCN7IAj/yVr639vRAAAAAXRSTlMAQObYZgAAAAlwSFlzAA",
+							"ALEwAACxMBAJqcGAAAAa5JREFUeNrt3UFywyAMBVDA979zpp0kzioLpBlZ8Xt7YV",
+							"vmN9QLGAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAINu8wN",
+							"Vnz/Jw/V/xOgrfwvPq41izX3m4/vMtbo9RPIfunoDiOSQBEiABEiABsRVMKAFrps",
+							"yB3frg5aN3v47VPwGjcwLmqE7AuEYCNuuD5c/WJTx+4wTk1Ffffn0CaP09CQAAAA",
+							"AAAAAAAAAAAAAAAAAAAKCFGakq2372Oo2LbiC6tXnhawPkqg2YL9C/rBY0TUA4QN",
+							"H+3TsBZ7kEVCYg8udLAhLKY78fEhApXyPo7N+tV0Hb3Stbfv9YAgoX8bEp8DO/AY",
+							"VvTwJKc/B+/lWegI4fAV5di/wjPdu3of47zNIIAAAAAAAAAAAAAAAAAAAAAAAAgG",
+							"9m+bVn4wFi9f91dScAhM8gKB8gVp+wgXbt/Ll9AmrnjwRIgARIgARkJCC8itk8DS",
+							"C8AX30BtKeYG018TIJGO0TsDtAWgJGSQLOAwCiEdwc4HyASAJG4wQkJaisPukIis",
+							"MO/nf8jgQAAAAA8PYAWv8Eo7B6iDYAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				]
+			}
+		}
+	}
+}

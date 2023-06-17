@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯wartotaur 🎬hurt": {
+				"name": "🤯wartotaur 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af776172746f7461757220f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXEAAABiQTUlGxlHNzCXW1p3d3caGhrXmZMtOjr/vxff/luCAA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAxFJREFUeNrtm+Fuqz",
+							"AMhWv7GCjv/8BXdkhpu/5xcpUWxUfayiatGz7D33ECt1sqlUqlUqlUKpVKpVKpVC",
+							"qVSqVSqVQqlUoNFbnstX59fi81xAGwKtHhgB+oMigtHOeAsDIRW83sVVlAIy1MB0",
+							"SYRRlgtSMJFq/bwukdkOIAUOovNNrC2TkszMqHlFnC7bvbwqnLz6psXbvUXwnMiF",
+							"nQZeEnYE8EcTtRAZMoWwNhFQIkdPrFQpwWImZhgfhzipoM4ubA7ufsldgRa0HVQl",
+							"QLEbXQIS5nipK5IE7Wc/adGCIA7TsQhYA5QFItFIq+gUP8KUXNBnFr4WroFBFwuP",
+							"yHhVQtpLiFDvFHipoO4rQQVEiZlYRBCw220CF+pqjpIE7LSqBtU902Aq0NBvRZ2B",
+							"eED4jfKsRvl4M43ZfVarBtdubrcqehFvamqAPiVCFO14M43Zflbn1YytFQC/tT1D",
+							"GJV4hfcRInWldSVbVXGm5hd4r6C/HLUZyoNIDWv7zHwu4U1QXx31mRK3/5VyzsSl",
+							"GFIWwYARR2EGHIz6So7l/aYWFPiqoMeV7NCjHk2M84IX7Z/Yx2CzuDsF1A1v9K/T",
+							"XKkJKi/OL1y1jm28/oC8LGEIj/2/oFIIg7YCmKAEPQlPsZnUHYGVJirH1umMRtMa",
+							"rG2EumqO8GYWfICfHwYorj69zR4yk3lLpSlDGkQryNIcxio6BC2mNsOYHrOtCRop",
+							"whB8SjDKkxFmWOQDDGvtf/yg60B2EjR4X4Eq2/x9jCEI9RHF0Kea3/hR3oZYhDvI",
+							"EhjxjrSyHhGPtW/nktaGWIL4XQuSlL8T3BG14NwJQOdDCEBGcLakihwLMDNk/MeQ",
+							"00T+KOgSPGQuLvYj+Gs/oickvF5giSGmOlYU9QXlqQWZBFbY2x0rInaNw46z/jJP",
+							"0flkIaY2xtYHxsa2vxIG/Pb42x1LIU8pgkyhyRl8BIiPtSHvhxX4eWLpQejJxAfC",
+							"3jsSPkH1n/oSPI+41NeYP+cAfyAYlv1j8fEfouAz4+JJcWjBI+PyaKrMzY9JoPSq",
+							"dSqZ/WP5CHFX3JobBlAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

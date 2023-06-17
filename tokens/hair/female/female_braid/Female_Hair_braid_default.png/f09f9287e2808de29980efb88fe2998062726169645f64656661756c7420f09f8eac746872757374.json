@@ -1,0 +1,94 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀braid_default 🎬thrust": {
+				"name": "💇‍♀️♀braid_default 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe2998062726169645f64656661756c7420f09f8ea",
+					"c746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"IAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

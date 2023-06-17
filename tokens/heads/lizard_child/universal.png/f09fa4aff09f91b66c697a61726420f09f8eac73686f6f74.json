@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶lizard 🎬shoot": {
+				"name": "🤯👶lizard 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b66c697a61726420f09f8eac73686f6f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAG1BMVEVMaXE5qk4igjYUDAkZVB0JMgv/4DZTv3EAAACaEvivAAAAAXRSTl",
+							"MAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAA0xJREFUeNrt2sGuozgQhlFcri",
+							"J5/yceGUJu967t1kgz8jmbrL5fbCwSyHEAAAAAAAAAAAAAAAAAAAAAAAAA8F/VH3",
+							"q9fj7PaK21yFqa0Ou37u/8mdDr9VMDo3+9Pgtdr9dPHcCrf33O4PQR1Ot37n87gC",
+							"tHUK/fub8HWvu7C9DrN+2PHr8sxMoF6PX79mPg5ynE2gXo9dv2vy5EROj1+vWBvz",
+							"2Aev1m/XiRdC+MA7j2Ikqv37Y/+jiCcfex8F8GvX7n/r6HPfR6/az69qXX66d9B/",
+							"R6/fLEodfrAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBN9U",
+							"Gv16/lGRG5PKHXb9yPvA2RXa/Xz5++douFM6jXb9x/86qq1qaPoF6/dZ9P/z7Pmr",
+							"+J6fV799Xv/nyPfnZAr9+5P3r1fp3AuG5g47Pr9fo/HojH/SNq+gL0+n37z/uj3r",
+							"9PIaZPoF6/cT8eQoyfUd8DmHq9fvEMRmR1vV4/vTKOoF6vX+vz/iGVpdfrVw7g3Z",
+							"der5+Wnz71ev28yMwsvV4PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAABM6g+9Xj+fV95qaUKv37qvzGhDjAm9Xj81MPLX6zPR9Xr93AFs34E2fw",
+							"T1+p37o2dV3XWrqukjqNfv3I+B830v1PtcugC9ftv+HjjHwvW5dgF6/ab9+A1V90",
+							"1sfMTCBej1+/bXQny+A4Zer18Y+DwHX74AvX7X/ll46fX641haGO9iI1Ov168sVM",
+							"/IXnq9fnVBr9evL5Rer19f6Hq9HgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAOD/rQ96vX4tz4jI5Qm9fus+ow2rE3r91n2/+9bWTqFev3N/9Gytqm",
+							"p1Qq/fu4/W6jzfz0J2vV4/9w2wzvd5L/SaW9Drd+6PXtdXwKrrM6L36nq9/s8HPg",
+							"8hHtMXoNdv2/8MjNtXn3+jpNfv3F9fAn+OYOb0Ywi9fuf+6HUvLJ4/vX7r/rsQsf",
+							"hXBr1+5/44xsB1/+p6vX5+4Fnoer1+Xn4WUq/XLy1UZmbo9XoAAAAAAAAAAAAAAA",
+							"AAAAAAAAD4t/wDeQt7jgptpEUAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]},"frames":{"width":64,"height":64,"count":36},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9Dn1AAAAGFBMVEVMaXG4u7z6+vqLlJgXFxrY3Nw2Nj9ITlessqS6AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABN1JREFUeNrt3cuS20YQRNGuV+P//9jRACl76UFOoAz3PRHSLlGVDYozpBYYAwAAAAAAAAAAAAAAAAAAAAAAAAAAYMnLa/P0b+2fGWFmETcv0Z1XD4D+4v5hdbHIF+bVA6C/vL+5e7m73blCd149APrr+9dKu1fduEJ3Xj0A+ov7z/X297nAehuc+aq8egD01+ZHVc0wv1jMqooX5dUDoL86P21G+VfFtB/9JtadVw+A/tr86yV8vgXW+Rb443fQ5rx+APTX9h/rI+AZXn+tj4Jvy6s3kP7S/OtDoK8PguZ3Pgj259UbSH9l/hjT1m/vdf1l8215+QDor+0/xvoWs+q8jMX78vIB0F/b/7zCCtdL8/IB0F/b/1rB7LV5+QDor+0/xrDPn3fm9QOgv7b/6+1+ANu/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7rMjPfPL87v3n/TIsI5RLaAur87vzu/XNaWdidh4b/ygLq/O787v2zKtZjN2PO7FhAnd+d371/lrv7yvu8dQTiAur87jz9V97Lyn1aRwF1fnee/hnXFWoezy+gzu/O797/DF8nEEfE4wuo87vzu/e/3n8/78Fmjx+AOr87T/+c3/7L8wegzu/Ob95/ZEz36fXJP38A6vzu/Ob9R8YxZ33z0XAA6vzu/N79zxNY+eP8IiMefwGq87vzu/e//hcnYsa9N7BfWECc353fvf8S6xLnN6mjZQFtfnd+9/7nFbS8vED07k9/MT/G+QP8flxeQJzfnd+9v659gWa79wcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAN5eW2e/q39vw/ci5uX6M6rB0B/cf+w66HDZfee2tucVw+A/up8M/eqcrdbV2jPqzeQ/ur8qPLyqjDL1+XVA6C/uP8M+zw0NsJi5svy6gHQX9y//Ii1wHoRRxxe+aq8egD0V+eneaz4UuH2w1/E2vPqDaS/NP/8ERr+FXd+Brbm9QOgv7b/yChPc3dLr1u/hDXn1RtIf2n+SCv38y3QbxZozss3gP7K/HFY/XkFlx2vy6sHQH9t/jjsHz9Dbx1Ad169gfRX5o9xhFnFEWUWh70uLx8A/bX9xxHTqo4qm3G8Mq/eQPor88ewmHPWnDPsjXn5AOiv7T/GiIyIjPHOvH4A9Nf2H8My096blw+A/tr+r7f7AWz/AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAfycz883zu/Ob98/1vClTLqEtoM7vzu/eP8MsrGxmzwLq/O787v1zPSzRLKIqOxZQ53fnd++fMX1d4XxwdD6/gDq/O09/m+uR9dfDxzsKqPO785v3H3nMuvKRd05ALqDO785v3n9kxBGf/usijxdQ53fnN+8/8li/AtrnAj8/Av0GiPO785v3Pz9DmH1PYObzN0Cc353fvP/I43OF8uk+4/kbIM7vzm/ef5xfgl1XqDmPhhsgzu/Ob97/vML6GuM4r/D8C1Cd353fvf+ff0MxI279j468gDi/O797/zHG55vUzLgVlxcQ53fnd+//9xViNC0gzu/O795/OX+Mj74FtPnd+d37/4L2BZrt3h8AAAAAAAAAAAAAAAAAAAAAgP+vvwBRgWCCb65O0QAAAABJRU5ErkJggg=="]});
+                var animationN = new createjs.Sprite(spriteSheet, "walking-north");
+                var animationS = new createjs.Sprite(spriteSheet, "walking-south");
+                var animationW = new createjs.Sprite(spriteSheet, "walking-west");
+                var animationE = new createjs.Sprite(spriteSheet, "walking-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":36},"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]}}

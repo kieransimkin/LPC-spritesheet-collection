@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]},"frames":{"width":64,"height":64,"count":36},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9Dn1AAAAG1BMVEVMaXEAAABHNzBiQTUlGxkeEg6XW1rXmZOc89lf5xTYAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABM9JREFUeNrt3dFu2zgQBVDNkFT6/1+8kN0Gi92naopMFZ7zEOTlcngpx3acADoOAAAAAAAAAAAAAAAAAL6FiIj/f/ucvP69/Y/IzPjPd4/KVy+g/qX5R+QYr7kRY9w6gO589QLqX5n/WiDnWmvm7QPozlcvoP73578WGHkZtzfQna9eAP3vz38/cK8Vxq+H8sPy1Qugf2n+e4VrjfHMfPkA9K/t/4hYr/TIefMAuvPVC6h/af76mR8j14rH5asHoH91fs7PBeatN2HN+eoF1L80/4j1rwVu/QQ158sXQP/K/OOIOX89Bc4H5ssHoH9t/0fELL6Ja85XL6D+pfnXCu/PEPKZ+fIB6F/b/3GsfFvPzJcPQP/a/h9v9wPY/gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADfWcRx+26Hf8P87vz2/WNGfERjger87vzm/V8LnIUV/kSB6vzu/M79rwVWfmQ0FqjO785v3f+IiLnOs69AdX53fvf+MWOuPGf0bKA6vzu/e/9Ya86ceWbPBqrzu/O79485znHddXz0bKA6vzuvf16v4K8VegpU53fnd+8f8SPGe4Fbz8HFDVTnd+d37x9r5Xmer/ytH6HiBqrzu/Ob94+IMWeO8zzHbNhAdX53fvv+EePTHJm/+yNUL1Cd353fu/8RY+Rca2bmzI4C1fnd+c37vz+En/P1W+jrdfw3/yZY3kBxfnd+9/7vJ+GXdz6/+AFYnt+d373/5zvBiJv5P7KBwvzu/O79f1lrFfL1DdTmd+d37/8HtG+g2e79AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOB7i3/dZS8iHpfXv7f/ER/nz1hc3z4vX72A+pfmH5HzvULEOe/cOb07X70A+pfmH5FrZqy1Iue6dQDd+eoF1L8y/1pgzVy5rhtY39tAd756AfUvzL9uGbsy1/vLA/PlA9C/tv8jMseMiDny3gOwO1+9gPoX58caGStyrLixg+589QD0L89fIyJXRoybr6G9+eoF1L80/4g148drgR8xb/0ENefLF0D/yvzrg4SInDkz4uOB+fIB6F/b/xHzHDNHznHOeGK+egH1L80/ImbmHNeXW3+Kac9XL4D+pfnXDsZYucaYj8yXD0D/2v5fK0TEY/PlA9C/tv/3G7F778D/inz5APSv7f96Glzx4Hz5APRfxX9Fimfnyweg/9f/K9tfZfcD2P4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwE4ijtYbdlTnd+d373/dunU2bqA6vzu/e//4OFs3UJ3fnd+9f+RHrsYNVOd35/U/zzULNy0rF6jO787v3n+eed128/YKxQ1U53fn9c8zZ865VvQUqM7vzm/e/4gcmZnjvHnr6HqB6vzu/N79j3jlr1fx7ClQnd+d373/fC8w4se91/HiBqrzu/P653itcJ5n3nkWLheozu/Ob97/tcAc53mOnHP8/hn8iQLV+d35rfvPzDHHp6/eQHV+d17/a4GcmTnXmjlGR4Hq/O78zv3j9fr9+j10zhsfyBc3UJ3fnd++/3G83wFm/HR89QZq87vzu/f/XCHi7ueQ5Q0U53fnd+//XmGtVYnXNlCc353fvX9d+waa7d4fAAAAAAAAAAAAAAC+s38A3IpKbvMQdqsAAAAASUVORK5CYII="]});
+                var animationN = new createjs.Sprite(spriteSheet, "walking-north");
+                var animationS = new createjs.Sprite(spriteSheet, "walking-south");
+                var animationW = new createjs.Sprite(spriteSheet, "walking-west");
+                var animationE = new createjs.Sprite(spriteSheet, "walking-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":36},"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]}}

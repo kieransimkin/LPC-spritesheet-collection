@@ -1,0 +1,53 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♂️wolf 🎬hurt": {
+				"name": "🤯♂️wolf 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe29982efb88f776f6c6620f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAHlBMVEVMaXEAAAAeEg5HNzAlGxliQTWXW1rXmZMNKSCc89lY4WYGAAAAAX",
+							"RSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAkVJREFUeNrtmttOwzAQRD",
+							"N7KfD/P4zWIQKKeKgnspt65iFRXlC7J3jP2t02RVEURVEURVEURVEURVEURVEURV",
+							"GU4QGA/56UEQBub7ej6GgPQjgWgFt8EQBuYY7xCFcHYOEwM4OH9QCgES4PwMLN3a",
+							"r+fQBIhIs34aq6+9fFgPEIRaCVvl07OiiPcHUA7hklL5HuPdWjEa5dfzOYR93CrW",
+							"6jES6usdU30ZpnOFCX0QgX19hWuw8UgLq5YTTC1TUWWS9guEe9fonhCFfX2LZyh2",
+							"e7RFcT5hCyGnv1HoK9dpl7BTEcIauxl+8htYBnAchawicgJDX2+j3EkPvXz676by",
+							"ARshr7Aj0EXl+//5NTCGmNfYGtENTSEcwnJxDSGvsKWyEoAJiDsL3+77vGvvdMIm",
+							"wPeQqL6tqDOAnhvcY+XkGuhzyHRdHc+xGyGsv3kNeYxLsRkhp7wlbI8gdKPzV2eA",
+							"/RgVJrA4fG9tDjeogOlNhJhOwhcW9R8bhF4Z+nNSYRsofEvUU9CqBZFH5Y1CX/hZ",
+							"hJhNsKOcmi8G1R11zDmEmE2wo5y6K2w6Iu2kTATeL9WyHWFq5mUSAsyrbDopbUKG",
+							"IrhLMo+2tRZisSILZCKIsy3FvUmgCYHvLboh43APiuX/VnfFkATA9hJvEqODJ2AJ",
+							"F1OqXfpo2cxJtA7SbVZKhUSgCGTuJWjePQ2MhFF6CZkzh5nqGwkziQaR7hlqn1Z8",
+							"YkvuGwKJV/ziTOnGcop1qUAMy1KNV/skUJwFyLUv1n9nAZ6FPnE1MFEACsjnUZAA",
+							"AAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

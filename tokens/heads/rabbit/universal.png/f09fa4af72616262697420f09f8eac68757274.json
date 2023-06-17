@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯rabbit 🎬hurt": {
+				"name": "🤯rabbit 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af72616262697420f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXHY3NwXFxq4u7z6+vqLlJjWs51ITlfNrmfEkXK8i22qM2nPAA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAr5JREFUeNrtXEFy4z",
+							"AMC0lRavv/B3ckObG8l62JXTmugEumOXCmhCkAtJ3HgyAIgiAIgiAIgiAIgiAIgi",
+							"Augqr+4Kv/W2FtAiz90SxNpnMrrE1ASnLolkpKOrfC2gTIl4zXq5p8ic6tsDgB2c",
+							"Rf/VIXy2cJQCsszkDO+dU/dck56+wKaxPwmbOYa4Ob5PypsyssPwImag0qFrh88Q",
+							"qrM2BiIimJmFike1AF5ojevpRSwggIVmCOqMZRevtEis6uwBxxaJ/p7ArMEVq896",
+							"92zyMjoGUk4GQFNEfcX0PUvV3B7ep111CFgUKP5YgNp3PE/TWkEWAmUl1klACAwi",
+							"1HdBt7PkfcX0PUzZ/tcwsTEKew54g+QedzxP01RM1cNrhFpldtpNACSQ6xsfffRR",
+							"VrOaqlKCsXVMCSCKghb2GDzIqLeP3UKypASQTUkDdRASsfH8VCCoBXgGwsqiHvww",
+							"DQf7ACZmNRDXmLHFG9S8yC/osKaBL5DbsoVTOMd6ACnES4i8KNMGRjsVVIzRE6XE",
+							"cL3tNGbSyiIT1H7DZ2yXvaoI0Fd1H3t7FXG2FQxH+Bjb3YCFf5f4n47FVIxzZAbY",
+							"juygBghEs9QdoAmEeWKfA9wXqGPlFuOkCIEW7/fycgpCFYEj/2/74MgCfYJuJBDd",
+							"kJCOUQHwnwRTWkiTiwCukEWCwI2j6Ctuaz4epeSnwVAu2iHrq1f6NgzQfTkFVINU",
+							"9PGxvpn+79rwzwycDzLmqwsREX5aOKOwk472J2Gxt7Lsd7jqhJwgsJmOyi6kJpJ4",
+							"AvR0x3US3J7VGaBMx2UQ8t9fTqZ1j0+VoygCRxa/61MmjCEZjPnbUdklYWi5CBaw",
+							"h4viRHAi6Qj7Q3XasYMwlMHoCUxtdEE38pYD4Be8uPfxEzCEjjoaOe+FMN8wnQ40",
+							"CQgMlH0PHJLh5BsyOc/uWLhm/0yBUBnQKYVAAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

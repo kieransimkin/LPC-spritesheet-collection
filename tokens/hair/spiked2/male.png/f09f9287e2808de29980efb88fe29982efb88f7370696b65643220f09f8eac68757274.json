@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♂️spiked2 🎬hurt": {
+				"name": "💇‍♀️♂️spiked2 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7370696b65643220f09f8eac68757",
+					"274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXHlVgBqEQi/QAAmDRSkJgD/igAoGCCjISDKAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAt9JREFUeNrtm92O6jAMhPHPeN//jY",
+							"/sUpaCzoWbKtUqYyHoJczXZDxOeTxYLBaLxWKxWCwWi8VisVisvVTVqcItym/yhz",
+							"kR3qJ/eMof4puGqvchXFN/U5UIMWhd9FW8AOHK+otAsiASESJ+A8KVAYiIFYB6B/",
+							"wGhCvrb7v0z4sTAIYRLn3/Y9NuK5i0948LEC4NICAm8bqBcyf3yQgXBxCWooWI1R",
+							"aONoBRhKtbcASQ3mmIdFFoG8AgwqWDnJtIqNa+4RKK7CR9LsI9O1SQWy1BOEy0jN",
+							"TzXd3QvAnHEWYjC6CCHKCLBTktAI+SzM0f3hVvHOEW5HTRIOeoX1u/2F9XUxFqiA",
+							"JXBLk/6SFvX9kfZwAMI1TR0SD3lz3E70Z4DHJyKosv7CHDCD+CXFq60UPuHYZ0o+",
+							"BlHrLyMERGhiHKYeClw5BekLvAQ5Yut0rSsSXpqCTdaSY/tjCRM8PA9O2fn58lz7",
+							"QdW5KOtyTdWgDfJi79ibqZrTkKeQW59yQ9Og7vAlDDym2sfyXp2SZuuQQXbmPHkr",
+							"Tbt4l357mxdhs7lqQd3ybeXADBNnasj/0y8b6H7G2sVRtLAn0PucbE64pHqs0aNf",
+							"GvHEEAM0380EXlGuBDBZNN3Kp/essROJGH3b3oexaRdLuoY47ACf1ziKHq+ckn9P",
+							"td1GeOOKH/M0FnoiaBdhf1kSP8hP5I7bcigXYXdcwRekL/nCZZriSYASTQ7KKOOc",
+							"JP3P+1i6WHQMy4Brpd1DFHtB+MUjXbszQkCXCa0dTwkCPabVTq/5zl5cvMCGCARH",
+							"sBQW2PEAJJMzDwT3ITdzBA6/bPibYBljZAAFMB1MazTVINloGCACYCsGyCbI/SGS",
+							"lECGAmACnN92lGHhARwFwAb/qXGQS3oLkE3vWv/4kSwGQb3s5xfhlQ/7npAb+7UF",
+							"D/+fqbvUyg9A8CmK2/5FFA6Z9zVeo/1wE06lFGl8gLpf53LYQnh//p/w8f6xOMig",
+							"I2IwAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

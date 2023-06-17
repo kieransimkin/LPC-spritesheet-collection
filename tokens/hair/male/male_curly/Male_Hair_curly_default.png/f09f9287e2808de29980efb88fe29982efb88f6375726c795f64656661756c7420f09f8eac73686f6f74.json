@@ -1,0 +1,93 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♂️curly_default 🎬shoot": {
+				"name": "💇‍♀️♂️curly_default 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f6375726c795f64656661756c7420f",
+					"09f8eac73686f6f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAFVBMVEVMaXH6+PnMoMUwByecWZH///9qKF7u6IqnAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAB35JREFUeNrt3dl22zYUQFFM5P9/chc4yL",
+							"LdNAaua0bh3g9O0pVzaUtASMpDUwIAAAAAAAAAAAAAAPhj1Frr+XaursfbdMGA6P",
+							"H1+uD6baWU7W2bmPFUt6l3ITggeny9Prp+c86lrf3X0kZH1Kd6Ig8PiB5fr4+t31",
+							"4u+4iJHVTbcz2zAWIDosfX64Prd98/+x5cRkfULTrrZWYDhAZEj6/Xh9bvdgZbcj",
+							"lPYn1EHcuf6uE8PCB6fL0+uH77hOU4ifXf5jIwoudP9WgeHhA9vl4fWr/7Blrebq",
+							"OW8QX8VI/m4QHR4+v1ofV73gJtM0oevgnaLyEf9ew91PSA6PH1+tD6TbVsO2+bcf",
+							"zShs4AZ/6Y0gbPQKEB0ePr9aH1289hjx10Dhi7hGp5Pg8PiB5frw+t3/4qRClPO6",
+							"j/YWgB5+d6NA8PiB5frw+t3+PLED5swvpT+eXH1+tD6zfV9TFiOQesdSJf8kQeHh",
+							"A9vl4fW7+lHF/DsCz7qxGlrV+/Ctzzt3ow/9WA+kO5Xh/q92vAtbXzOrB/Qeo6cB",
+							"W452/1YP6LASMbKJTr9aF+/0RS7/YZ229KHjoD5ed6MP/VgPpDuV4f6t/fRS3Hm7",
+							"mb+CVP5OEB0ePr9aH1m+p5/bZ0+xemDi3g9lyP5uEB0ePr9bH1u133PX8eaDuN1Z",
+							"H83evoQ/kvBvxYrteH+n3CYbuJOtTh/Lke3AGfBszmx1fF1qTX/0i/T3j+LNKyvx",
+							"hR5/JlMP/FgOk85+HvJtLr5/vtB4ocI85XwvuLaHU4f9Rj+b8OmM63nw1Rpz58vX",
+							"6mT8cP9Sn7t0XsE0bfhae6TPxooE8DpvOpH0uk10f6t01UYz+XrUZ/Llz8+NGPXq",
+							"8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeTfD/s63X37mvdW2trWtr69",
+							"QIvf7W/ZmXUtpa9Xr9WF/aluc8M0Gv1/fdl5eZCXr9nftUWymtlZzzOaHq9fovb8",
+							"DS7fU+YWgL6vV37rcN2Ldfr5eJLajX37nfB+zXf1s/9Q7o9Tft+z1UrfWcMH4Xpd",
+							"ffuU91++t1O4vtJ7BSql6v/+KA/W/vE/L2duwd0Otv3L8NOO6kpt8Bvf6GfTr/8r",
+							"EFlyUPngL1+hv3jwGPy8DSWtX/fJ9SCh+/z/D4/2j/NOm4Cuwv61X9j/cP08dPIZ",
+							"6/6PO3TdguBecG3L1/O4/E+g+npf838vx94/Nfzy9omN+Bt+7fziHRtXyN7ePfrg",
+							"I9/5MDji+n099SLSXa3/z5r/0sNvU9Rfq/YgfVaB99/Pvp+8rnP3b88wJk9mWI8z",
+							"o80Kc/of+GlZi4ZP1tL8EEn/8SXj/l6nuAl78HsYEuW38t/CpofP2na15F+oP69O",
+							"Ib+NV3UODx2743u774+r87j9+lN3LV42//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAADAX6fWWs+3er1+MG+ltFrL9lav1w/1reRc2tp/yaVVvV4/2u8Dlo",
+							"kJev3t+2XfgTMT9Po796lu/XEK2ydUvV7/1b5Hxw7My/bbkQl6/Z37fQMubzdRy+",
+							"AW1Ovv3Kfa8nYJmMvW91NYHrkI1Ovv3G+nsK70zyLl/bejp0C9/q79dgrL51nr3R",
+							"/0ev0XB5zJ+z/p9fqvXAOWtwFl5hpSr79pn+rani/6+oS2Vv2r9CmlYO/xD/WlrO",
+							"35lFVLWwfuoqJ9qt/fD95EXtynWN93QKx/8cfv8j6X8n5AKXlkA8X67e9H+i1434",
+							"/eBF7bp5Sifbry+K/++Af77aLv3d+vQ6/jRfvtti3S9wH1444efBUl1Kdo/279T/",
+							"XpyuNf/fhf3rfycQGXsZuwWP/xA4j2teTRLwYM9p8WYAus/xfs68WPf738+Q+pHx",
+							"ZQv4hsgzs41pdPfWQDzPTp1n0NPv6v3sf3z+eLmsF7oP+8KP39hPqfG3L4I9LXyB",
+							"q4X/8/GNtA7TfnlOEFEHoE9Prrd9DIBmq/O6kOfvwtuP/0+vRC/u2nOMT+BWlFr7",
+							"+qf33TP9tIr/+GHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC/Xz3p9f",
+							"rxfG1tXVtr69QIvf7W/dpKKY8Rer1+tM95G9HK+AS9Xp+X3HfhxAS9/s59qmefcy",
+							"6tldKqXq//8gbc+31G6Ya2oF5/5/6xAZc+o2/CwS2o19+5Pwb0Ccd14NQ7oNffsz",
+							"/voc6+1toGT4F6/X37VEtp51VgLnUbWfV6/VcHbGV+9P0Ts3q9fmTAcf80/Q7o9f",
+							"fs+ynsfAWinGHV6/VffRWilacLwPF3QP89/fN/G+1TSh7/i/r+sl15vwGT/kf79D",
+							"08/hf0+yXg9jqefraPrPqavo3n74J+H7B9EYN+rk8vre7Xf57/Mv29eOeXolb9jX",
+							"n+pzfQ2i8BS9Xf2qWP/0sfv7XQRUhtLXQpf/Tpqv6SGw++c/2FXoaJHr+fwYJ9eu",
+							"neBrr6Hiy8fkvk39Do8eMLOL12H18ANsG1/4D278S+8vnzT6jH77Vv3qqnwA4CAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAADgz/QPDdOutnc40qoAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

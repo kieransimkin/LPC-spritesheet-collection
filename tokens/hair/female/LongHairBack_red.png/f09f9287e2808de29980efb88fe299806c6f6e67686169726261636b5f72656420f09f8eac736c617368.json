@@ -1,0 +1,69 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀longhairback_red 🎬slash": {
+				"name": "💇‍♀️♀longhairback_red 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806c6f6e67686169726261636b5f72656420f",
+					"09f8eac736c617368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAACVBMVEVMaXFaFQCKIABCTfBLAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEw",
+							"AACxMBAJqcGAAAAwdJREFUeNrt3UFy2zAMQFGA9z90ptMktdtsLKCCZL636oYUxU",
+							"857YzcRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjFtfrB4cweHd3Hr1a+",
+							"vde487sIH20IeQ/h4gDsutVz89PjLzxjtYXf30+F8TlKeYu4Pq6qfHf84weARrl6",
+							"+ufnr85wSDR7B0+erqp8d/TzB2BEuXr65+evzDBENHsHT56uqnxz/PMHEEa5evrn",
+							"56fPMSzr+8ACmAAAIIIIAAAggggAACCLDv5QUQQAABBBBAAAEEEOCU8SnAlQJEQ4",
+							"Dc7TPgagHWbIA8e/VXC7DW7BF8/frF1Q+/EtAeYFUvv3mAVQyw6gHWuauP2umJhv",
+							"1/nGXgAfprBysnYOLuo2P/P6eZeYAeZzj6ddeGt4on38st63mxNAgbCAAAAAAAAA",
+							"AAAAAAAHAX+aOdbqA6QXH8cID65XcPsH4kgAACCCCAAAKcESAFGA2QnoDRAOkjSI",
+							"A7B4jq8qd/CMd/mSDPW8AFA4QALyjt/9sGSAEEEECAk9bQ//fQ2QAhgAAC3D5ADg",
+							"ZIAe4SIC8b4LwClwvQsP/XCJDnXP3Ptuf3H4b/ErrVE5AP+54vBsi87hMwOMHriz",
+							"8aoOdnQGT9l7iUl9DwYlVh2Nf+//5T8d/xcVT5hbKOX4ARAzKeA9xs+W/DBgIAAA",
+							"AAAADATw681wzQ8vGz/R2s3XfQTx77Z/d8ADkC9m9Puf0dDI+ff6u8vAH1L2ZMji",
+							"9/M6Lcr+ObLXnf8dlw/ZjfwLzt+JbvZtWfwfIGHJ9heHz563HZc4LrG3B0huHx5W",
+							"8o9jxCLRtwbIbh8dl3/ZjfwLzf+Jw+QHffwEsFSAEEEEAAAQQQQAABBBBAgO0CpA",
+							"ACCCCAAAIIIIAAAgwESAFmbyDPfX4uECDvHWBd6wAfmGDdPMCa3r/VOkF1A+PsM1",
+							"hefn3/1uYBVjFA7f5XQ4DiHUR1/FOByuhD124IsNpOYMTI+J4VHBxa3L/nAFHagY",
+							"jZ8WMv+jfsn//9vqGBXQAA4F8f4owhUMnSvh8AAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

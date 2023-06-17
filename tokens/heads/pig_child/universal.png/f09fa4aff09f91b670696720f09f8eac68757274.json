@@ -1,0 +1,53 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶pig 🎬hurt": {
+				"name": "🤯👶pig 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b670696720f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXH51boiISHMhmWZQjzkpHz67OdjWlcvOaTDAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAlBJREFUeNrtm8FuxDAIRIOB5P//uA",
+							"I7yabaE1ROLeZJVXMJ7Rrj8WDvtgEAAAAAAAAAAAAAAAAAAAAAAAAAADCN1lr7fG",
+							"7TA1RPABG1L8/zAlRPAIsNms3cRiTcpgcovwSJMDUmbsQi0qYHKJ8BsQHciaLDlw",
+							"6ADCjtuw2gxoYvHaB6ApTIJzCRtlcCVFdhpRONSGg6AArgJjKD0wGgALaHIdvFRB",
+							"bxdIDyK5CZJ5+9zQdxegAkwGAev9vkAOU7GV1CefxoJAGpAKN74SNfs5MhrMR06E",
+							"FMyjI7QO9kuJGOdDKeNbNmCQmz6KGH2sP0AL2TITuRRJz0XUALl5C1ElTVPv4LAU",
+							"YnY491Mq4ComAJ/ZcUMHN0+LMBeieDYp2Mu4CCJfSPquClAEkjfRcQmoGvOPHmRn",
+							"Afr0tUg+ue5P2NE6crAYGRt9Mk34VtNX1I2onnljD7wx5CuaQPyTrx8f4Jh7ZR4h",
+							"UoJU9Us068V9C5hAUS0LdRq2+i3nPi+SXsFpG4hm8bd9bMQMaJDwlQVcr0ssIifn",
+							"0GNYK9hKWduL1LLqKkGspgRkI+/oc+DZbMQM6J27uWAuVQBcnDh4RK4KOIdNVD2Y",
+							"wTNxV1DQm1opK7qF+L2LoZyAp5tPh99G4jyNlD8aL3EoTD8ifdhWn3YpEgSEBuCR",
+							"O+RDxYREJpGSlNSkM2XMx5V0O259VAXAuZriG2BPF5OdZlBBmYvA22XvZ1OZZRAr",
+							"NxDR5WQG0/ixKYnIA+6H6Y0JOBBMxNwJj0/WKM4Gty0xPwOMjEF0UB+MoPsrANYr",
+							"2Pz0kAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

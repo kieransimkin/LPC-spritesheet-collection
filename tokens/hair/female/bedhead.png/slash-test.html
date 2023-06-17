@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]},"frames":{"width":64,"height":64,"count":24},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqVFVAAAAFVBMVEVMaXEwBydqKF6cWZHMoMX6+Pn///8h5zRlAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABRhJREFUeNrt3WGPrDYMhWFsB/7/T66cwM7tSpUKB8VN530qbb/0uDiBucxeydk2AAAAAAAAAFBZdQH74nhyyyJmVlVAzC8d73vobmYe8bSIWkDMLx3PvfOIaBHh4U82Ui0g5peOb+ZZobUs4dHCzW1qATG/dPyq4RGttea9zO1NVAuI+aXj5yNk3k7R7P4jIBYQ80vH+5/g5n7l2/2nSC0g5peOj0con5/ws0SvcfNTUCsg5peO/9QI/3mK+p/kt3dAKSDml46Prw+eFcLb+JfnQ2TzCoj5pePja3Ru2ajQf8wuIOaXjn9eZcP7RvqjCmoBMb90/PoinS+zni9Rz75IaAXE/NLxT43ILxK91vwCYn7p+HibdetPUDwtoRYQ80vHfz7J+geZudcUEPNLx69v1A8/wF4qIOaXjl9PktcWEPNLx0eN6gL+xXEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAvMgaVyANLFr366vy2WdgYXZWTY5ZbQfXqq/NZovk5Pv7h0DbtFhA7kK++Om/Wh6dG8/RkbKF6CwkdqFdfne+za+Oc3Ow5yP/JRSi3gNaBevXV+TG1MM7p2bkQWcQm3gJiB/LVF+evCmOC/3mMwq2TRPRbSOlAv/ra/DW/PM4y/ee92ZHiLSB2oF99bX6sQI9FH+B8jfCf+QApHYhXX54/j9AZZxjlDOdxkIhNfYCk/deuvjx/nuFi50u89QHyN09gEG8hdf+lqy/Pn9PL7foydb5P2sRbSN1/6erL81s/xmX7lBjfqObeQlIH2tXX538f5Gg/BwvOugXEDrSrr8//w5pOvAXe7kD9jW51fpt9C77dwf9gA7a1Oyg+GHgr/ysV+RZY8y+F/kNYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwD+/oGSobV/DHxas3lkxtQC6j5PvYwZ0CXjPp5Yf/lBtQCYj5zffan9yK23P6LDegFtHxOOuzTb/c+gtUX2/8XGlALaPk+/jm87fsRew6+XW3/5QbUAlq+979724/9aMfe4vbQt+L9lxtQC2j5PHmk7dH2I459b3uuwYMzDOr2X25ALSDm8wAGj3a0GEvQdr95AkD5/qsNiAXEvJ1piyOOI3/kCQDr7L/cgL4CUj7T3vawHPzcDo/+zzr7/0IDYgExn28vvveZz5GlzPzmJ2jt/r/RgFZAy+cHiHnr/72Pobd27wiS6v2XGxALyBeQmbi+y54j0NfZf72BFwqIeft15Mjtl5jK/ZcbeKOAmvdfv0ObewPKyyc3oBcQ8679SrN4//UG9ALyBWhq9x+sIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8kWvMkn1tB5X5nDFmfg58W3IB1Q6K82P2fHzm702/geQFEDuozfdRk+45czhamNn8R0hcALWD0nyGI3q0RWstHhzDIN9A0gKoHRTnrYejRWYz7j75BpIXQOygNt/v3Ig2wlnj9v9ffYTEBVA7qM579p9LN6L9x9wbSL0F1A5q897PH8l4//jIUnNvQHkB1A6q89bPH2ke/RSkPA/j5iEkb9xA2i0gdlCbzw/w/Ph2O1/lcxTx1PVTF0DtoDz/eXscM7jNpq6ffguoHRTn7fP96RyCbrcOopLXT18AuYPSvPX/+m8N33yLlB8hdQHEDorzJp/gKa6fvgBiB8V5fQPkR2jtBdTzL/0eubDAtna+egM4cYD1AwAAAAAAAAAAAAAAAAAAAAAA+Ff+ApiyNa0NFduQAAAAAElFTkSuQmCC"]});
+                var animationN = new createjs.Sprite(spriteSheet, "slash-north");
+                var animationS = new createjs.Sprite(spriteSheet, "slash-south");
+                var animationW = new createjs.Sprite(spriteSheet, "slash-west");
+                var animationE = new createjs.Sprite(spriteSheet, "slash-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":24},"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]}}

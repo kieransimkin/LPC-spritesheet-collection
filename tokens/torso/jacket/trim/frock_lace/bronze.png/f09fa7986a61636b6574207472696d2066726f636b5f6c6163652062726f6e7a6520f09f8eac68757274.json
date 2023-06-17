@@ -1,0 +1,44 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧘jacket trim frock_lace bronze 🎬hurt": {
+				"name": "🧘jacket trim frock_lace bronze 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
+					"0f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAD1BMVEVMaXGXPCN7IAj/yVrshVyDew1rAAAAAXRSTlMAQObYZgAAAAlwSF",
+							"lzAAALEwAACxMBAJqcGAAAAJ1JREFUeNrt1jEOgCAQAEEP+f+bLYwmtkBEvJlGGy",
+							"2OLLBtAAAAAAAAAAAAAAAAAAC/E48Hb4+/7OfLXsISLlpAdC+hAjrGd//B+BWgAB",
+							"SgALeo1QpIXdD8AtKfIesXkH0Lm15A+ktAjPm+cYCuwZMLUsCoghSweAG18xBXQG",
+							"sBdcwlIOsW9pkCInsBzQtYO7+/3hzijYoRWAAA4JMOS5UBMePOTp0AAAAASUVORK",
+							"5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

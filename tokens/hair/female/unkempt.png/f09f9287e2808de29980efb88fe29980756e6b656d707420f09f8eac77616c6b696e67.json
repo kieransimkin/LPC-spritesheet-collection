@@ -1,0 +1,91 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀unkempt 🎬walking": {
+				"name": "💇‍♀️♀unkempt 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29980756e6b656d707420f09f8eac77616c6b696",
+					"e67/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"lFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

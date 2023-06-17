@@ -1,0 +1,50 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯alien 🎬hurt": {
+				"name": "🤯alien 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af616c69656e20f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXE5qk4igjYUDAkJMgsZVB1Tv3H6+vrHmFRdAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAg1JREFUeNrtm81ywzAIhMOPnPd/4w",
+							"5IcZxjwGPqsDvtpJde+Ix2Qc7jAUEQBEEQBEEQBEEQBEEQBEEQBJVJdqEWJeUfTC",
+							"4eQFBQfx1M27ZtTkAFPXQ1gFX/RUDQQ5c3AFntvf6xFjilhxoDYLLKLQAcAZDvod",
+							"4nEDOTQ7C/vq/fCT0EADkA6R7qDUBVmVftVAMA0gi7A5CnE2DWpxQBaBxjDYARIL",
+							"L6xwCke6hzjJXBKmIFnJ8hALkeah5jxR9bOzv8Q67voeYxdh7hLw25vIfOiLG39p",
+							"AjgdgmItdD+Rh7cw+xI9hKpxw9gHMI/QQ6AOjnITIG8/yVAoSOj2aMpQjC+3uIDn",
+							"+Ex9AKhNk54hdWITpcWoIwO0f8xCpEXTUIs3NE2kN+YxKPI8zOEXaE0ctDQgC6Xy",
+							"jJ5xwR8OCkibe/UFouULWNxYWSx9g1Rujly0BcKM0Y63NELMYmTRwXSjPG+k8oRq",
+							"U9JJ2iHu9VwH0JxCeRtIdkAch0IbcgvmkDZSaRrIekY+zKYZMAPOTqGOsNQETh/2",
+							"/uIacAIHoTaPlSQmoVcsIcQQcCPd/LSXiIfM4RqQYIx6jWkmOMjWQgOgoAQi3wir",
+							"EAUJWiZooN7bIB4AwPt6c/OonvYxwA1Ezi+zYb9a+ZxAdtOwG8HV7hIe8WQAPUmD",
+							"jj+ym1BGYSsvKj/lUI8DVdCIIgCPqf+gPaYxMPszkloQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

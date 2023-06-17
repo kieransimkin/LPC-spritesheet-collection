@@ -1,0 +1,69 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶human 🎬thrust": {
+				"name": "🤯👶human 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b668756d616e20f09f8eac746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAIVBMVEVMaXH51bonGSDkpHyZQjzMhmX67Ofy9/gqPElXzuRWhq68lm9CAA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAyJJREFUeNrt3TuO4z",
+							"AQQEGxSY7Gc/8DLyj/JzMNrLeXVYmj11BAyLIV9LYBAAAAAAAAAAAAAP+xONOv2U",
+							"e0WkqpbXKEPnl/5ENvoV+wLzczE/S5+y1qKV9f5wG1h361fhyg64DxPaJfqj8O0N",
+							"3rR0ifu/89oIZ+rb79GvDiPUSfu9+i9PrY1xL6hfotSnkaUF6+AH3m/vkITRwgff",
+							"J+i9pGd87rzEOIPnN/PEbcNf1q/dME/YL9eJl0HtHmXifpc/cAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAB8Qpzp1+wjWq+l9tmVI/rkfevX1cOTW4v0ufs6v3pWn74/9k",
+							"9/XTbQTy0e1OfuW7kPKK8fIX3ufov+NKCHfql+7J9+2kAf+qX6xwG997cuQJ+wvw",
+							"wYt5DaS5+4BelT98dDZKmt9bGEfOYC9Kn78xGKOJ3qcRPRr9YfA35i32stU/8k6X",
+							"P3x4Dv770c+8f1y/XnL5HJ35D6/P3lr4TjVULTL9hfXyfoV+23bWvDpl+1BwAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAA+5cPr6/Wf7eO8cKC+sb5en7m/rR9/d/28Pmf/sH",
+							"u0hX6x/rJ+fn7vlD5538p9wPz6en3S/r51bnZ9vT51/3tADf1affs14MV7iD53v0",
+							"Xptd52j9baS+gX6sfm4bFy9LaDvrx8AfrM/XGEThGnWur46PrF+i1q3+NnL6XsP7",
+							"HPPIToM/fHD8mxfb6U/fu7NP1q/eODZNUv2I+XSdeHiKnXSfrc/cH6devjAQAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAD46z68v17/2T5i7Bur/Y399frM/bFu7p398/rc/W",
+							"3z5NTWIX3ufotL/zV2kM+sndPn7q9Lx44BpYV+qX6L/jTg9f31+tT9r/3zE7uH9a",
+							"n7MaD3/tYF6BP34xbSy7iNHHeQiQvQp+7PA0q9LaEP/VL9mDBuIPV0ipg5QPrk/f",
+							"FPUql13+NnboA+dz8mjD+Txvr52ROkz9w//Jac+QrRp++37fo6oeuX7MeE2VcJ+v",
+							"+h37Z20K/aAwAAAAAAAAAAAADwj/sDE19JSaMTL7oAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♀lizard 🎬walking": {
+				"name": "🤯♀lizard 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe299806c697a61726420f09f8eac77616c6b696e67/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

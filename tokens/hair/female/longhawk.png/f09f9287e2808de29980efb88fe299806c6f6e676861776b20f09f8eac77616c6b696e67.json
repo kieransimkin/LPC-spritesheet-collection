@@ -1,0 +1,71 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀longhawk 🎬walking": {
+				"name": "💇‍♀️♀longhawk 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806c6f6e676861776b20f09f8eac77616c6b6",
+					"96e67/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9D",
+							"n1AAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAANESURBVHja7d3Lctw4EARAsBsY/v",
+							"8fb3D24TvLETBWmfciupq0PBodOAYAAAAAAAAAAKeoqqPz+m/tX/VZPevYfLoA/c",
+							"P5P5+7q/rUfLoA/dP577tqvr7A7ny6AP3D+df9PMGvB9idTxegf3h+d61vvs/Mpw",
+							"vQPzz/yd/PA9xH5tMF6B+eX/N5fPv1j8Dt+fQG6p/Ov/rJ97sL7M6nC9A/P39WPx",
+							"N0H5pPb6D+6fxzZedvzKcL0D88//stVPfrB3B3/jcsQP9s/uf3wJl8jbU7Hy9A/2",
+							"z+MVeNk/PpAvTPzn++SBh1cD5dgP7Z+aPnGEfn0xuof2bW2fl0AfqHD9Dp+XQB+v",
+							"9wpT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8INX1vHjzx86vf5Sv6tWz1/s3B+",
+							"0tkM6vf5jvudaavQ4tkM6vf5j/zl9VdY0TC6Tz6x/m1+pZdV3XGCcWSOfXP8zPZ/",
+							"j369tdIJ1f/zCf/evbXiCdX/84n/7+uLVAOr/+6Uu/a2wdIL+B+m/N599gnV5Afw",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOD3qcfBef139r+uuT5rvr7C7n",
+							"y6AP3T+a/rWvdziSPz6QL0T8+f8/7M91fYnk9voP7R+c8E617fK9SJ+XgB+mfzP/",
+							"+FPj8C5/36Edybzxegfzb/31eo+zO7jszHC9A/m3+M6jVXcIHN+XgB+mfzjzF7zU",
+							"/162d4cz5egP7Z/KPmqrtmzUPz6QL0z85/nuG6Z9X7Cfbm4wXon80/xqw1xzg2Hy",
+							"9A/2z+7zM8xrn5dAH6r/DPcd11cj5egP7hAzTDC+zO9+Hzn95/BJ/A/4h8ugD9R1",
+							"igDs9P/XeeP47Pl/47zz9e6Q8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/Z8+bfq",
+							"vrx86vf5ifq2evrjqzQDq//mH/UavnWuvt6+7238Bsfv3D/Liqqr4N6sgC6fz6Z/",
+							"nnEtdVNXu9e+nv/gLZ/Pqn+X8v0evlS+v3F8jm1z/N/ypRpxbI5tc/zf8j+CT1Rx",
+							"TY9+b2n97/v090hxfQf28+/1br9AL6AwAAAAAAAAAAAAAAAAAAAAAAAAAAAPDn+A",
+							"v4uyxNbZD4wgAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

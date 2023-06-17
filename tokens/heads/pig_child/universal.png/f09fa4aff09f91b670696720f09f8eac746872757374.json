@@ -1,0 +1,68 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶pig 🎬thrust": {
+				"name": "🤯👶pig 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b670696720f09f8eac746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAGFBMVEVMaXH51boiISHMhmXkpHyZQjz67OdjWlfEvjeAAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAuhJREFUeNrt3dFq3DAQQFFpRrL//4",
+							"+L7HXZlPYhCqRVdQ6EbB7uYILYFfsypQAAAAAAAAAAAAAAAP+ZGP7wl/7/70vUWn",
+							"tcaSnRa62h36gvkdeEMSeuPkO/UX8fmmx1aPk6Tvpt+usIZa3HMyH1e/UlerZ6HM",
+							"+Ezx8g/dJ9KTHeP+6+Thwg/eL9PeDRQr9b3+v7gIm3IP3K/ccDVNvnLyH6pXv/wO",
+							"0PQL5NaBMPoF+6/zBBv2FfSs/W7rxl12/XjwnZhtRv2ZdS8lb0e/YAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAADA94vQ79rH0GvoN+1zrB3ONjtBv3p/HLVHb5MT9Gv3pb",
+							"fjqNF75twA/dJ99PbaO9ynBugX78dHxzNBv18/LhDxWj48MUG/dv9x/fzM9nn90v",
+							"2HAe2LD6Bfry+R51s/8QD6pfsS59mefmb/uH7t/rpFtJ996nfrr3eRzKbfth+HqA",
+							"+zuX7xHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4O8bW2ffXod+qL2PlWPzmtX6Pvk",
+							"T2UY2jE7X2T68d0q/dX+smskbWjJq999Bv1Y/ds2PCcS2e1O/X39uHj2NMaPoN+3",
+							"v55HHvngv9fn22ry2f1S/d/7J+OPS79b3VcYms4xo58SmiX7svV3svoI9rin6r/h",
+							"5Qa+brd+i36l93iHz9tIkH0K/cl9Kz1axnO2vWNrF/XL92PyZkb2c7W0/9hn0p47",
+							"vEsX68d/2O/TUiM+dz/eL9fYqKft8eAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAbx",
+							"ah37qvPQb9rn3LsYM4Q79p33r0ehxzE/Rr9yXq2DkW9Tha1+/XjwE97y30E+vH9a",
+							"v3Ywf9q4+p7cP69ftanw30+fm7pH7t/rWB/NFCv1c/BrQvPoB+4b5Evk04M/R79W",
+							"MBfXsmtPMM/V59KflzQpu5Q+gX758JLXPyqyT92v0Y0YfQb9oDAAAAAAAAAAAAAP",
+							"CP+wFUGEBR4nz3PQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

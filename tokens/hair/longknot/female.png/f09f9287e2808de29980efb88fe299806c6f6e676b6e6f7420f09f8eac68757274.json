@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀longknot 🎬hurt": {
+				"name": "💇‍♀️♀longknot 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806c6f6e676b6e6f7420f09f8eac68757274/",
+					"0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEmDRSkJgBqEQi/QADlVgD/igAt0dfIAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAvVJREFUeNrtm9Fu7DAIRJcB8v+fXIGT1d",
+							"1WqhSPa9/IoK1WeaiU5cQMg53Xq6KioqKioqKioqKiouJ/ChGRysLC/KuyBAohlT",
+							"wgEKxFuDMAqBlUliLcuwJBlQNAIywJUAoAjXDv/Fukz4j88Qh3VmA1GNyCgCxDuL",
+							"MAO8zN3OAKWYRw2zZWYLAr/5FGWYFw4zZWzmc3P0FAFiDcuI0VhUfmG4DI4e0yzi",
+							"Mc5EQeiU9gDnW9vvz2AzwA4Yg29qklTFI4NasINMVUZiMc0cY+toQJHNLamPj57X",
+							"IywhFt7GOduKi3mz7vXW7ngEcY/wycH+ltop7qxOXzeZX72eMRRuoMAEzRWYYe7M",
+							"Shn5fTEcbjb5eRM3Rq+HOd+Ld7xnSEkvr9NnIdSRxQwlaugG88ZiM89fsfI7eihK",
+							"1cAS96BVAI33Okt5G7mcJcQY2gm3UTWGbkhF8BL3IFcEYuCfqpIejtRdcZOfn18u",
+							"8RskYuFsCHhvSp+JNnURxC1sjxGnIZuU139FgjR2vI1Udl8duQAGvkRsxzJZage6",
+							"zEHSfinJEbMc/VrH1ZCXfc1+aMHD0MjPxDJZx0Grr9CJBGjh0GZhuFNkvCloebWC",
+							"NHa0hsaecsCbmpvR0B0ouzGqIh3qEe0YmGo9gOAOvFSQ1RdXs7aTfX3QHc/vn8MN",
+							"BpJ907RSgN+eGkvR+AbgqAHQYOcNKn+mwKQNgVMOBYzUuCpOxZhchh4IhjNTHMEJ",
+							"hIvaPSMQnhj9XELEkFrhrTpMrpXCd9TjNEzXOgUQDmOukr/5LFy4pARw0iT0ZlJx",
+							"t/B1TqRbkOH0GejEoBERwJAEXgvo8gT0ZF0j0ARA2CAQVgppNuRqKdjTkgVktgsp",
+							"POvslTArKP7Tyfv7UKkysgK1ACiDmSFYC5TrqNUwV2uB1WKrzCyYV5TgkIAL2vKV",
+							"YMAGCGArCCQAA4LEep4tWGzh9m4GxDI/koCVhAIMepR+4l1CxoBYF2pihGEbUhsA",
+							"pB29Gp9C8Ugt9P1X0BtQgRa/1hpRkAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,71 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀longhawk 🎬slash": {
+				"name": "💇‍♀️♀longhawk 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806c6f6e676861776b20f09f8eac736c61736",
+					"8/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAANISURBVHja7d1RbuM4EARQu0la97",
+							"/xgpqZPYBLix5u3vuvipqUEhsBqNcLAAAAAIDTVVVvQZg/Or4LPmvM6isI80fHd8",
+							"Pnc42q0VYQ5o+O3w3XVTWT9csKwvzR8d2wrv0QBbdAWBDmj45vY9S6G0ZTQZg/Or",
+							"63cDdc+xkaPQVh/uj4XTH3EzSCX4JhQZg/Ov6rYY3dML5fv6ggzB8d/10xa+xNHK",
+							"OlIMwfHf/TMFf0AEQFYf7o+L9f5MYItjAvCPNHx39/lJ3RF4m4IMwfHd/mqlfUkB",
+							"aE+aPjv79LvKqzIMwfHb8r5qu3IMwfHb8fomouCPNHx+8/I90F9YPjAAAAAAAAAA",
+							"AAAAAAAAAAAMBPU6P22Xk/9Oq78/vovDXmWLNOXMH06rvze/y51ppjVc8tkE2QXn",
+							"13/n6BxVijqurdcgtkE6RX353fB0fuF1jU+/3ueYCyCdKr787v42v39ElBdgtkE6",
+							"RX352/b9+wILsFsgnSq+/O3w3h55fsFsgmSK++O/964NDD+M9H59W35x/4/D4Pn+",
+							"D4b9CWAAAAAAAAAAAAAAAAAAAAAAAAAADg/24f/1w/eoC0IMm/33N91mzcgXD6eI",
+							"C0IMu/t3V9kpdotO5/PEBaEObfc16fGf383v3PBwgL4vx7XevO14n7Hw+QF8QXUP",
+							"sOntd3S9C8//kATxQ8ka/r893LeHr3/4EBniiI82PN9XW8df+fGOCBgjS/34T02e",
+							"9kOHD/HxjggYIwX3PVVbPmifv/wAB5QZwfdc2qb5egd/8fGCAvSPOz1vz+vRjN+5",
+							"8P8EBBmN9L+Oq7AePlSwfIC9L8yF6p2rv/DwyQF6QrOE7e/3yAvCBewdfB+//AAH",
+							"FBmK/e+ydevniAuCDMN9+A+f8j2gua/6fVvP9YQQAAAAAAAAAAAAAAAAAAAID/2j",
+							"5or0b94Al68zXXmGONzsPrswVIJ2jPrzHXWsmRseENlN4C6QTN+fc++v+ev5oeoX",
+							"QB0gm68/v8+ao51qqeRygeIJ2gPf+rYHx7/Hy8fvkA2QR/Qf7PElTT+uUDZBP8Bf",
+							"nb97+G4/V7ZoDukz/jfDWvX354aPfBh81fqB44fNVXY+sHAAAAAAAAAAAAAAAAAA",
+							"B/g38AWXkdibPDEoIAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧍🤰 🎬hurt": {
+				"name": "🧍🤰 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa78df09fa4b020f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEnGSD51brkpHzMhmWZQjz67OfVy8xsAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAABJNJREFUeNrtW4tyozgQdM9D///JVzMCWw",
+							"bbp0ab3fXddFUqgUQydM8bcrsVCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFA",
+							"qFQqFQKBQKhQ8AgJlzhR/i300dx3N6Olf4Kf5bEzsKoCJSCvweAbQ1kaMAEigBfg",
+							"f/FlTrswtARU1OfvFpm7cHhX8XwO1g7RD1EGGaScAfB175mxJAFS5ttHaE8UN1Wo",
+							"BQUa3/bEq5zlAKjCXY/6oGcsCkCe7IBJy/mOU/0oiqmZmqSGu0AlGKma0o+M1dwA",
+							"0uIp28oDHyLwg7hDbpmSTIE5GmYP1QFhX8/kygnbtQgon+e83ac3nukWRyBKK1NQ",
+							"W/PxA9+E9T5ARQ09YpDOttasoRuLvQdQX/C93wKADTg8HVXEYB5EVv/XmLYH1FwV",
+							"NY/UoFdKefdABTcw3eTNWCf42MSgqgSwoeOMf3NfEpgG78s+arDleR+FKX7ZAMYm",
+							"sKxvU/ylj7xiQeWWAXgOPfWhSy7p552NyzhGUoyM8eFVRawUwbWxn7C5I4FcNeT4",
+							"5BDpThvgvgnACtOdCTSLYDloetgQtio4JOKrhXUQtlmD8dUuYTRcv5tHGhHCmAdg",
+							"dgZgmwJhaE9ejdksI4JO4hyqhnBW+kgtrWkngUEsMh5UERP/V8WikBNv43MApAWj",
+							"SuQV9LJIEm0VpP332kjSUFs4haKcNiJP8wXsqDYC9HBjCbHiVECsMggPp8FMq5hY",
+							"xlbAggTkyzg3tgQcEUIC1fVa8k8fAgHXII50Ew4BSDMo5Oz3LcRgcIBebnQC6SMT",
+							"tHOHnxYcBOPM+JTlqxoGBvBReSOLrnyO5CynkQwglO/Csxy0nKnmGE/cbs2nOMk+",
+							"Mcz/tnUkDbFbimYIbhlST+qg9hlp/iJVzbPAMv5542vzyQWTThMKVKsJwEquC6gu",
+							"kBS2XY1ofcQxjnQTg+0kIaw+wNQF7FKjemjuhhPG0P7DA51lpvHjYFhVMws7hBtx",
+							"weYvBl2LGTNLKKM7gP8SesadKDkcP/83mn8pDnEB/IRzNOTuJy6XUFc4d4gtfDuF",
+							"5K4oc+hPKg/kzFdwVip4zpmLz414S5kmEwY3bEE3YMENT1mBNw/n2M3GCfZGvmEK",
+							"4Mc5FDJ8l4ELpiUcl0/i1FnOT/7QtAOeQkiuHNYUCO8vYsktd/VUFJAi0eqmUOuV",
+							"CGPQrp6MopD8IWQCOBeX6LDWxKgaz+3wpAKHDnHdcmyVDZ+hZ+g3ikLdChCgCVxL",
+							"NkOQjIeFBMUvIjN98JRntiw1TkeHOlYIYZ+cfdgPWCC+wvx1zbYItauucQ7Tkc5P",
+							"qhCOA8CLonwPjM/i0i+0w3DdE3j8AjpkY9SPRSsU1W87wL9BfB9NoGebOCNDxcEX",
+							"Bb/ygCuDK4r3/yl9hDbGILmIf2r6epLrPt2GDAfRwJPgKJZtnRNyBH0VkB6B7BSA",
+							"GH9XsRYIwH7evxzJ7pVCWPD2TBpqOgPAvAv9R4v2P+pUiEp9p9va6t79nowvqLzw",
+							"M+/tG0FTwM+IamS0/UL6x/utXV9dwUk6H6RzFcw+rl/On19a8RhcJfi38A7mocrC",
+							"2epLAAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "pregnant"
+			}
+		}
+	}
+}

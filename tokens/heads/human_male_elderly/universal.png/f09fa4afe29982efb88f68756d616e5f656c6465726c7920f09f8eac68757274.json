@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♂️human_elderly 🎬hurt": {
+				"name": "🤯♂️human_elderly 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe29982efb88f68756d616e5f656c6465726c7920f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXH51brkpHwnGSCZQjzMhmX67OcqFyIYUG9s3OdPj7pu0+0hAA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAApNJREFUeNrtnMFywy",
+							"AMRCsh2U7+/4M7gJMG0guSB0LYvfTmcfVAq8VMfn4gCIIgCIIgCIIgCIIgCIIgaK",
+							"jCU6jFkPKLMhExq1gRAKGj/hKrn5QQDEKI+p8IDAQuQLgyACbatu1ZQQ0DEC69Aa",
+							"gE0F4/P8KlAWgJoL1+FyBcvQMVYg69EQKAD4D7CUuPsR8BYOUxNjWQonzaHcDKY+",
+							"y59F6r11oBN8Klx9hAykwPB902ZlYKHoTcjPCKMXZaD0kAWHMNWVVZuRFAeoID4R",
+							"VJZF4PCULKsu/K8e33XVRJ2gGoSGpE8W8rwiuSyMQeElj1tt/z+rnvN1UOJoQcEb",
+							"IBodvEJ/eQIErHsdFGuh0HqeEkQvMTiDg9oRGhHwD7xrjxg2ha/sRifPuQ209EmN",
+							"uQq37NAOY/CpHUPVSSD0hvhA98r0tY+nrI8ClKhPPaZZHuCKOJ10mEmj2kADBhEp",
+							"dTAxDmJFIGCepq4t+RxM0IQ/yvqw1AmKJ6Z8HXINea45weMv0UdcUYVga55iDo8x",
+							"CpN9ByH5RCEeRaG4jbQ/BBKZRBrhUAVQAsHuKboqZXdsEc5NgyRjk6EACcY2xsQc",
+							"KWJBJqE++bxL8GgaiqLYmE0sQ7J/HH+2uSPUtN7SHZxCmfxrabuGuKekbppDXvZo",
+							"oeR/wSFE1cDUchrikqRzm2fg/8lgamamwB7imqitK86MU0+2mWd4qqbZzXNHFfEi",
+							"8BWO5m4nqyK4mzZ/3WUZpxN7N9D/zlCMP1fCQ5PwHRPMYaRpjwHwAQMOZASxCX9y",
+							"gNE7COUZbdQ+9RmgCgY/uqozQADAZgiNKQz8HrKA0L6AsgVPfDFUNQ9y2AGWh0jE",
+							"AD+oQgh18KGOgDj+NY9P9hCPBrMZ+tX0lqE5oCaebaAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

@@ -1,0 +1,640 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♂️pigtails_bangs": {
+				"name": "💇‍♀️♂️pigtails_bangs",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e6773/",
+					"0"
+				],
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"mediaType": "image/png",
+				"files": [
+					{
+						"id": "walking",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac77616c6b696e67/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					},
+					{
+						"id": "spellcast",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac7370656c6c63617374/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					},
+					{
+						"id": "thrust",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac746872757374/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					},
+					{
+						"id": "slash",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac736c617368/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					},
+					{
+						"id": "shoot",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac73686f6f74/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					},
+					{
+						"id": "hurt",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+							"0f09f8eac68757274/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬walking": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac77616c6b696e67/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬spellcast": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac7370656c6c63617374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAFVBMVEVMaXFqEQikJgC/QAAmDRTlVgD/igBhLlmwAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAABCZJREFUeNrt3eFq3DoQgFFrRvL7P/Jl5N",
+							"2EprkQb+BqxT2H0rSFb1gSOfH2h+c4AAAAAAAAgP+jiIg2f9Nv2LdqM3JOaPrt+o",
+							"g8z5FjnOcrh0D/Bv3IjMwcL0zQr+2PFnlmniPmAThfeAH6xf2oK7i+DY8zY9ycoF",
+							"/bzwHneF7CI195Afp1/RwwMjOjJuTIF16Afl1/XcL5eB/y4gvQr+vnhGvANUG/WT",
+							"9vY+M5IPKl22D9uv76f4DqP/6g36k/rrC19vEH/U79nDD1x0f9Xn18HRD6nfpn9j",
+							"mgdf0+/dGitd57nwPmx7vvY/Qr+8h4fOlnXGMiQ79Lf7S8DkCv67ZfRyGbfp8+vn",
+							"7LrSPQ9Hv08Xd/TQj9Dv3RMr+75cmfHgH92v444tY/69+tBwAAAAAAAAAAAAAAAA",
+							"AAAABgEx8PrdTv2NfDmq/dE6+N0C/ua/dELRCp5VkvTNAv7Vur3S9zc0itsHvhsf",
+							"n6pf3z4q0lTPHS7iX9yr6WD5713MrHhLx3BPTv0I/MswY8Nkh2/S790WZfO0CvLc",
+							"rzYu76bfoc8w4oRuZz98udAfq1fT3yd37XrR+knyt8un6Tvt5Bts8Bz+1LXb9JP1",
+							"cVzO45oPd+74eofm1fh+B4Lj9r1/aJewP0a/s/DsM1Ub9n/3Ekun7n3idQr1/ZR9",
+							"fv3LfIrt+2v7d4Sf+Gfa1E6/qN+7nUTr9xf/RfHgH92v449Hv3AAAAAAAAAAAAAA",
+							"AAAAAAAAC8nfbr/XX6hX1ree0/u7u4R/8e/dz5MmYfd5dn6d+jb7X9Ja79PU2/U1",
+							"8D6hq+1O6Qpt+tr8Uho8w1MPcm6Nf2R5t9xeOsX9HuvgD9yv7oVz+XEI5rQtfv09",
+							"eAGY6MucP1HLdfgH5hPwdk5Jkxf8uR91+Afl1/1AGIVm8k62nbbe4j1O/THxFnzt",
+							"vYdg24+8x0/dp+7jGvMfV1jzb/2vT79FW1L/+vqt+pB+BlLeLrbVHT79PHX2872q",
+							"0bWf3a/mh1E/unW/ex+tV9fHcqmn6Pvn9/tf54B6F+bX/0yO/+OX+6iVe/tv/XVX",
+							"X6TXoAAAAAAAAAAAAAAAAAAAAAAPbwy/V3+rV9q5VLtXopXlpfp1/eR5y1vKe2Tt",
+							"xfX6df35/jsbwux8i7h0C/tj+u3YO1u+d5ITf9Tv3c9jL7etjvXIHW9Nv0tXypvg",
+							"XP/btnPpbYNf0u/Rzw2L4btb1uTmj6XfrrBMR8E5I55jrlGDeOgH5tf/TZxmMT77",
+							"X/LG+9AP3KvgZ8noBrQLvzflK/tq9LuPf+OaC11vuh36U/+tz4+RhRp+FoTb9PXx",
+							"OuD68+KV2/tn8OOPR79j6Bu38BfQa3vwSj6XfuM361d1e/tv9ug51+o77fXTyvf6",
+							"s+9Fv3R8+u37j//ao6/doeAAAAAAAAAAAAAPhP/QNz5FD4sG14ywAAAABJRU5Erk",
+							"Jggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬thrust": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"SuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬slash": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac736c617368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"iIiIj8av4DnIJFZ9Vb2oUAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬shoot": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac73686f6f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAFVBMVEVMaXFqEQikJgC/QAAmDRTlVgD/igBhLlmwAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAABe1JREFUeNrt2oFu2zYUQFHyPVH//8kDZa",
+							"dFgxSwRDcKx3OwNd3QyzzTYuwoLQUAAAAAAAAAAAAAAAD4H4iIqMcvcw4wOr9eP9",
+							"DX3mbksUKdb4DR+fX6oT4i971la/t+6QzcPMDo/Hr9cN8yIzPbbRfw9QFG59frB6",
+							"//3DP3Fsf1v083wPj8ev1Q3/oLSH8X1vaMdsMFPDLA6Px6/ej13/b28QrScrYB3j",
+							"G/Xn+1PxZomZnRV8iWkw3wjvn1+qv94xUkn7ehJxzgHfPr9Vf7Y4XHAo8VvvsAvm",
+							"OAkVyvH+qPu2jxsUDMN8D4/Hr99f7xY9De//rNXAMMz6/XD/TlEdZaf/1mrgHG59",
+							"frr/fHCoft+bHMN8BIrtcP9fF5gZhrgNH59fqR/iP7vUDdZhpgdP7396MP/+7+7v",
+							"2bqy81at22bTsWOD6euwtw9wCj87+9P30P8of1d+/fZH1kPK/8I+7LRMY8A4zO//",
+							"7+5BuIH9ffvX9z9aXm4/rf+sZvj5OQdZ4BRud/e3/2BeDd/Tba37x/0/Xx+WtWPw",
+							"F1lgFG5/8H/cnr98f1d+/fVH18tf9nXkNuHmB0/n/Sn30D9dP6u/dvor7UzK/2P1",
+							"89AXcPMDr/P+pLGe3Lrf3d+zdNX0qc+t8/b4DB/Kf25eY+9N/k9gEAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5d/aDX68/nEZmZEdeW0OuX7iNbRrbW9r",
+							"6EXq8/c/yytX74oq+xn15Br1+6/3jximx7ZIuoer3+1T73lntk1OcKee4I6vX6lr",
+							"n3BfoKEXXT6/WvLXD00f+tEf1exMkB9PqV+2zHHYhomcdt8Dh3AvX6lftSM493ff",
+							"0bqaM+Vtn0ev1rt/Ci/l6gPtfY9Hr9a7bt6D4W2Lbt3DdRev3KfT+E5fnK1fO+5L",
+							"kF9G/qj2dz8PMX+//d/R+H8bGi/p7+1zpjn//65/X8veX5G11g9b6M9jfz/NvAez",
+							"dwca4fPZ7/y31sejz/V/sauenx/F+VWfU3Mv/sz//oEZy9L4vv393m37/IWLovi+",
+							"/f/Sdo8v3bBo/g7P0o+1cWf/yr98X+2T8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAN6v/qLX60/nmS0jW2ZcWUKvX7qPiF73PiKqXq8/2deIlseH0yvo9S",
+							"v3fYH+GvZQ65UB9Pql+8jM1vU3gSdX0OtX7ks9+h63vf8T9ewAev26fdke/d4y9/",
+							"ZYYdPr9a8vcIQto+3Rf3N6AL1+2f5YICP3jOOXbHl+AL1+1b70Axi1/yCpRB7vB8",
+							"++h9Tr1+1LxJ7Hbbz6WCAy9Hr96ycwsy/Tz13U4z+rfp6+lMHe/g/u/6e//nP6L9",
+							"Tp7+2L/bt3/wEAmE2N+Hxboq7Uf3FbRu/6OXEP5vOfr6du5M3ef7WjetfP69vVb+",
+							"L96dR9vNn7L0zV19nnn/76i69OZV2l/8tXpW/ra97c3/74575+tq9frSK3Rfq/XQ",
+							"Evf/4y+f6Vm/dv7uunbPHlDmZsi/R/eROyzOO3f0P9X3dgmb4s/vjt3z95/AAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/EX9oNfrL+QRmZkRl5bQ69fuI/",
+							"bWWka2jKrX68/1e6+jH8PW8uwh1OtX7kuNaBl7P3zPF7Kq1+tfP4D57Gtk7Nn2rH",
+							"q9/jVbjf4WsB+8umfPz62g16/cHwv0+w/9PWDbM44Vql6vf/0ExnETPLPFcSeinT",
+							"iCev3KfdmO9ljj+AaqH8c8NYBev27fF/h9Ah8L1DM/T9LrV+77S9i2bb8XqLVuW9",
+							"Hr9S8u0P/4c4l+Gkut+u/vn38j62Jf7P9NfV/h8WEr1+gH+/IW9v+m/mOBor/1AN",
+							"zG828D793AxXn+nSCnwPM/skBUPZ7/q31GrXo8/9fUzKK/j/nn7reMpfs3fAFe+v",
+							"Gvvn+xeD9q9ce//P5tuS3dj38BtX9rP/7V+2L/7B8AAAAAAAAAAAAAAAAAAAAAAA",
+							"AAwP/cf6tOkzG/eXZzAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "male"
+			},
+			"💇‍♀️♂️pigtails_bangs 🎬hurt": {
+				"name": "💇‍♀️♂️pigtails_bangs 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67732",
+					"0f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXGkJgBqEQi/QADlVgD/igAmDRQoGCCxUQhKAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAn5JREFUeNrtmo1uwyAMhHM2sPd/48",
+							"mGdFHDpDhMsCr3aWu2SN3aO/9g6LYRQgghhBBCCCGEEEIIIYQQQgghhBDyMOQFtV",
+							"giv2pSaFIFLVigPwBT3/QHQAdW6C9AUr/QgQUGWA2qiNwyABX2kJv6Q1WTYU0g7o",
+							"DA/oB/s4fcMMD0N/FTti9I1ADXf2/irGBRStU/J9WcqgMl3kMOTZwOhA1w4ZMiZd",
+							"gPdwxgEx8yQKFZ4Q+aNGaAnJs4HYgFcE4Qq+Eb1PtBLIT/oIk/exIHsnoESzUAis",
+							"lN3JLI28czV1H25n0hL9sG8V9DGgw38baK1frwwBbyFnTRMvA3TRxJfSnLJj69iR",
+							"+WsaABK5r4eRlLBwab+EwDELr9T/eC3hUNLkPHmrjgfY6I/H9R7RW84GtYGsCngJ",
+							"XgQnSwiY/NEegtukr0LSxNAIvfdeHjAX+aIwIeyNkB018+R3/0wkoGSlikhkHRmy",
+							"MiESz6lnJF5HP0L/03Ci33S1ikhlkJ780RgSS0F7BvY7TrBxWgAu3dVpSBEnZdPs",
+							"u//hwRSEJBXUjtl8+aJEro9sUSdlU+z7+fOQLHOeJ6EnoNU38e2rlc2Z7CLyXson",
+							"yef7/MEZEkbAdyZkA9lnvQPkS/hF2Vr+xzRF39WzF5zRHXo1ikncbVs9H0qL2Msg",
+							"3WsDZH1KOA1kejKzlByrltaGdN3EyaPsv7EJGT+ZAsBajJVP3NAFPeGrClAlNgug",
+							"HZJrmsNQMyN7RnVyBoTQB4JVKhAbMzQNQscCOUH5BcYUA90G/H+pAvqjKRr+rA60",
+							"wfQgNmp8BhO8j1pwGzU8A/j/e6UP8FDhyg/vMdOFjA+rPIgh1qQUiPbxPkDHglDa",
+							"KcAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

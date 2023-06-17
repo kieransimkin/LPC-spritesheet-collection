@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀shorthawk 🎬shoot": {
+				"name": "💇‍♀️♀shorthawk 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe2998073686f72746861776b20f09f8eac73686f6",
+					"f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAElBMVEVMaXGcWZHMoMX6+PmcWZEwBydaOqGkAAAAAnRSTlMAnI8qElcAAA",
+							"AJcEhZcwAACxMAAAsTAQCanBgAAAMPSURBVHja7ddBchwhDEBREMz9r5yie5zssm",
+							"ilLCvzntdfmCqg7TEAAAAAAAAAAAAAAAB+kleMV11evr5en8jnXDvWmnNW5OXr6/",
+							"W5/pqwz4QHM5J5+fp6fer8XhN2rEgc4ERevr5enzq/9xWM+xv29AvwPC9fX69Pnd",
+							"9rwhkQzw9wIi9fX69Pnd8zIdbvEd+dl6+v16fO7/sblvkFMnn5+np96vyeERHnv6",
+							"h4egFSefn6en3q/F4jdu4C7M7r6/Wp8zvOFTxmSV6+vl6fOr/3Ryxyf4JF7gtUub",
+							"5enzq/Y8QZMaMoL19fr0+d3zHj+inKy9fX61Pn9z2iLC9fX69PnV8AAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBE9O4/ff/6qn4eK9aOnn1W9/",
+							"3rS/srj7X2jpgN++wL0n3/+uLzd+fr5HPOfn32Bem+f33x+buv350/+wWq++wL1H",
+							"3/+sp+jHne7vmlXZ9/QXrvX1/cj7HiTz/b9fkXpPf+9dX9159BVzv79fkXpPf+9e",
+							"V9c//gBYFP9uEvCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAADw/3rFeNXlen3nfs61Y605Z0Wu1zfvrwn7THgwI5nr9a37e8KOFYkLlM",
+							"j1+tb9+wrG/Q17+gV6nuv1rft7whkQzy9QItfrW/e+QHp96gs0rgnvK/j9uV7fur",
+							"9GxPu/qIpcr2/dH68d61WW6/Wt+2tGaa7Xt+4BAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAACAv4no3X/6/vXF/V6x5tGzT9+f5vvX1/YzYu",
+							"+14umI6j77gnTfv764n/OMWPeIfn32Bem+f33x+btO3j0inv4ClX32Bem+f/1P6M",
+							"+IvaJhn31Buu9f/wPO39clXA377AvSff/66vP3Z8po2WdfoO7715f27aVfEPhkH/",
+							"+CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAj/ILCComf5y+O40AAA",
+							"AASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

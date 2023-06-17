@@ -1,0 +1,93 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀bangslong2 🎬slash": {
+				"name": "💇‍♀️♀bangslong2 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe2998062616e67736c6f6e673220f09f8eac736c6",
+					"17368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

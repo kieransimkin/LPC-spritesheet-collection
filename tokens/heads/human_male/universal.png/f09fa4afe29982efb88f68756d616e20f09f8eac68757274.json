@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♂️human 🎬hurt": {
+				"name": "🤯♂️human 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe29982efb88f68756d616e20f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXH51brkpHwnGSCZQjzMhmX67OdXzuQqPEny9/hWhq6/g03BAA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAnNJREFUeNrtnMFygz",
+							"AMRCvJotD//+AOJqTY6UUSY8fx7iWnZBI97N0FT76+IAiCIAiCIAiCIAiCIAiCIK",
+							"ir5CnMosv4kzIRMWvyIgDCwPzTPv2sjKATQsz/gcBB4AaEMwNgomVZnhNU6YBw6g",
+							"VAJQD7/OIIpwagJQD7/G5AOPsOVIhZWiMEgBiA8CdMHWPfAsDMMTZvIMX4tDmAmW",
+							"Ps49K7Ts86gTDCqWOskDLT6aDLwsxK0hbhHTF2WA/JADQd1yCnpKxsBJARlgBMn3",
+							"BHExnXQ4RI+Vvkm4mOVyUPgOsaMiK8o4kM7CH7/Db52fZvv/3IZt2BDoTlGrIhDJ",
+							"v44B4iwrSuB4B1JTYvYXldQ2YLiAHgWIx7ryCqvpuhV4QpND8zgPFvhVxXMKfWCC",
+							"W9xtjU1kO6p6h0IuCUmiPcdzAKpSiuAQzYxNNDHRD+E2O5rYl/RhN3I5T9V5c7EF",
+							"JU8yBc9ghjjwt6yPAp6oYYVvUIcxGkcBOf+5mqlD1CzAso5iF4oCR67RFqbuI3eE",
+							"gsRQ2vUBOp9iB2NfHJAewx9iFPjqpNvG0T/xgE/iYipYk3buLn99csf5ca2kOuJq",
+							"52Ew+lqGeVzprzbGbSdd32n7+tqzpuhYRS1FHl+PnmKc9mnhuAYwsIp6iqSvOkB9",
+							"P8HhJNUbWN85wmHmviJQDP2UwcTw41cY5cv3WVZpzNtK+Bvx7hOJ6PJhcnkHIUck",
+							"UY+Q8ACNg9PEcoTxFPr1UaJuCNUZ7VQ69VmgCg4fZVV2kA6AzAUaWhmIPXVRoW0B",
+							"ZA2eT2J2oA0HoJIAP1rhHYgN6hyOGfAjr6wHk7Fvt/NwT4t5j31i/ChRMHO2kttQ",
+							"AAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

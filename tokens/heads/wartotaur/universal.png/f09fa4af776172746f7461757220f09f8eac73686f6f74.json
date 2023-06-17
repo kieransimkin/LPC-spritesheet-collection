@@ -1,0 +1,89 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯wartotaur 🎬shoot": {
+				"name": "🤯wartotaur 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af776172746f7461757220f09f8eac73686f6f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				]
+			}
+		}
+	}
+}

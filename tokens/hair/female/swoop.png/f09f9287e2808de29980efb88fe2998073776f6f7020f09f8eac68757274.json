@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀swoop 🎬hurt": {
+				"name": "💇‍♀️♀swoop 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe2998073776f6f7020f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEwByfMoMWcWZFqKF76+Pn///98fqTHAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAyJJREFUeNrtW4Fq6zAMjHSS//+THyenpd",
+							"3GA1vBIVjqSMugYjtZ1t05OY6KioqKioqKioqKioqKioqKioqKioqKe0NEzstdCT",
+							"aH38xEDDaJYDrB5vgbABODYg7BdILCX1VE+aYwWZ5gc/wBdQffoD4BYDpBFYDrV1",
+							"Xd1ZsrZHGC3fEnaJBYvh1AWZugGkBViaLCGxH0sRWcTrA5jRUNxNQDuqauowXIJt",
+							"ibxnLlwuwwI3LaGjcSWZlgcxorgR7DYg3HDB1ZwekEm9PYD6xM1Zs2B0YWYTrB7g",
+							"X4+NwBVNhQB2QTXKIj5B0PLwDXr8JWJrhAR8QMt9f1uQU4DKquNrQG8wnSOoLAx/",
+							"SOWf6wHez7rzXjJjC9Bc0lSAsRwv9mUS9K8BT87Xc3Y2QFphNcIEQMTx3iXDvyx2",
+							"/VViW4QojYg81AQXJqpRNcIETsCjPwLhoV6v/eBHkhkjcD5fRCJC6LKyD3JsgLkb",
+							"wZ2AnsU4ns7UIkbQbKm0exn3erQFZHXGAGEn9VJfJsP9vXC5nREXkzMIgzKax0U2",
+							"ovQzYvRNJmYBdw3LjEnJ82sgOv0BHZIU4qHfwpOsA9ziT2aYC0ELH0EJfOoF5exq",
+							"CT8vweyKy3nx00ZQaKqBP38DLIZXVuSchTK3ClEp8xA396GQBk5r+A4NgvfnXQuB",
+							"kYo/f0MlpIiVEpDdaQUnzHEvzRQWND3L68jKhAG6SxCuPod5W6J21miHx7GW3Qy0",
+							"CoCKpBTp+6NXl8iHx6GcS/DSk5sdfoBglY9cDMEMHby2jxM8CiYoLHMQS/Ce874t",
+							"AmWBWQt5dB8JtjzIyikccWoBHuXQSibo+dCjMNITF+qM0p0hq0dQ4rVrfoz5aAQm",
+							"KQx4aVRPYEb2fviFQFprck7kk6diKB88XzIOstUECuZFLkoXB0CsseqOdFFxfA+6",
+							"vpaYTUDrS0AJ2DdiNJowWqA5byWHLXkA/9YEdR+K/egby11k/TzpvzqgCrRwBVWL",
+							"RAH8NVgKVbkMeRJtd+iOJ6UvqOFohDBfTn3KoAi1sA/SgUeuJfBVhfAXQjLuAv/G",
+							"+wL85nRP5zc+k/wRgVqz+SnvwAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

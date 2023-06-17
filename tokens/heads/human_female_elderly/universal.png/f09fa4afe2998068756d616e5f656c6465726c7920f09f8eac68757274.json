@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♀human_elderly 🎬hurt": {
+				"name": "🤯♀human_elderly 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe2998068756d616e5f656c6465726c7920f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXH51brkpHwnGSCZQjzMhmX67OcqFyIYUG9Pj7ps3OcXeCO6AA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAApdJREFUeNrtnMGS4j",
+							"AMRFFLSjLz/x+8ZcPMELMXWamY4O4LtxSlF6vVtuF2oyiKoiiKoiiKoiiKoiiKoq",
+							"ih0l+xFkPKbw4RAdx6ERBhov5Wql9VEQxCyPo/EHQQOADhzAAgsizLbwVdByCceg",
+							"HIHkC8fnmEUwPwPYB4/Q5AOHsH2gnQsxESQA5A+glTj7FvAWDmMbY2kF35/HQAM4",
+							"+xj1fvuXrRCqQRTj3GqjggPw66LABcNIMQYYRHjLGX9RC9V+xeQ7g7XGIdpCJEAu",
+							"ERSeTCHlLqZ+vqKN9+XS26AO4I3aw2ovIZRXhEErmwhygM3+vX/f35Wr9hYQu9I0",
+							"RBiA6EaRO/uIeommzbIov4sm0SX8IFYX2CCMoTogjzAK6+FVIrAEHpxdA+hLX/S2",
+							"1DUYRZANffClHz2jsd0tlAMwhfBmEJtvFDtkIGT1FWi1Cs9HyExULaJBKboj4iiV",
+							"vVCIRlimrqF5yimMRzCJslAE5RAwbh8tbL3UcAjy2ArIe0BOfbTVfdBznTxALq8B",
+							"BrF9B0B0pqz0HO4kk85yE8ULop/oIcNDlGdXnIDgDmA2B1T7Zs67n1JHHsOhAIoG",
+							"+MhXUlEdW9idu5SfyDEPQmEbVnE4/W314PlHitI0ygmrhUE/eTk/hPkq6a9WqmbV",
+							"s5CSomHl1E9TwjM0XVJIfe48APamBVHU1MWwAuGtyO3c0As95L698KQbsVgoyLY1",
+							"IPzzhICyDagKZP0vkciMQL3CZp8Gpmxxr4u9XhPZfDGeQOieJdpwH6PwAkEE/TVm",
+							"coTf48hSaQQNB3IqzymqSFAE4EJ68HQgQwEkDZGSSAUw28TdK0gJPNoz0Q4hB0+h",
+							"LgDDQ6RbABvUOO4x8FjMxxD7H/D81xLP8b6x8R4BLPnZP5NgAAAABJRU5ErkJggg",
+							"=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🦵♂️pants pink 🎬spellcast": {
+				"name": "🦵♂️pants pink 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa6b5e29982efb88f70616e74732070696e6b20f09f8eac7370656c6c6361737",
+					"4/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAFVBMVEVMaXFUJC7DYHLggICuQkpsNTYAAAAi+G7eAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAzFJREFUeNrt3cGOmzAUQFE/Y/f/P7nChG",
+							"RCpVGxK1wm52wqFpcg7FBmk5cSAAAAAAAAAAAAAAAAAAAAAAAAwI3Et4f/fR/x/f",
+							"FP71OqX5OIenEfxz70Jxcg53jKuV7cx7EP/Tkll5yXJueSy9kFOPahv7JPKb+fIJ",
+							"9dwGMfl/bxZx+f1KeUliXX7Qw517wsZzfQsT+3hfRjfUplWZZSS8m5lNoOTi/goQ",
+							"/9df12gly3/0LXDdBzAfpp/fYV3psofY8A/bS+vcU+X13fDvR36FOsj994vRKWcv",
+							"YC9DP79T02Xi+u28GvwT7pr+sBAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGHx4X0a/Z",
+							"302b+zPvv6p9+/qPv0uqF+2iZ8XX/fVdy93+aFNL03cCBuXjPT+m7AY/ZX7hi+9w",
+							"P6dWLP2AKWPLaCZa87b8Dz+j+zbyMYay39C7j3qb8vbRt23oAP77+coI4uQLYAMx",
+							"ZwHT5Yoy1Ajbl96DtsQ8/qNonw+j70Y/d/2wIRHfM/9f9D37ZAaQNAu9+D9RP79P",
+							"gTsv8vUf3UHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmi28Pf/71371Pb7+U3vOz6e",
+							"/95etX3j//7A/3371vs8Ne4+tyLqdv4Xt/egHyvnO2Kz87finy++d/Wr/e/3Vw2W",
+							"OCXccMssE+jn3oTy/Ac4Bd6VuAtz70V/YprVPP2vTA9s9zluZfP8KP/bmHuH6sT6",
+							"ks29i4WIf3rN/kcnoBD33or+u3HfCYeradoWMH6af1j69w7AedjwD9rH6bwLuPHW",
+							"yjCM9egH5mn6J+ffFp84xDf5/+MLTu/Ag7/dweAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAPjH4tP7mNunm1//tH6fX1dj4LPH+v7t9xq/1/f5d+9Tm0G3GViA/n5vliX3LW",
+							"Cb/dUm8PV9/s37rwtYYmj9+vooeT9D6V/Aoc+/df+4eaXWnvGDzxP0923mU65R9L",
+							"33v45dQLYAU/s2ti63MUw9X+HhPvQj/boAy7LUNvuszu5D3/ENboM/o3sD6Kf27R",
+							"G8DnEt3RtAP7Pfh9Z1z67Tz+0BAAD4kX4DMO8lc3LFa2EAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♀minotaur 🎬hurt": {
+				"name": "🤯♀minotaur 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe299806d696e6f7461757220f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXG4h1FmOhqXX0M6IA4iISGePjfPe0n91bfv6efSzcvtrH52AA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAhxJREFUeNrtmttuwz",
+							"AMQ21Rdtb+/wcPzqXdsKeaRrTEPECBPothohMnJSGEEEIIIYQQQgghhBBCCCGECK",
+							"MUzSB0/IAiCBp9wwDAtv/q0Jl4zhlmecUMOWdXh86cP1oAaIPPQAsAnyYwrkNTJu",
+							"AwewdgBvegDs0bwTa1bY6fjn9IhxTA6/r9PIABHZo9ACvvAIr56R2afYtye+4JmJ",
+							"VnbwBMhybfotzsUbYAysO6AqA7lNKxRc3o8m5tiWy3j9I3Pa5D+xa7B9i9x164Qe",
+							"0GsgVg1hkA06Exa+yABoUmgOMJenqH6DV2UIOCAziuPz+/Q+waewcR9LzjIR2i1t",
+							"hbiKDXpd1Bl+ohHeLW2DuIoC9fX0v7eUiH2DV2kAjGNqAuS+1vANeh9Rl+rLGdAd",
+							"AiGOoRDqu1VoOHdIhVwREiGOwR622UmD/ZIVIF2Qb9B4/wlagOkSrINejwiBZAvu",
+							"6JEtchUgWpBt3lQInrEGciTIN0oDTCRJgGjfAIB46/uGZ4rIlwHkJ7hDuQkRIyrn",
+							"oe2NYoQkQ4D6E9YgsAuHIAbY3qX4RJDyE9oj39sMNtk8FrFCkilIYwHnGLANIAEe",
+							"nVkN9rbI+I/AzA5vwohGkQeyZovu5Rq0ubuaU5E2A0hBHB9ep/BwDow6iOGb62qI",
+							"4A/pqcAjhzi2ovj36+y9DnyQEeUkrZPEDDj/GQ11tVTTLIQ0SwhwghhBBCCPEv+Q",
+							"buxhISLCkzJQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

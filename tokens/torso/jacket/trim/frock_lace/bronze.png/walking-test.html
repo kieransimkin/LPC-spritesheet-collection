@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]},"frames":{"width":64,"height":64,"count":36},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9Dn1AAAADFBMVEVMaXGXPCP/yVp7IAjX2yS5AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAflJREFUeNrt3UtuhDAQBUAb7n/nSBkyUra0pUfjqs2sGrv9edKwYQwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC7ZvPxp/6T9fM8ik+Z0fHT9fr/1B7njG7A7fHT9bv3H1+AlyTQxv27gfqXQJX5SyAJJIGC9av+hfROoMIDihsggY4V7yGO8A2+/4AzfABX1Y90Ao3MAXxIAsUO4AMSaIQTaInCDRzhBFrSQLX/QgKNJf2nzfgDils4s9Pvvv8vYAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4M/899OvfjSf/6L61P5/v9t987PD6fpv503nv6x+Zva//Q2sLuBrEqh6ASWQBJJAEkgCSSAJJIEkkASSQBJIAkkgCSSBJJAEerd9O7cMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCLzebjT/3H6n9r7384vDyB6vjp+s37vz69HluA6vjpev2HF6D7Ddy9fzdQ/xJoRX3XAyiBJNBLEqj296PvDfzU5RNobJtAo9hA9AZd5YX+rwN4dk2QdAIteBHVOYHiB/ApCTRyB6B4cmvzr7dfOwDl8csPqO9/+i1+eP4ze/7qyz833/+9jy8AAAAAAAAATf0AMlYHH8lsEtcAAAAASUVORK5CYII="]});
+                var animationN = new createjs.Sprite(spriteSheet, "walking-north");
+                var animationS = new createjs.Sprite(spriteSheet, "walking-south");
+                var animationW = new createjs.Sprite(spriteSheet, "walking-west");
+                var animationE = new createjs.Sprite(spriteSheet, "walking-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":36},"animations":{"walking-north":[0,8],"walking-west":[9,17],"walking-south":[18,26],"walking-east":[27,35]}}

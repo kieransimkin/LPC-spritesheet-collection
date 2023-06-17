@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]},"frames":{"width":64,"height":64,"count":28},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1b1AAAAFVBMVEVMaXFUJC7DYHLggICuQkpsNTYAAAAi+G7eAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAzFJREFUeNrt3cGOmzAUQFE/Y/f/P7nChGRCpVGxK1wm52wqFpcg7FBmk5cSAAAAAAAAAAAAAAAAAAAAAAAAwI3Et4f/fR/x/fFP71OqX5OIenEfxz70Jxcg53jKuV7cx7EP/Tkll5yXJueSy9kFOPahv7JPKb+fIJ9dwGMfl/bxZx+f1KeUliXX7Qw517wsZzfQsT+3hfRjfUplWZZSS8m5lNoOTi/goQ/9df12gly3/0LXDdBzAfpp/fYV3psofY8A/bS+vcU+X13fDvR36FOsj994vRKWcvYC9DP79T02Xi+u28GvwT7pr+sBAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGHx4X0a/Z302b+zPvv6p9+/qPv0uqF+2iZ8XX/fVdy93+aFNL03cCBuXjPT+m7AY/ZX7hi+9wP6dWLP2AKWPLaCZa87b8Dz+j+zbyMYay39C7j3qb8vbRt23oAP77+coI4uQLYAMxZwHT5Yoy1Ajbl96DtsQ8/qNonw+j70Y/d/2wIRHfM/9f9D37ZAaQNAu9+D9RP79PgTsv8vUf3UHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmi28Pf/71371Pb7+U3vOz6e/95etX3j//7A/3371vs8Ne4+tyLqdv4Xt/egHyvnO2Kz87finy++d/Wr/e/3Vw2WOCXccMssE+jn3oTy/Ac4Bd6VuAtz70V/YprVPP2vTA9s9zluZfP8KP/bmHuH6sT6ks29i4WIf3rN/kcnoBD33or+u3HfCYeradoWMH6af1j69w7AedjwD9rH6bwLuPHWyjCM9egH5mn6J+ffFp84xDf5/+MLTu/Ag7/dweAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjH4tP7mNunm1//tH6fX1dj4LPH+v7t9xq/1/f5d+9Tm0G3GViA/n5vliX3LWCb/dUm8PV9/s37rwtYYmj9+vooeT9D6V/Aoc+/df+4eaXWnvGDzxP0923mU65R9L33v45dQLYAU/s2ti63MUw9X+HhPvQj/boAy7LUNvuszu5D3/ENboM/o3sD6Kf27RG8DnEt3RtAP7Pfh9Z1z67Tz+0BAAD4kX4DMO8lc3LFa2EAAAAASUVORK5CYII="]});
+                var animationN = new createjs.Sprite(spriteSheet, "spellcast-north");
+                var animationS = new createjs.Sprite(spriteSheet, "spellcast-south");
+                var animationW = new createjs.Sprite(spriteSheet, "spellcast-west");
+                var animationE = new createjs.Sprite(spriteSheet, "spellcast-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":28},"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]}}

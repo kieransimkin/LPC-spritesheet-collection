@@ -1,0 +1,72 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶sheep 🎬shoot": {
+				"name": "🤯👶sheep 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b6736865657020f09f8eac73686f6f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAGFBMVEVMaXG4u7z6+vqLlJgXFxrY3Nw2Nj9ITlessqS6AAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAA5ZJREFUeNrt2sGO4zgMQEGTFOX//+",
+							"OFnfRgT4uWbjuqArpvj8iFsKzkugAAAAAAAAAAAAAAAAAAAAAAAAAA/kbjQ6/X7+",
+							"RVEVG1OUKvP7qv6I+oodfrV/vIzM7M2Jmg15/e91Nndm9M0OuP7udz/vsOeM6Bc+",
+							"j1+l+q7p4V+RE1u7v0ev1vLyBiVuePrhlLVxF6/cn95xn2ngH7PQOuPsH0+rP767",
+							"kDf+Pn33MXrtfrF2/B87kJj9y5CdfrT+6va8ZzfdeffzH1ev3aTVy86TMhSq/Xr0",
+							"944tbr9ZsTXnq9fkt8//R6PQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAsGaMMfR6/WYeVbU/Qq8/up/RURE19Hr9ct9dFRE159Dr9at9ZubT59",
+							"zZQb3+5P4aT58dnTlj6PX6xQUc9ZnQ8x56vX6lr8zvCtZd648wvf7ovr/9cwiMWN",
+							"5Avf7k/hpj/izgY3kD9fqT+2vUzJzZ3359g/X6g/tr1D1n//TrZ0C9/uT+XcGnv9",
+							"9vkvR6/fIpcFTN2nuA6fWH99d11TPi/SmDXq/fmKDX67f763rfoC69Xg8AAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnGl86PX6nbwqIqo2R+j1R/",
+							"cVHY+OGnq9fnFARGZ3Z8bWBL3+6L6iurOzuyKGXq9f6WdFfc+AFTWHXq//fd9517",
+							"OBz1Os6s4eer3+9zcQkfXkj66MxZsIvf7k/n2HqvxRO2dAvf7g/hrVOSIzY2TX0O",
+							"v1axvYme8ZMPc+gF5/cH/d0X8eYR23Xq9fG/Cvl6itD6DXn9tf110RXXd1RN2h1+",
+							"sXB8zovrtj1q3X6xdFzTl7zlmh1+vX1aiqUZder99awjFG6PV6AAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP+1McbQ6/WbeVXF/gi9/ui+Iio65t",
+							"Dr9cv9nBURVd1Dr9ev7t/MZ0Jm5s4Evf7k/hoxMzv6GZBDr9evDbhnf/oaOyuo15",
+							"/cX6Pqru8CPkP0ev3SBj53EPEdsL6Dev3J/XuJF/GzgnP5NlyvP7m/xv2d0DkzZw",
+							"29Xr90BvyZ0HPe6x9Arz+4fyc83yPd7wS9Xr/1EKtZtfeTOr3+5P66vj9lGKMuvV",
+							"6/O0Gv1+9536P0ej0AAAAAAAAAAAAAAAAAAAAAAPDf/gG9p4tmdkWwsgAAAABJRU",
+							"5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

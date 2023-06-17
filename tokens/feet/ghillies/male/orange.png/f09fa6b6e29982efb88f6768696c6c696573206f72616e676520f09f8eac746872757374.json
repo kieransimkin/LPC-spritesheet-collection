@@ -1,0 +1,67 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🦶♂️ghillies orange 🎬thrust": {
+				"name": "🦶♂️ghillies orange 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac7468727",
+					"57374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAD1BMVEVMaXEwFyNfHRvXWxrvfhmV3tMZAAAAAXRSTlMAQObYZgAAAAlwSF",
+							"lzAAALEwAACxMBAJqcGAAAAplJREFUeNrt3dGO2jAQQFGP7f//5ipxYLO7qlqPkU",
+							"LEOQ8VVL0WgdnQ9mVKAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgg4X+0v7yzz",
+							"/0l/arA7U8wHXtGP1S/3t+Jifq8cfzF9Bi6Rj9Un+en0gNQP1eTd+RorWIcRWpG5",
+							"p+qT/Pz/7r86i5A+pzAuv0S6itt2dfEzOsz/fn+Yn94fQA7FWNxw2kzV/BJp/rl/",
+							"rT/HwbpfkDxg0kcwVfN698rs/2Y35+PkwccNxA0gMw8pp+A/RL/Qv+Qb/fCvIXsJ",
+							"brF/uX/JdO6g7yoly/2AMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACvN/YO1y",
+							"htPL1tfxygn+x7ibJt/z72R8dd+2N2Zk/49L5E6/vK2X0DeWL38Nv040dh+oRP74",
+							"+NsxFjkuaXD79NX6LvB8y+gR/ef5ukurK8+uL+/ldweX/75dfWh1sfDgAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAALzU1/Zs/Sd+gKft2frMux//8Vv/OOOvT+YuYK",
+							"SR356tn++j9FYi6ni2HdP67If4OOGoZwfgdAGZBfKn7dn66T5aG9ExAMfTmSO+Tn",
+							"jUJXcB+/bzsrD+XD/fR91+3p9DE7Vt94SpI75OeNTZL7Ox/Tz/Bujn+6jR++kDj9",
+							"p7n/sWOZ1w1Pm/Da7tP9cn+p9J9ohfDwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAPtrY9drKtvQ3yvzq16v7I9dn+2NXdETdtr+XHrfqH/W+vFyfeP+3cCsjot",
+							"bWe4tb9Vs9Bl+fe/9LbBvnt8lJri+/to+65z2KPrt+fjsjMznv0d/71V/fj6/f1O",
+							"C8SX/vV399D3yCP1z+DcYjPHnuAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

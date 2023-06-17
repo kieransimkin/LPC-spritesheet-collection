@@ -1,0 +1,92 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯goblin 🎬slash": {
+				"name": "🤯goblin 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af676f626c696e20f09f8eac736c617368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				]
+			}
+		}
+	}
+}

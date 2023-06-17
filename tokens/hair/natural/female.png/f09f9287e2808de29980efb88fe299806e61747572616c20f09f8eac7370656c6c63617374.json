@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀natural 🎬spellcast": {
+				"name": "💇‍♀️♀natural 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806e61747572616c20f09f8eac7370656c6c6",
+					"3617374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAGFBMVEVMaXGiJgDlVgC/QACkJgAmDRRqEQj/igABChDTAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAMtSURBVHja7d3LbtswEEBRWnzo//",
+							"+4oGhZSnZUFhOm58QxkMUdCDGVpi7QSQkAAAAAAAD4H7UP/YJ9a9u27VvunozQB/",
+							"d5731/bHsuTb9a/27H5/QEfWw/DsBtxPwF6GP7fN3A/bnMTdDH9seAHm/v5/zgAv",
+							"RxfR/wOQL9UfL0BegD+2NAPl/+PZcHJ0gf2Kdajgnvj9wnVP06faql5GPG0fbn2Q",
+							"vQR/b9BNz6knNpVb9O//0ElDJ9AfrIPtVWShlpr+cvQB/avwfctCcXoI/qv09o+s",
+							"X6LxOafr0+pVqvf1Cs+uX6Y8Qp6RfsAQAAAAAAAAAAAAAAAAAAAAAA4M/64fYtfX",
+							"S/nasnmn69vrVrfdb24BDog/vb9rP+aPq1+nNtyGf/S9Mv1B8H4LqD538O64P7PL",
+							"ae7deU3PTL9Nf2rGsL6OQF6CP71MrYu3TdwfvU8h59bJ9aGYtftjyOQN8AU/XL9O",
+							"N/TC9jyt4HTe9P04f2tyHH7rP+qPq1+u5V+yK046lU/XL9cQ5Kfb3qo1tY/wv6Pu",
+							"DYZ6dfs0+pnlP0S/bvP0/1K/dJv3YPAAAAAAAAAAAAAAAAAAAAAAAAAMAf0H64gF",
+							"Af2re2jZUTOecnI/TBfb4tsMul6VfrP7uX+uf0BH1sPw7AbcT8Behj+3zbALpv2+",
+							"TeAn1sfwz4bD7r2wcfXIA+rr8WEL4fs5tf9LF9qvmzQvL4JWj2BOhj+1TL+OvH0N",
+							"cPTl6APrRPY+nZa3zxqnX6BOlD+7H07PrqVfVr9d/XZT25AH1g7xu4+gv4fV+Wfr",
+							"HeN3D1FxAAAAAAAAAAAAAAAAAAAAAAAAAAgL+mnvRr9ufegq3q1+trfS9+6Y8Hh0",
+							"Af3F+rl8YI/ZL9+x7eZ29jfWx//fw9h+xVv1Kft+3LPbxvueqX6fvyrP3LiJwnL0",
+							"Af2ada9ts9nPvH1OoQfWyfai5jheTe225ue5Y+tj+2n/VwH22ZfTtAH9v3E9CXRo",
+							"5X/sF7OfrYPtVyLCC8byHUL9SPBZKvB2sH9b+iP45AfbS1Tv8r+rPVr9r3d8PTj+",
+							"hj+5+vHNTH9gAAAAAAAAAAAAAAAADAr/UPNyBuQdbhFfAAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

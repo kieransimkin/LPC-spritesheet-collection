@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♂️human_gaunt 🎬hurt": {
+				"name": "🤯♂️human_gaunt 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe29982efb88f68756d616e5f6761756e7420f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAIVBMVEVMaXH51bonGSDkpHyZQjzMhmX67OdXzuQqPEny9/hWhq7NWQo4AA",
+							"AAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAnVJREFUeNrtnMGSgz",
+							"AMQ9d2TKH//8E7odBieoqdSaCRLr11tnkkkgzL3x8EQRAEQRAEQRAEQRAEQRAEdR",
+							"W/hbXosvxJhYhENHkRAGFg/VNe/VUrgk4Isf4bAgeBCghHBiBE0zS9V1C5A8KhNw",
+							"BZAOXrF0c4NAC1AMrXrwLC0U8go3IAYYQAEAMQ/oahY+wlAIwcY1nt+kkHAEPH2O",
+							"3aO6xe4sYIx46xTCq0O+g0iSpxY4Q1Yux9PYRJVNPrGpSUVKUYAFkApQhrNJEbew",
+							"gT6YP5IUSSP5XKAYiaPVSIsEYTubOHMOnCzyX/9cuTl+ITaEVo9lAhwm8Tl7E8hJ",
+							"Xm+QVgnskzizvvoXILiAGQcA25ThAVbo4wCuD+o5BDihFN3nnSW8VHWFKKpKgqo5",
+							"C+KSqpyO5g7RGeU5Sow0MMALldisoEspzrH0P4FWOlsYlfIUWlTT0Qcv7ZZgMgRb",
+							"VFmLfAsUeUpqigh9w+RdXIYaZHBJu4eJr42PdU2faI6CikeRP/AQDy6RHlgwgiC4",
+							"Cap6jbK9ZEmDRwAgGAIeBKwmyHgY2b+M8Q8DcRlqOJl7cAm6LI1QRyesgKRPnbxt",
+							"jKJi7lA+FXld6uIB5y/8zzkn/+Ms/xUYg4xll7lZRBn83M+3+9/tTj4bEUdarSMu",
+							"aDadsJrC4Pj6Wos43LkCYe9JDYU02o0tEieBgGOq7fc5UWPJtZvgU+PcLxeD6aXJ",
+							"zA64aGL8KsHmwA4AjyWMjaojwmYu8nAEDIxV3bh05VurxIQKHzCwCuBUAAoHmIks",
+							"HvaXbPUAIPvg4AFOEuNSLwHy5QtSKHNwX0I8D7NBDvyuiGAG+Lubb+AQUhEyJdDS",
+							"f6AAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

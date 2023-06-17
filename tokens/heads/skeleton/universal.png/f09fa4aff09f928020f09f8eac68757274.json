@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯💀 🎬hurt": {
+				"name": "🤯💀 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f928020f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAG1BMVEVMaXH////l5scdEx6xmZjEtZ9NSl1ya349N0gPy2qeAAAAAXRSTl",
+							"MAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAp5JREFUeNrtnMFyIyEMRA0Skv",
+							"7/i7dg4jHjG9IU7JjuJK7KITnoxai7sfN6QRAEQRAEQRAEQRAEQRAEQdBS0SnMYs",
+							"n4mUsTsxcBEAbmz6XkP5XCtAjhzvPPnTwEbkC4NYA6t9TUJkgLEG7/BEjpJDA+vz",
+							"jC7QGk9CEwDOAGhAAQBhD6DQCwHsC+NvZwMN30VgDY2cYSF+5XKHsAxBHua2NJC3",
+							"M+7EtKmbkoTUa4t40lYZZjdPWxfkeTEfY2ygvgwTuE2N7Tr482foAHERLz1cbyXj",
+							"uExBKR1r9fJUomNBlhAxD1YU/eIcSZRCRnEaHssZAxhGEX9fgdQswqhaiIsq8MDS",
+							"G8AcDDqxAi5ZxEUmb1naAhhFEAP1CFVAC5rT+l+QhvAfDsJG4ikiRJFrH5CEm/g5",
+							"zOBkD0Z6LqCqc1p1AQ/wehY4d/BzmZDOCyxZ+aAwMI6TvIDZug0gMoPhe1cZtO30",
+							"FueH7cAxivQr6X+H6N7DXIDT6NahXSD5Dn75DnA8ifIJdt9AQXvu4QFgAYPoRqkG",
+							"OuQY49VUifhI0nJ/GfIKDvIKeuKqRf4tOrkJ8AUJ8A7UM8XfR1ieNOO+BiXT42U/",
+							"4s8exK4uEqw07tB+/FxLUMYa5FyHgMbkm8ywHFcwzqcSPB3jrt8UvczJjNzAOgu0",
+							"5oFwrDAMj4HaYLs21J4GxjHV2UXi90ho0A2bXLMOyQsR8VPbu4On+hwGsD8cpAjw",
+							"VT/dwpqw4bMXQZcROsbYe38cvsCw3oRVYRNIn5Xp4PAEEC9VJKRMxc708BgKgiOQ",
+							"oAblE9/VV9HhhvkFh7fr2j9PHli9JQBEA4SkMxANEoDQVT+BGlc/v0RGlocZSGbo",
+							"nSR5OkgvkvOYXOKI3zZxmCKox/IQL8s5j/Wv8AOeAZI0oalw8AAAAASUVORK5CYI",
+							"I="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "skeleton"
+			}
+		}
+	}
+}

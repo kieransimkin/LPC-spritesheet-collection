@@ -1,0 +1,67 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯pig 🎬spellcast": {
+				"name": "🤯pig 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af70696720f09f8eac7370656c6c63617374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAGFBMVEVMaXH51boiISHMhmXkpHyZQjz67OdjWlfEvjeAAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAvRJREFUeNrt3dFu4jAQQFF7xob//+",
+							"OVE8JSpH1IkNa4OuehTR/uKCKhpa3ElAIAAAAAAAAAAPD1Yjg+/z3SL9KXqLX2KJ",
+							"Gt1toySvRaa+gX6UvkNmFU9XmUoV+k3y/4dvl3bR+oX6TfboGs9facUPPUDaCf3J",
+							"fo2ertdnu5B87dAPqpfSkxnr8vd0Bt+pX6fUD98AT003oPoAuodwH1H1zA/DmhZe",
+							"gX6t8n6FfrS+nZjhGtZdcv1o8J2XapX7AvpeSh6FfsAQAAAAAAAAAAAAAAAAAAAA",
+							"AAAACAbxOhX7Tftw/2Gvo1+9zWFWS7OEE/vb/dxu7Bdm2CfnLfx/6zGr1nXhmgn9",
+							"3nc3HdlQH6uf1YHNIurh7Uf0df44O1L/qpfWwvgOK5v/XsLaCf27/vPjt9C+jn9m",
+							"8D2ocnoP/ffYm8/+hPn4B+al/ifm9/+3Z6+ZJ+br/9FN1fxTb9iv0+4rG+Tr9iv4",
+							"3om6JfsgcAAAAAAAAAAAAAAAAAAAAAAAAA4BcZa7Pevgz9On0ZOwvin1/qv70vkX",
+							"0k+wa70fdz75yun9tv7/ebdVsgUjNq9t5Dv04/tmeNCbdj94t+sf7YX/eY0PQr9v",
+							"W4Ay5M0M/tt/1nH+1v0k/tPYDrX8Dxq8fxKmh80K/Ul9cVhNdPQD+r3wfUmpmPg9",
+							"Cv1D++B+9P4evfw/Wz+lJ6tpb13tq9jqOuX6sfE7K3MaCNI/1qfSnjjznbAruLO9",
+							"D0c/ttxPghen2FnX5uv98FH20g1M/tAQAAAAAAAAAAAAAAAAAAAAAAAAD4VSL0S/",
+							"e1x/nlkfrv6VtGu7K0QP8lfevR6+12bYJ+bl+ijjfcjjHgwv46/ex+DOjHDq28ME",
+							"E/tx9LCI++tStPYv3c/mWHXVxZ3qOf3fes9XUBWuhX6t+XSNYW+pX6MaB9eAL6iX",
+							"2J/DHhfn4Fnn5mX8oY8JzQ7vfQL9U/JrTjdax+tf6Y0DKv5frJ/WP/We/X/62hn9",
+							"sDAAAAAAAAAAAAAMBv9wcSuD6Kb9WWGQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀mohawk 🎬walking": {
+				"name": "💇‍♀️♀mohawk 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806d6f6861776b20f09f8eac77616c6b696e6",
+					"7/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9D",
+							"n1AAAAElBMVEVMaXFqKF6cWZHMoMUwByf6+PkIXndvAAAAAXRSTlMAQObYZgAAAA",
+							"lwSFlzAAALEwAACxMBAJqcGAAAAvdJREFUeNrt3VFu3DAMBFCRlO5/5SLJDXYKqG",
+							"re+x+LIxmOdxFg1wIAAAAAAHhWPZ7X/+r6Vb1fzqcboH+8/ul6OB9vgP4dPoN6+u",
+							"V8vAH6Z/NXnf1yPj4A/cNH2Ew9nU8PUP/0Nfr0y/l4A/TP5l9T83Q+3QD9s/VXnX",
+							"o6nx+A/tkFet7Opweof3YD7c5u4dv5dAP0Dx9hu87b+fQA9c+eQCt+ibqbjzdA/9",
+							"99A8nP7RuoH8+P/jfXf/7/GeID0P93K/0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAPiX9S+fX/8s3b32uwXS+fVP8r16dnd1vVkgnV//MD91pk+frv1igXR+/bN87T",
+							"lnzsxUVb1XIJ1f/7D/rq/46emqTxrcLpDOr3+WnzXTU137wwfw5QLp/Ppn+Vrf8f",
+							"3x++PlAun8+of916rp4OPH/QLZ/Pqn+dU1Uf52gXR+/dN8dv/dLpDOr3/YP0vfL5",
+							"DOr/9lzxfQHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP/bfjyv/+X16/H81v",
+							"/u+r2fzqcboH+y/q7dyY9P386nG6B/uv7uPtEEd/PxBuifrb93T596NZ9ugP7h/N",
+							"VdPR9PcDufboD+4fpr75rqmUfzf+EA9E/m/57h1Lv5fAP0z+b/+iN65uF8vAH6n/",
+							"AGqn47nx6g/tn3SKvP0/l4A/QPb6A6b+f76H9z/dWP5+MD0D9zHs+3/lfXf97RHw",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODv6l8+v/6Rvbqza9wtkM6vf5avru",
+							"49n1/jcoF0fv2z/K4+fXpOTb9YIJ1f/yxfVTUzZ86ZXe8VSOfXP+5f1dPn6xK13y",
+							"uQzq9/lv8psatrembNkwWS+fXP8z/X+L7EqkcLRPPrH+e/3+V6ar1bIJtf/zS/Vk",
+							"31xQHiAuH8+of5n8+TLxcI59e/K/5Kvh4vUPpfza/12wvoDwAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAMC/5A8jwhh5eAAGTQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

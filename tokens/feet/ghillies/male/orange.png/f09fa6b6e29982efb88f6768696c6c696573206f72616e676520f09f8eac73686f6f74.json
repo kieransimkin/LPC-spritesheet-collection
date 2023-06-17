@@ -1,0 +1,70 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🦶♂️ghillies orange 🎬shoot": {
+				"name": "🦶♂️ghillies orange 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac73686f6",
+					"f74/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAElBMVEVMaXEwFyNfHRvXWxrvfhknGSC6pPHCAAAAAXRSTlMAQObYZgAAAA",
+							"lwSFlzAAALEwAACxMBAJqcGAAAAzVJREFUeNrt2M1uIjsQgFFX2ff9X/mq/wjJrs",
+							"sMYOmcxYgsvkqDXLGY1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAIA1xacH6PUr7098eIBe/8L9i3cvcOTklHOAXv+J/u/+3d7H6QXu8T",
+							"QlqgPqW6jXT/Q/F0AUF+j3DXK/7z3i8SaiOGDqA9Tr6wv0uAD2KU/reHfAuYB5fw",
+							"P76PmzQKUBM7ehXl/vfy6A2F/08g1yLOD9DWyxeVyAxQHV+0uvn+sfF8Cvm6Aw4F",
+							"zAXvxOdO1f5RGuukWt1uvrfVwL+HhRG3AsUlb/T+Hcv+KAR139APX6if4lorqBzx",
+							"dZccC1vdXfr9fP9N9gcv/mcr0+ll4fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAACAF4po0VpG68ePy/bnAL3+rf1o0aJn7Cc3Mlbtz9",
+							"27O0Gvn+lb9DF6ZsS2ib3fP8Df0h9/Sm5P0Otn+haXfRPz/gH+lr7F2Afc/QD1+o",
+							"n+1ybW68/3678D/eL9sYdt1X79d6Bf/QQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAADweREt9PpP9dPn9yXnP6P12rgYbeoT0Oun+t",
+							"mFGL1FZDk/nr9n7GHk/QXqY2x5FrdZr5/pn8//dor7uJX3vh3/nsX8ev7tDRyD7i",
+							"/Qbn+CyPu5Xj/RP5//1vL88caA3C6Q89gX8uv5I/ZBpU/gnNKiZS/men2tfz7/2w",
+							"b2Fm3knQExxjj7Qv7wX/YxMssfwLl+ev1b++fzv6/AGCPy5u5G1PO/V1H1m9yxfl",
+							"kdoNfX+j+nduYQz+dt8jdP/HK9/mOHFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAABoLfZ/e4vcXkes1p+5Xv+ZPnJvIrJHizZiqf",
+							"6qt1d6/bv7fUTfyojI7GP0WKrf6uMPh17//n4fkcfmXZbqI/d8HCuo17+3v2ZUNu",
+							"87+rWfXr96f3z9KC3el/RrP71+9R4A/rH/AQOoFZDzBvAlAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

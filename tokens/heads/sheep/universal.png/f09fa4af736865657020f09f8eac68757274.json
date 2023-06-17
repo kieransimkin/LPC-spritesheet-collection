@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯sheep 🎬hurt": {
+				"name": "🤯sheep 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af736865657020f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAG1BMVEVMaXH6+vq4u7zY3NyLlJgXFxpITlc2Nj8iISEJNfWAAAAAAXRSTl",
+							"MAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAqpJREFUeNrtm9uOwyAMRMN4DP",
+							"3/L16ZXJpd7QsQJYqYo2bVl7KNJ9hjoMsihBBCCCGEEEIIIYQQQgghhBBCCDEdvv",
+							"HkCFOHnwQAsjeA4yNMHX/CUDHQnxlh8vgjJTOzlNAVvzqCVTpHmD3+NEv1xZ74eY",
+							"5H/5AQWQq0RK9kgnsGJ5iL3y7hzPG3lDIjfCnSEJlTMr9bwoldlDsssYa/SsBkaI",
+							"vCBRLO7aI8g+mAzRl8XMLJXZSTlhwRPHgydhXhIQknd1GOeHzXBBIPMPxuCSd3UY",
+							"ybPzCA7SP8kZDtE2DMRZ1uICV7mwLAOYMDPSP8lvBuI+ynL2CAv08AINwLrb69Wc",
+							"JxFxUlPD6+Xi8s42CBWc5mKETfCGcJb3ZRnjO3EhJJDMz5hQqUYlZKZ/yX5SzhzU",
+							"Y4ZhCx+VgDYyx7XRmnk6TzEQmri/rWkEYXFTMIyHsNyaHCC7s5xDIAnpGwuqiTjW",
+							"10UXAif2tInnUtakDCamIOG9tsA0L6UwrjbDb2Ch82YmO3VvJkw5o78Xfb2EtcwN",
+							"nGtteQbCmvKSwny+xYibrAxuL489J2fLexHaspmd8UxubVxAtsbG2gVro6qecFGL",
+							"GxIcBpBjWG7wobu/ay6wDvVGCwE3H3XYDmPZ0LbOy6jmK2XrGe8sY5MNaJ+H7/nl",
+							"KzfRu1seT237fv8EoBBjsRhznphq5DHYM2tlbxtAqQbM6TOZ8If1yfHvFGbWxMgf",
+							"1kT0yAGTvBz7qn/+mZPWFjNwmsw8YuXuoU2HwsWHQspN3GHn0EOzbFy+8pVKADmj",
+							"f2ETSzQuzxB4uZUVFte4i/fUT7w+uF333daASUgzokOPqIZhu7bmrbLoDpaOBYH9",
+							"H16Xq+uRZhnU6+v4841vMqiv/tfcSiX6g820fsEug3WkIIIYQQ//ADvP8TV+YhU9",
+							"0AAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

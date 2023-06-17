@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯♀orc 🎬hurt": {
+				"name": "🤯♀orc 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4afe299806f726320f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAKlBMVEVMaXE5qk4oGCAigjYZVB0JMgtTv3ELFQtqSROn3bkjNir///+AgI",
+							"CrdR4hD580AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAr5JRE",
+							"FUeNrtXNluwzAMq66k3fH/vzvYabo66cNkGc5Skw/rUGDFIpoWKRu9XAAAAAAAAA",
+							"AAAAAAAAAAAEYHP4BaHFJ+UyEiETVQcED9LVU/I1MADR1W/0xBDQPQUIQAIZqm6c",
+							"GA8jEaGlcAVBLgl0ALDQ1MgJYEVEiggYYG34EKiHB3DYGAEAFxDQ2cAF4T4HIycQ",
+							"rHtbGsnNbvPM+5iJJ+kfReZwKGtbGsaiqz2uJjxExnUdO/E9BGQ+PaWBZSkSvzVY",
+							"iWV1FyrOAWGhrZxrIIidz4+0YkdPvmW6q/i4CohtrY2NP2EGZSUdWFAFUVJW8Ljm",
+							"moSRQ8cQ9huW8Aqsvzm6+FhjXUwMaeuocwpxW4PED6aV4Vt9BQzEWdvIcws3x95u",
+							"Wvn1/i30XjGooScPZRCJt+LA3sQyuH0RsNdY2C5x+FsFnuYaJmdf97qaGKKFgS4L",
+							"OxTUYhx7ooe0JnDS02dkuAy8a+RxIPVP/+5w8NVUTB+TnIzV4b22Ce+w5JvJLCxc",
+							"Y+BzmXjW0xChn8QCnb2CLIeWxsgx6yZXC4aXqysUWOMPcoJNZDbCug0Q6UVhur6r",
+							"exLXoIDpQ2NrZiFFLdQ9YdqCBAxiMgEAVjPQQEPDzUamM795AWB0rvQkFtEon0EC",
+							"a2vYsyJnYvoIxAljp1Fw/0EKKNi0rnGeSdCJtKxqBXMwM9hCk18ZIAEh8BbOsnyL",
+							"BXMyM9ZEuAs4lf7DlJi8iY21B9D2HRchShFecRBQO4l+ZkYEsAO5nfJWlDUZ1LWA",
+							"ILeJukBVczKzSw1m+aqi6HI8jFbVRSQY2H4VcEgIGKMJdjlL905WkC7ucHKKg7EW",
+							"baJ2kCAR2Jo/15BAjo6aD2owwhtOGOBPwOIn5neSCgY/25DHL5SBoM9Gvdr29VwI",
+							"h2ThHFBoSKHJTj8EUBR+a4O7D3HJrjUP5/jB9VdxZmohsaUQAAAABJRU5ErkJggg",
+							"=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

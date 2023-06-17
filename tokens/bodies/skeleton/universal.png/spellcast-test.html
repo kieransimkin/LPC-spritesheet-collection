@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]},"frames":{"width":64,"height":64,"count":28},"images":["data:image/png;base64,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"]});
+                var animationN = new createjs.Sprite(spriteSheet, "spellcast-north");
+                var animationS = new createjs.Sprite(spriteSheet, "spellcast-south");
+                var animationW = new createjs.Sprite(spriteSheet, "spellcast-west");
+                var animationE = new createjs.Sprite(spriteSheet, "spellcast-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":28},"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]}}

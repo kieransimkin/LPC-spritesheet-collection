@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯👶rat 🎬hurt": {
+				"name": "🤯👶rat 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4aff09f91b672617420f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJFBMVEVMaXEPDxHY3Ny4u7yLlJj6+vpVWF/Ws528i20XFxpITlc2Nj+dET",
+							"XAAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAr5JREFUeNrtms",
+							"luwzAMRMNFa///fwtRSpMA7aEkIMPQzCm58MBnLkP78YAgCIIgCIIgCIIgCIIgCI",
+							"IgCIIgCIIgCIKgfSKiX39Dm/IvrM+sk7IQCO7Of5FFgFTK/wnECZ4NgEsprDSk9p",
+							"tcBKdcBAGgVFYRUa4eAJOgBXARPL4F1VKrCrOI1lqqkIugBXARBIHx+HJKbI+wYw",
+							"QYQQvgIggC2fKfErNoJidBC+AiCADKln+rAQeAF8HkIwgAK/+JkypdEOB4AJJopJ",
+							"DJCyAYAACIbIYSuTpIMMDxRpqyiDCPCeBr4bEA00ibjTvUSJMNUbYdKHuewFCAZa",
+							"TNx51qpCm/Eki7AywjPY2gy0hb25oVdNcWRnlkUHP27pCBAMtI2wjxnUJGC1sVdN",
+							"sWNnpIiezw/gDLSNsS6zHSs4Vlq6B83xZGWkuNbJD+AC8jnTxGerWweQm57y2QNN",
+							"ccA+AOEDPSq4XNU4r/FrhmyKUEYhbKH4DW8+8z0m8tLPlvgWuGXLuM0kUBppHmaa",
+							"QdUzzWwubDv2YInWoEiWyJ9Tnx4C1wAMxrhmQYQccTOCqIrYI4uYx4EV0zBEbQeQ",
+							"kJVNDaouYMCW1Rqtr7bQkEjGCsguYQXzPE/0Kv9d7VEHydZwRjFWRDfM0Q9wu9Nr",
+							"JvnyX03s4zgsEKMnz+V7Lz+R/pH9L+1W4JIGQEQxVEOTLEnwUwSnARuGkJ5GsuIT",
+							"ZDfoa46xz/aKqjexkC7XJTAiELFKqg8Dm+abf0zyLoeksAV1ZQ9BzfujC/ETgRQK",
+							"yCxgwR/zm+6TsAPbICwgUkxX+Ma13nEJ9DoAHA5jV4TOHnp4XaUQC+JlT97wNbmx",
+							"/X8lpDQWDvDGlVe5f5WY5o71pBYKdaLaPzTBemXVUKCGwFUCzzbcpOQgUAdgP4Sf",
+							"nnP2gPgfKW8c9/0BYCH3tP+2ML+gajGhZCt7gB7QAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "child"
+			}
+		}
+	}
+}

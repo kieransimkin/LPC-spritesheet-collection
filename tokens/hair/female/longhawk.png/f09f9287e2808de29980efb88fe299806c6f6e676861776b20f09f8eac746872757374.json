@@ -1,0 +1,72 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♀longhawk 🎬thrust": {
+				"name": "💇‍♀️♀longhawk 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe299806c6f6e676861776b20f09f8eac746872757",
+					"374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAANkSURBVHja7d1RcuM4DAVAGiSt+9",
+							"94S97aCwiqxWDY/f9o4RnKjJNUNAYAAAAAAAAA/M8iojSvv6h9+e+eK8ryf8AGpv",
+							"LF/aXrj+/3mhGzKl+/gbl8cX/p+uN7XRErcQG5fP0G5vLF/aXrj33dN8Dz+ZP5+g",
+							"3M5Yv7y9c/Z+zfAbMmX76ByXxxf/n67wOue/9nSb5+A3P54v7y9ce6t38+/wqYzJ",
+							"dvYPYdqO0vX/+KPe8D5uMLSOXrNzCXL+7vlfpXzLuAxzdAKl++gfl3oLK/N+pfsX",
+							"amvlS+fgNz+eL+8vX/vgky5/MNyuarN/CFDS7tL/3yv49BK/dtnGy+tsF8vra/7M",
+							"uPsXaMzAHZfP0G5vLF/aXrvz8HjyjMl29gMl/cX7r+MdcozZdvYPYdqO0vXf9YUZ",
+							"sv38Bkvri/dP0jivPlG5jMF/f3F/wmTnTfYAAAAAAAAAAAAAAAAAAAAAAAAAAAAK",
+							"C9mHE/tubQfPfp0ydEzD3X3E//bnnvfPfpX7iCufbea+4j892nf+EKfgsUEfE5MN",
+							"99+heuYO+5Ij6fhxfQO999+heuYN3b8/wCeue7T//CFWT3r3W++/SvXEHy42PnfP",
+							"fpXznh6Hz/x0V54BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0cD9/Og7On/",
+							"3+fT5rf/d6fEL3fPcFzvf3+Xz2dR9xZL77AufnX+v6rucntM93vwGS899XsK/9Oy",
+							"FOzHdf4HR/9z9B95egdT1eod757jdAvr9/T4jru2Ycme9+A6T7GyPmXjtxQPN89x",
+							"sg3d8Ya+71jfl4B5vnu98A6f5GrB1XrFiH5rvfANn57x2Ma0U8v4Le+e4LnO5vjB",
+							"V7jXFsvvsNkO7vt4NjnJvvfgNk5x9jzjg5332B0/2NlTyge777DZCdfyT+B/lX5L",
+							"svcHb+kf2Jevt89xsg+xsRx+e7L/Dg6AUGAAAAAAAAAAAAAAAAAAAAAAAAAAAAWr",
+							"qfVBWJv1TfPd99gvSrrz3X3DPizHz3CV6Yf8+190489LJ3vvsE6fk/ERG/FYoj89",
+							"0nyM9/P8A+Ys2948x89wny8/97xHz+8Oru+e4T5Of/b4vi1Hz3CfLz/5z+5MDuE+",
+							"TnPz3ffQLPnQIAAAAAAAAAAAAAAAAAAAAAAAAA+LP9AxY3J2Fu++ynAAAAAElFTk",
+							"SuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

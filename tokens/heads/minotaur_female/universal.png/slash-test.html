@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]},"frames":{"width":64,"height":64,"count":24},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqVFVAAAAJFBMVEVMaXFmOhqXX0M6IA64h1EiISHPe0mePjf91beCfHzv6efSzcv41X+bAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABSJJREFUeNrt3duOo0oMRmFcDkkf3v99tygg2XNJLYQ7yvqkUU9f/K7CVCZ90JhpkiRJkiRJkiRJkiRJ+jjz5nMvgBZA+XmOW2ut3WJ0A3D7/OrhBdACIL9cd4u4dRFtpA9w+yyOL4AWgPlst1uL1pZ0a7F8lhcuz+8/vQBcgOUzs7UW0br+MTOv2z5vH74AWABvYIqMVzwyrrx+vnt6AWcUgPmM3oUuM/Li5XH78AXgAjCf+f94Xr48bR++AN4Bln/z5d//Bkyv9JKf3u4G0AvgBVg+/43ndPkNxO3DF8AK0Pz+Hri+D169fdw+fAG8wHn5iu3j9uEL4AXwBpjTbmDJ7iVJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJehs5OK7tT6xeGz+jd5nLzNrIqvaj1Wvjp/Qu99nNWXEG4Oq1cd67XqPdNoNTC8kZgKvXxnF+rRF9cnafoN3y4jMAV6+N4/zrJu5j845XOeMIwtXL4jj/rBFdW+ZoHzzI+AjC1SvjOL8WedaIyOPvpvQIwtVL4zi/FlmeoBDzz/fvVujaM4RWL47j/HYTl7n98/y9drFdfQTh6oVxnN9rtHhq7egrgL1+2Oq1cZzf+vdvkTj8ABtwBuDqtXGc7zUe99v27JBu4AFC4AzA1WvjOL8WuX99vYocf4ATPIJw9dI4zm93MR/3rUYf43/pGWCrF8dx/lnlHm3/AiYvPgNo9eo4zj9/jhltq3F0ej8/A2T18jjO7++j/SZOl79+8OrlcZx/3scEvweAZ+DjfxdG794pZ0DvfAYkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZI+0TzX5j+8BfPcWmX+D/SvqgVzF3322Pr3a/NnvYBA/0pb0Ccfxj6Bvk9CPz45EeRPOH20f6UtyNsybC/67PNlBOXy2ZHlaf6EFxDvX2kLMlsfuXrbZ4C2YwOYYJ6/gPARqG7B8gSS/RkMQ/PHSJ53j19/cQvW9PMIDq4+nD+he7x/tS2YMuZXeo6Bh2CgPO4e719xCzJ+t3jE/DuyOsrj7vH+FbcgI37mNT3/xMjqKI+7x/v3B1ow97e/5ePQg5BIHneP96++Bdvs7cHHoLA87x7vX3ELpv1tsA1fP8nj7vH+1bfg+Y8weBreaJ53j/evuAX9+9H1WXiD14/yuHu8f+UtWJ4D0Nr9Mbo6yvPu8f5Vt+D+9XVf/oyuzvK4e7x/xS3Ix/1xvz/I7Sd53D3ev+IWZIvH4/GI4QeysjzuHu9feQva+jTIaXz7II+7x/tX3YIpz3gYSJZ1j/evuAXFePfe+/r/wB2we5IkSZIkSZIkSZIkSZIkSZIkSZIkSZLeT/3/lMY7KC+AxjXEMrGq8hbgHZQXIPncZ1Zl1fnBOygvAPL5HFnVouT+8x2UFyD5bH1ydp+gHQX3/4QdlBcg+Ww9uaZLzg/eQXkBku9jO9eBPRGDd4CdH7yD8gIov47qiXimLz8/eAflBVh+C/5+/8x9gurY7Gl8APEOKgugfLa1d9/z3GcIFxxAvIPqAiifsaW7NrJ9fH7gDsoLoHy2+Dd8/EFG+PzAHZQXYPnla5hXtrXb0QGe/ADiHVQXYPnch8ev4cMjbM94DbEd1Bdg+WytbW+jfYTz4+oTjHdQX4DlM/cvZVrcj2+eH0C8g/oCLL88QKqnl5+nDX0vDA8g3kF9AbyB7aFqbfCnQfAA4h38kQIsD36mf8L9nz7+92IcPoDCd8Ap3JIkSZIkSZIkSZIkSZI+xX/SmkJ57MViHQAAAABJRU5ErkJggg=="]});
+                var animationN = new createjs.Sprite(spriteSheet, "slash-north");
+                var animationS = new createjs.Sprite(spriteSheet, "slash-south");
+                var animationW = new createjs.Sprite(spriteSheet, "slash-west");
+                var animationE = new createjs.Sprite(spriteSheet, "slash-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":24},"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]}}

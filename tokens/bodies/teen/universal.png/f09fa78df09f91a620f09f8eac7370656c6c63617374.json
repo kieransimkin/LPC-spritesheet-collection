@@ -1,0 +1,126 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🧍👦 🎬spellcast": {
+				"name": "🧍👦 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa78df09f91a620f09f8eac7370656c6c63617374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"28/gPVs4xxePiuFgAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "teen"
+			}
+		}
+	}
+}

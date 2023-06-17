@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]},"frames":{"width":64,"height":64,"count":28},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1b1AAAAGFBMVEVMaXGiJgAAAABqEQikJgAmDRTlVgC/QADT4/9fAAAAA3RSTlMAnHB3h3D0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrElEQVR42u3dy27bMBBAUb71/39cUJTTJO3GUlF2inMWeSzugJBkO1lNSgAAAAAAAHBPvehD9rW2o53ujdBv7lsb03Fzgn5zf5z5aONotfauj9X30sZ69bZaa+ul6yP1qee+3oHPCf39A+j39iXn3l4fobXn8t4E/d7+HJB7X3/F9p7vHEC/r18D5ohp/nTnAPpt/WvAT/cOoN/Uu4BuoH7rDUylfOuLPlL/bUB5eAD93+6/TtDH6+eEa0bRR+zXhBd9vP7zCH3I/jUh6YP2AAAAAAAAAAAAAAAAAAAAAAAAAP+e+nj7mX5jX2tr7TjW7qyqD9ev/Fjrz1rVx+pTPY7Vrw12R9WH6ucTMF++o425BW28vcBOv7dPdfbH0erantVz10fqU5+PQLuWZ831S0UfqZ8TVruWZ70/QL+3T2m283u+OUC/t3/JDwfo9/YuYPQb+KdewvpN/RwwvxZ9zD6l2acH+0P0e/vl6QD93j7pY/cAAAAAAAAAAAAAAAAAAAAAAAAAAMB2Dzfg6bf2ta4VWnN7jz5g367lZzcn6Df3Kx/HmP3b28/0m/te2ljrP+cKrdZL10fqU8+9Ha8Jc4NW10fqU8m5997O/a139tfp9/ZzwLUC7Xz7vXMA/cb+GvDh5gH0u3oX0A3Uu4H6Jzfw6+/vH0C/s/91W1bRR+oBAAAAAAAAAAAAAAAAAAAAAAAAAACAT+rDBXj6nf3cXzdXv6wNPvp4/azHOAe0VvXB+uPMRxvXCi19qL7XOs4JdaxHoeoj9annPD88z5vf+vtvwvq9/Vz9kteMc0yrXR+pvwbkucHn1t+x+r39x4C7/0Hq9/afnwB9wN4F/F9uoD7sW+i5djDrY/apnPvq9FH7a4A+av98Y6R+bw8AAAAAAAAAAAAAAAAAAPzODziYQb04HLHrAAAAAElFTkSuQmCC"]});
+                var animationN = new createjs.Sprite(spriteSheet, "spellcast-north");
+                var animationS = new createjs.Sprite(spriteSheet, "spellcast-south");
+                var animationW = new createjs.Sprite(spriteSheet, "spellcast-west");
+                var animationE = new createjs.Sprite(spriteSheet, "spellcast-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":28},"animations":{"spellcast-north":[0,6],"spellcast-west":[7,13],"spellcast-south":[14,20],"spellcast-east":[21,27]}}

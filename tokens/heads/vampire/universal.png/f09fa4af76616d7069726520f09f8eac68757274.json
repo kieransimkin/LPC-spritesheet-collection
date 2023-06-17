@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯vampire 🎬hurt": {
+				"name": "🤯vampire 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af76616d7069726520f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJ1BMVEVMaXH51bonGSDkpHzMhmWZQjz67Of///+AgIBXzuQqPEny9/hWhq",
+							"54ob6tAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAApRJREFUeN",
+							"rtnMFywjAMRJFWJjTp/39vx4FQnJ4sZeyk3j20Nwb04uyuY7jdKIqiKIqiKIqiKI",
+							"qiKIqiKKqr9C3Oosv4k0FEAEteBEQYmH/K01+1IuiEkPN/IXAQOADhyAAgcr/f3x",
+							"M07YBw6AUgJYD6+cURDg3ASgD18zsA4eh3oEL1AMIICSAGIPwKQ8fYUwAYOcaqlf",
+							"NDBwBDx9jXtfcxvaSNEY4dY1UMsjno/Q4z0cYIj4ix1/UQFZil5zWIlMxQDUBKAL",
+							"UIj2giF/YQFbEv1S+IIP83qQcAK9ZQJcIjmsiVPUTFFv1e8rtfvnWpvgOtCIs1VI",
+							"nwr4ljLA9Rk3l+Aphn8ezF7ddQvQXEACBcQ84TRKHNEUYBXH8rJBnSw8zskWDJu5",
+							"/0VvUtLJlEUtQhWyF9U1Qymx7AYzLX/IMI9ykK5vCQAgAul6KSTQAwOecfQ/gnxq",
+							"KxiZ8hRaWXeiDU/LGLBcAU1RZhXgKfPaI2RQU95PIp6ogcVvSIYBOHp4mP/UxVyx",
+							"4R3Qpp3sT/AQD89oj6jQiREoA0T1GX18d+KlwxKnAHIoAnga1HeJKwlpuBjZv4fy",
+							"Hw6hGuGIVPE69vAWWKElcTyOkhKxDlOxOYcoidXG//WBNH/Ybws0qvGvNsZrJ5Xv",
+							"LHX+Y5vhUCx3bWViUx6NnMvP7X68+1FRJLUbsqjTEPpqXNxD0eHktRexvHkCZ+20",
+							"zc5yGxU02s0lnT+48jRSFy/e6rNHg2s34J/PYIx/F8Nrk4gZwivU8DVg8uAPB4uM",
+							"PEp2zik8vE065LE4APgfeJVJmiMgAhgKb3LwI4FwAQQPMQhcGfaXbPUKAHnwcAv6",
+							"TYpUYEvuFCHVbk+EsB/QjodjCKv5XRDQF/Lebc+gHPdBRbTIlnoAAAAABJRU5Erk",
+							"Jggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

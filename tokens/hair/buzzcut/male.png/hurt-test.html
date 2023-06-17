@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"hurt":[0,5]},"frames":{"width":64,"height":64,"count":6},"images":["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhlCNAAAAGFBMVEVMaXG/QACkJgBqEQgmDRTlVgD/igAnGSC6Ly7rAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAf1JREFUeNrtnEFuwzAMBEMydP//48K2bCspGlSiIRbQ7C3XHYtcboE+HgghhBBCCCGEEEIIITS7nqfwIsV+EREVVdVeBCAM+L/bfyJIQjivVu9dfHVwUwrCiWWi7osUdfkXRzjzAFrdW9xdxPcP2J7jEc4OYP98ywhpBXADwrlH0O7+MUJMbThCdrAfBq7u2XCEc48gk2Jf+X7bAcQRTn1HWBke5w5t3gFxhNcdYTYdAhOR65dI+wCJI6zvCJtug8jHnyMQqizVHdEzwSavQoII1ztiqVJU+xOgCgleIlqnqPYhRBUSBKAi6x13pKjmJ0AVEr5ELv+3J0AVMhiA1zmq9QVQhdxxi5+Lu73KuKUKmTpF6Vtsah5B4Spk8hT1Y2la+wsKVSGkqFiKClchpKhomRKrQrYUJaSoAIBQFbItcSFFpVUhKwBf/MxRAMgYYcsxg7YlgicZh6BfOwRPhh+CLvUIwpOMFOXnIdAHYI+wwOtLUS8x1Lrth0AXAK3d7/NQFQKxJ3BVET1/EtWrCYRA9xMoC8C++vzX4A6ZGsA1P6wXAGVShMCvP/44wt7KJJ5AwgR7KZMgMFKUSf/hkqNMSu0yKJOSAVAmpb+AG8okFLmk6xhKCMqYQVWZhP8pAEJlErrjCXCFJRKoyiTcSDmHrYgjOA0B/ywGoQ/6BqJ6Czm1g3egAAAAAElFTkSuQmCC"]});
+                var animationN = new createjs.Sprite(spriteSheet, "hurt-north");
+                var animationS = new createjs.Sprite(spriteSheet, "hurt-south");
+                var animationW = new createjs.Sprite(spriteSheet, "hurt-west");
+                var animationE = new createjs.Sprite(spriteSheet, "hurt-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":6},"animations":{"hurt":[0,5]}}

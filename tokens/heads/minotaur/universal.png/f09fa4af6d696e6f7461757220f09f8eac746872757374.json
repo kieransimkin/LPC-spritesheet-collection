@@ -1,0 +1,90 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯minotaur 🎬thrust": {
+				"name": "🤯minotaur 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af6d696e6f7461757220f09f8eac746872757374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAJ1BMVEVMaXFmOhoiISGXX0M6IA7Pe0m4h1HnqoOePjf91beCfHzv6efSzc",
+							"uzsAcPAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABy9JREFUeN",
+							"rtne1u2zgQRc0hZSkf7/+8C1JynG6C3UiXtXLNc4Bi4aBnNJcaad32x1wuAAAAAA",
+							"AAAAAAADAoEf/9+dc3cHoA7xsYc/zPD/72/RMbkAOcPoGaL+b/5neLBdT7t7OCHO",
+							"D0CdR8+fym+MGP/uYAqQ2I/ukTKPpi/m9/r1hAvX+7KsgBTp9AzZfPb4kf/vBvDZ",
+							"DagOifPoGiL+aP6fvLP+r6cgNygNMnUPPl85u/9+dHnb/cgOifPoGi3+H8vs5aLA",
+							"88f70ByT99AkVfPr9pWpZorH8ArSzLnjeIeP5qA6J/+gSKvp5/2oivnx5xfbWBHv",
+							"6pE9jBV/PP8zRNWw/LtH5+2Pn3aEDyf8MEio+gmH+e53la0jXnnK9pmernx90/uQ",
+							"HdP3kCZV/M3146OaVrI6V8exk96vpqA7p/9gSqvpi/5Os1p5yrnnOqn8ojz19uQP",
+							"XPn0DNF/OXUnLOKeVG+28p5ZH3T2xADnD6BGq+nv+SSrr7qaTLI++f3IDsnz2B+g",
+							"mq51dSa6FRSiqPPf8ODaj+yRMo+/L5lc9+efz5yw2I/ukTKPpnn59+/qM3IPod8u",
+							"d8L/Dw45Mb6OB7P0L6DfzslzPOX2pADvALJlDx5fy3LyDrl5DHD5DagOyfPYGqr+",
+							"b/VEDUDxZQG+jonzOB/fxj+VXOvv75Cc72AQAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAODZCHHlurfvnl6uENuasqNlvH339B06WKbVryvsYjTfPX",
+							"2/DlqFaYmxfPf0HSrE9LGm8lAFb989fYcK8WlNZezb+fcEvnv6DhU+TVBbZBpD+e",
+							"7pO1T4o8CRGbb23dN3qFBfIbdvj0dfYr6+e/oOFbbltXVRxVprKN89fYcKbV9xSv",
+							"kasXfx8xP47un7VIi6uDbaEutDE+Tsu6fvUaHUfbXXGNR3T9+jgzpAOcU0HfrbZG",
+							"/fPX2HCm2A6vrqiL2b15/Ad0/fqYPUyPnoCdr67uk7VCgf/rq7rAzlu6fvUKHU90",
+							"eKt9f3tUgZyndP36GDXP0U8brNUBnJd0/fp4Oc0v0dkspAvnv6Dh3UP0B8LpB2Pk",
+							"HWvnv6Dh0s03VdWLtyvY7ku6fvUKFMLy/3Ankw3z19hwplKcu0+W2H/VC+e/pOFa",
+							"aUq70ylu+evkuFUlLe/COr67199/RdKuQ2QJejePvu6btUOPbqeBLfPX2PCgAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPCL+feOgb07B9z94e/fHP/zg+",
+							"f23Qe4+/ntrODuuw+wnv/rmrHYs3nM3nd/APqf364K7r77AOv5v1szFj/fPWbvuz",
+							"8Acv7vG/hpB+6++wDr+efvC/z0/0L2vvsDIOavBb5OWyx7boC77/4ASPnrrC1LRF",
+							"s4uf6KiGXZM8HevvsAi/lbhZWIunny49MgvvsAy+d3Wz4/L1E3j8QyT/tWkD+B7/",
+							"4ASPnrS2iuxq1A9ed5HN99gOXzu711Uls+dU2399EwvvsDIJ/funmuLSC/1h20dR",
+							"N9Gcl3fwD089t2j1/XFYT107WM47sPsJz/UkpeF4/fdlDmMpLvP8Di+bUS6+Cto3",
+							"hg+Zm17/4A6OfXCny8gg7eAHff/QFQ8l9KinuB2L/B3t53H2Ax/6Wk961CSvF+5A",
+							"a4++4PgJb/UlJ6i7VAvKUjDbj77gOs5W8jGO3rZ/3veL77AMvnVztYd4+3JdQj+u",
+							"4PgJa/Vci3L6ED+u4DLJ9fLXD7ElIG9d0fACn/+veRjTF99wGWz+9Slqn+Y8S0lE",
+							"F99wdAzH8p08vLVH+VQX33ARbz1waWaVqUAN6+/wBL+S8lp2VZlpTLoL77AIv5W4",
+							"X2D1GD+u4DLJ9f/ReJyrC++wMgn9/wuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAADAKe/cNPZvvnkCw19WFdY9lDOm7JxCvHtu20mgLzMbz3RPIV6/r6p",
+							"p38PrmvnuCfldfK8RgvnsCOX/c/bbNOAbz3RPI+ePTtuqj8+vsuyeQ8/8xQUfaN/",
+							"fdE8j57wXqt0nlBebpuyeQ829WKWX38vmn8N0TyPnXHfYRdWPJdHB+nX33BHL+Ok",
+							"G1RrTFZeP57gm65Y+2tqiM57sn6JA/Ypra6rpja4vcffcEcv6SrxHb8vpDi+/Mff",
+							"cEHa7eNte3JdbHrm/tuyfQr55vfqtQBvPdE8j5y6q+v75F22BZBvPdE8j5yzY/rx",
+							"Fth20uY/nuCeT8Jd3fICnl3RXcffcEcv6S058Fdr5F3H33BD3y1z8/3vycrzsXGL",
+							"r77gn65M/3ArtXmLr77gl65M+5lK3CtJT9E+TtuyfokH8jpZymAX33BHr+lLYKOR",
+							"3aYOnuuyfQ82+DVN8h4/ruCXrk1zbYuvvuCdhADAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAPBs/AMgA7FRVSbNHQAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				]
+			}
+		}
+	}
+}

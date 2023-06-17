@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🤯mouse 🎬hurt": {
+				"name": "🤯mouse 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa4af6d6f75736520f09f8eac68757274/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAJFBMVEVMaXHY3NwPDxG4u7yLlJhVWF/Ws528i20XFxr6+vpITlc2Nj84P/",
+							"GMAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAydJREFUeNrtW8",
+							"typDAMjF7G2P//v1uWMTCpzcHylglr9WXKh1AzalrqFuTry+FwOBwOh8PhcDgcDo",
+							"fD4XA4HA7HqkBE/OnkmFB/AiD8+8kxof4QQjhrjqRHHNGQi6jv/g8hBGklR5By7t",
+							"PAN9W4iLoFEORSgBLQJYFPDRlFtDwBrAVD7ifgm4ZsIlq5BW0hhE1ISucWEj32VO",
+							"+bhkwiWpyBbdsyEQAQcy4nQpOGKtgJ6GSAmSUT7MpAFmZGm4aowCKi5YOYZKZ93w",
+							"GoMNDrIauGRDUEhYJuETkFQlDqX+onaNNQuwSR9IrIY0TmvdYfduBsWmYIQyOApU",
+							"9EHiNQeMfaQHBnMf14ZKgUFg77ZojHCGRGLC2cCLFzBA9z6DFC715uI5TNBNw4FF",
+							"OMUBNriRGvnyEoR/1rB7cRcOMQLAQwqos1xIj/YIZkZq4EMFuG8AiHV4zQP+6PEe",
+							"cMaQp64Qw5y2cVQLWiJ4e9Qa7GiOZi+2JEmyFyKEheOUOQWb8+2SbAGIcfMQJ6Y8",
+							"TVwqoFeOkmJDNTCGRsQCcDymG3ho4YcaAzRlwtTAl87SYkq/Ilj/WxwqGlh90JgM",
+							"4rDLawX8RA2cmN7ZTKT8e5MeLWwg4P0L0J+T0MjNVfy2jN0QJXjADBiS3sCg54+3",
+							"yGgTx6BRSrhxpMIiMtrAWHw0W9exdlvnXsLrYp6GphnQpqOeLwcIs+0h5MIvZNyL",
+							"WLYh3ivOoj7QEXO5gDNUdswoeNZbWxCz5RHXGxYznwsLG6CtEcYbaxzCm9mAG7ix",
+							"3Mgf/GxsaUEhcK8os1YN1EjSlo1MYe9eeyzykMxPcyIPiMglDgBrHd/6wmgDjl9z",
+							"KADylIFVBnSH+OaAKglmPeK4HnFIR3G2upv66TDwZoXQaGJsjIE5F4Jnm9xKoEPJ",
+							"dDYqJrhqyrgOdySOQ7Aa6A6TkkJn0xrT6RSNEJmJ5DIpe3C/cdmJMLYL6LUhda32",
+							"+GhX3oYy4qckpJ3/AvJjS5BiYjln9t4VRdlK4kwBmYW399oycq6hs+zsB0AlrJP0",
+							"8OJ8AJcExh4IMAr/9sBuAq+cfBMYmB+/Yh/rCK+APfLRptjczGKAAAAABJRU5Erk",
+							"Jggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				]
+			}
+		}
+	}
+}

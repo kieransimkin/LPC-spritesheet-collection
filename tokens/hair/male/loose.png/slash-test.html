@@ -1,0 +1,42 @@
+
+        <html>
+            <head>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/EaselJS/1.0.2/easeljs.min.js" integrity="sha512-LFVrDRb8AtfnlgyB/CDam6ESv7P88EdiUApUYYOv8T7/RT5M05ogumlzPegCPqHk/SqeBjW/0F/FbbyBenCkKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            </head>
+            <body style="background-color:green">
+                
+                <canvas id="testCanvas" width="500" height="300" />
+
+                <script>
+                var stage = new createjs.Stage(document.getElementById("testCanvas"));
+                var spriteSheet = new createjs.SpriteSheet({"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]},"frames":{"width":64,"height":64,"count":24},"images":["data:image/png;base64,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"]});
+                var animationN = new createjs.Sprite(spriteSheet, "slash-north");
+                var animationS = new createjs.Sprite(spriteSheet, "slash-south");
+                var animationW = new createjs.Sprite(spriteSheet, "slash-west");
+                var animationE = new createjs.Sprite(spriteSheet, "slash-east");
+                animationS.x=0;
+                animationS.y=0;
+                animationS.scale=2;
+                animationS.framerate=7;
+                animationN.x=128;
+                animationN.y=0;
+                animationN.scale=2;
+                animationN.framerate=7;
+                animationW.x=256;
+                animationW.y=0;
+                animationW.scale=2;
+                animationW.framerate=7;
+                animationE.x=384;
+                animationE.y=0;
+                animationE.framerate=7;
+                animationE.scale=2;
+                stage.addChild(animationN);
+                stage.addChild(animationS);
+                stage.addChild(animationW);
+                stage.addChild(animationE);
+                createjs.Ticker.timingMode = createjs.Ticker.RAF;
+                createjs.Ticker.addEventListener("tick", stage);
+                </script>
+            </body>
+            </html>
+    {"frames":{"width":64,"height":64,"count":24},"animations":{"slash-north":[0,5],"slash-west":[6,11],"slash-south":[12,17],"slash-east":[18,23]}}
