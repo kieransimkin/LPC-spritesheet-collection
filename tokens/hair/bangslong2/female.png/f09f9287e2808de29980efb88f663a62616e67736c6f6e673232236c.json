@@ -1,0 +1,95 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:bangslong22#l": {
+				"name": "💇‍♀️♀bangslong2 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a62616e67736c6f6e673232236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAAFVBMVEVMaXEmDRSkJgBqEQi/QADlVgD/igAt0dfIAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAB+5JREFUeNrtne1u5DYMRUWK8vs/ckHZM9",
+							"uZoj/kI5gJ9p5iiwTI5cc1YztOQLcmhBBCCCGEEEIIIYQQolnv9nc3QAMQvVk377",
+							"2bVZVP5bQBGgDpzbq7R++3C4Dlb+ieNUADML31nnL37tOFp8vn9uEGYACmtykOD+",
+							"+RMZbzw/J32IcbQAGg3rpHRPgIj/B+Qw/TQ/twAxscIHozjzFiRAwfOYWr+WH53D",
+							"7cAAwA9W91WpAuDH80PbUPN8AdYHq7pCPDZKAR1h9MT+3DDXAHmN4iUufHjJEfht",
+							"uT6aF9uIENDhC95fUvRvgxzlEceUK2x8rn9uEGYACoN58BPI7h4/A8Ebs9mR7ahx",
+							"vY4ADRm1vP+5De8wp49OgR1p4rf4d9uAEUAOrNW5/PAaz3mHfkPRbnj6WH9uEGNj",
+							"gA9VOeZITevfuD6bF9uAEeABcwn8CkeAZYfSpJDyCtHjewIQDUpwH9/d/j6bF9uA",
+							"EcAOqvxnMA7Xwi+XR6Zh9uYIcDUH/ifsZ4tnxsH26AB8AO+tRe8v54emgfbmCDA0",
+							"Rv19P4Hrcf6KPyd9iHG0ABoH4+D55P5CMjdO9Pp2f24QZ2OAD0aUA+gJkPIucT4W",
+							"cP4A77cAMoANSnAcOjT20+EH72AGL7cAM7HCB6ax7dRx/5GGC68Gx6ah9ugDuA9N",
+							"7yp8+Y8rTAw5s/WD62DzdAA+ACem9zCOM8GXt7sn9cPW5gQwCoz4G7fh1+p32cnt",
+							"qHG+AO0AJay/s/b/nv8fQbqocNbAlA9X0a0Vsr6R/bhxvgAXABDJi+uHohhBBCCC",
+							"GEEEIIIYQQQgghhBBCCCGEEEIIIYQQQog93FzU8DOy18p3eGcGlqdz+1n2WvkO7+",
+							"y1Qfv2gSQzALPXyjd412wukI8I1sTt3f0oe618g3fX/v6Y5A7zO02AGYDZa+Xcux",
+							"lkhpiLU88oz44gzF4qx/r2WpdxbQ2ea0tWl7+zEYTZS+VYfx3EOM4ARxznuhJ7cg",
+							"Rh9ko51r9jzO3Nub/5iMXNkXQEYfZSOdZPuo8j4nDLBc4xcn2/mT01AzB7rRzrzy",
+							"Axwnx0C/cjp3npZpLOAMteLMf6K0j0XOOfS7RHvs9iyUE8Qyh7sRzrXzNs80UKng",
+							"fSFs/idAZY9mI51r+G+LqdzEhmvngA4Ayg7NVyrL/uY94f5ubyvnofwWYAZa+WY/",
+							"0V5f1RmmmL1zE6Ayh7tRzrv7iCPD8Dd7P/HDnWnxb2+WinaAbuZP8xcqx/BQEx6A",
+							"yw7MVyrD9P6L1yhlj2HfJmrUJvf87neRa3Z2cAZv+UNyiH3t3kbdp8gc79SPdG8D",
+							"N7W/+Nyoe8QTmsHh6A8xby7kX43gh+Z7/toN/8XSqSY/13kLZuARzB/2T/VXKs/7",
+							"KwdIZ+oxzrv04iJTOEshfLsf7/fqZ6egY2tFArb4V/U1hfgtABEEIIIYQQQgghhB",
+							"BCCCGEEEIIIYQQQgghhBBCCCGEEEKISuykTP+XW3AuP/fbK/Cp/gf4V2lBbn9+bT",
+							"+v0O/4BoL+lVpwac/153c2uEP9hm8g7F+lBbln79p+Hrl7e3ntIdRv+AbC/pVaYO",
+							"4ew8f8d3awegCZnn8D4RGotCBXfZ7iI47cvr1oAtdD93b4V2dBLp/PhcMxRkqPIz",
+							"9eqJ/quXvYv2oLzGKkPsUZIjehL61PZ3o6fRtGoNgC8xE2Ri5BzxEch41jbYKBfo",
+							"N73L9iCzzCsuRUz0bMx7E0wUxP3dvhX50FWbtbH/kemMMt958PN3Nb6J3ouXvYv2",
+							"oL8h1UYT0Xz6cs5Uvbh6GeTt+GEai2oJlnufMlDFm4rZ8Bbus3uMf7r7XgvBL2+Q",
+							"aA+f+2/kiG6De4x/2rteC1bc/C3o/FFstHeu4e96/YgmbzHQz+8dlzeu4e96/YAp",
+							"9fbx+fPajH7nH/Si2w5vERK9b2H1I9dw/7V2yBxfj3pzFWr0BQT6ePj0CxBV/qES",
+							"z7op67x/2rtsA/1aszCPXYPe5ftQXf6rZ6EUd67B73r9qCz3NArFeP9Nw97l+xBZ",
+							"/l3ukf6bF73L9yC2qzY/d4B3/1AeDu/foDUMxPOAB/NXJPCCGEEEIIIYQQQgghhB",
+							"BCCCGEEEIIIYQQQgghhBBCCCEYuT7bfncF5QGA/lxfXrv9H1ZQHoDoDW7/5/ODKy",
+							"gPQPSndq4v7+wdHKx7UEF5AKJPbVwLzKf88fnBFZQHQPpLO0Yubg735+cHV1AegO",
+							"hfC7THVI+4s8CfzQ+uoDwA0ecLLHwujz8DHPH0/OAKygMgvfVuPZWHH/Mgrh8BOD",
+							"+4gvIARJ97OruPEbk82/yIOIb3J+cHV1AeAOpze/MIP9zD+vDcZb56AOgA4gqqAy",
+							"C99Z47zIenjdZaj9Xk9HuIVlAfAOnnGdzy0HmcS4R9/UVgbH5oBeUBkN66u83Vzd",
+							"ft4+IlYMf8wArKAyB9PkP4WNl850V+cH5gBeUBkN4sv9r+rC688XMYnB9aQXkApv",
+							"8W33oOCgcQV1AcAOnnw5sOluVtGEBcQXEApk81qX7DAOIKqgMg/RT3VjyAuAIWoL",
+							"EASG/9GuKbF+EN80MrsEZb2BDgrv48gbzvXMweH0CbL/ABFUwBa2FDgLt6O8fHyQ",
+							"Fg82MNV/ATAtzVn19Mku8ZQOpffQA2xNC+HQOIKygOwPTwCrZhAHEF5QGQHv9RFh",
+							"9AXEF1gNq/LeQDKH718RdCCCGEEEIIIYQQQgghhBBCCCGEECX8A3ERW/FCaNWWAA",
+							"AAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

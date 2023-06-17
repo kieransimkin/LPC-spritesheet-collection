@@ -1,0 +1,50 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:longhawk#h": {
+				"name": "💇‍♀️♀longhawk 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6c6f6e676861776b2368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAG1BMVEVMaXGcWZGcWZEwBydqKF7MoMWcWZH6+Pn////zHVIpAAAAA3RSTl",
+							"MAnNnYjWu4AAAACXBIWXMAAAsTAAALEwEAmpwYAAABy0lEQVR42u2aQXIEIQwDh8",
+							"gG/v/iFJNU7mDXEma6zxsd0NoIba4LAAAAAAAAAAAAAABAg60Cb6YU8+a2foBhgb",
+							"effynF+zjBTQJvN8CsNwscYFiAEfDu9wFqkwB38Fjh1te/wWEBHGiu3qxqk8DrU5",
+							"SqmwcMCAmQoq7rsurWVNd3yLoAKer+Bpury2SfFyBF/e4QdZNMnxcgRf3sELldl7",
+							"YIxFNUKV9PWELbBIIpqvxwuAO1ap9AKIaVcsfY0x2wqAEhgUAM+4uxhxuwnoAyBA",
+							"Ip6ikxNvwQCv6ksJqiHhNjtVlgOUURY7fHMMrA3TEs3CZCMEWF20QIpqhwmwixFB",
+							"VuEyGYosJtIkSvkFCb+IA27+AY+5A279wY+5A279gY+5Q279QYy4/Sm2NsoM3DsZ",
+							"TTWG/zmJks7xbbvMq7L9GBhTZvBC+GIMeBpTZvPD3ITlkhdqHNk5sMB9Ie0rNtnl",
+							"SrKg+4rCU01+YNs4ZrVhmBpCU02ebdDlRnBDKX0Nzn5WMDMQJZzLZ5MrUxAFzDaU",
+							"Fo0oAqb+PiZgVl7aD5kRkPOAzIMmC6i/Mu3Q5weCkGzP9F613cATs9a61XJmDr2m",
+							"rOfyNttoDj/+d8AyYkDJhJwYnPAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

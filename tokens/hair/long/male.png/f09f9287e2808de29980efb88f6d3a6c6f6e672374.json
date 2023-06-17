@@ -1,0 +1,91 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:long#t": {
+				"name": "💇‍♀️♂️long 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6c6f6e672374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"SuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

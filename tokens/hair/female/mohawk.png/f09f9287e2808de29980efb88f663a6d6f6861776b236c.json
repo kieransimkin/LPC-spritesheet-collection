@@ -1,0 +1,69 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:mohawk#l": {
+				"name": "💇‍♀️♀mohawk 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6d6f6861776b236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAAElBMVEVMaXFqKF6cWZHMoMUwByf6+PkIXndvAAAAAXRSTlMAQObYZgAAAA",
+							"lwSFlzAAALEwAACxMBAJqcGAAAAwxJREFUeNrt3cFu7TYMBUCTkv//lwvftPsix3",
+							"2Mmpn9IURKvgiykK4LAAAA+B+p6QL1i+PXVdV7tECYPzr+VePuGi0Q5o+Of/Tq2Q",
+							"Jh/uj45yu692iBMH90/FNirRotEOaPjv/zMzZbIMwfHX+sWrMFwvzR8a89rNkCYf",
+							"7o+KdEr9kCYf7o+GN3+BWlBcL80fFPibpnC4T5o+N//yk1XCDMHx23AT9hA3q4QJ",
+							"g/On75f/T0/6MBAAAAAAAAAAAAAAAAAAAAAAD+gP7Vq5/Pd1/71Ammq/8B+bW7K7",
+							"rEv6f2P139dP65vL/u1XffXXviCGQdpKufzl9X7XXf615rVVX9+SOQdZCufjr/dW",
+							"vtutfdq6u+M4LwCIQdpKufzl/XutbqVV27Rj6grIN09dP558LOT4Fv59MjkHWQrn",
+							"46/1VkdfDnT3gE4g6y1c/nn9/wCh5wyY9A2EG0+h+Qfyr04AeUdpCufjr/wq3N4R",
+							"EIO5jufv7O6/gDurgMEAAAAAAAAAAAAAAAAAAAAAAA4F/Zv76BPZuv0/e/pgtk+d",
+							"377P3PGwgLJPldu9P7L0f3P24gLRDnu+9wBLP7HzeQFojye+9efdex+583EBbI8r",
+							"ue2/9XMoLp/Q8bSAvE+V2req1z9z9s4IUJpAuou9bUAYxXnzbwRoE43/e6ztz/Fx",
+							"p4o0CY39XXqfv/RgN5gTTf93Xu/r/QQF4gzNd98v7nDeQFwnxfJ+//G08xDr9mOH",
+							"x+8pcs7+kC8QKO3n9MEAAAAAAAAAAAAAAAAAAAAAAAgP9S//oORvP76p7eg/DW1L",
+							"CD2Xx1de8VrSC9tjYbQNrBbH5X3333umv10AEKB5B2MJuvqlpr3eu+166RAxQOIO",
+							"1gOL+r6rn9/ylQe+IApQNIO5jOPyPY1bWeC+jXwCf0QgNZBz8g/1T4FLhqZH4vNB",
+							"B08DPyV/X3H+J5YX55A1EHPyK/kjvo8/nFDYQd/IB8R/l4fnEDaQfj+fA9vHh+Lz",
+							"Qw/CLk8JucL8xv+lHR45kfAAAAAAAAAAAAAAAAAAC85i9PuhBRnY9TvwAAAABJRU",
+							"5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

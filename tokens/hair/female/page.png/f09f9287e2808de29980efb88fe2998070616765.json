@@ -16,7 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac77616c6b696e67/0"
+							"f9287e2808de29980efb88f663a706167652377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -47,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac7370656c6c6361737",
-							"4/0"
+							"f9287e2808de29980efb88f663a706167652363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -79,7 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac746872757374/0"
+							"f9287e2808de29980efb88f663a706167652374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -110,7 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac736c617368/0"
+							"f9287e2808de29980efb88f663a70616765236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -141,7 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac73686f6f74/0"
+							"f9287e2808de29980efb88f663a706167652373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -172,7 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807061676520f09f8eac68757274/0"
+							"f9287e2808de29980efb88f663a706167652368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {

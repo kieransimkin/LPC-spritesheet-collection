@@ -1,0 +1,91 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:curly_short#l": {
+				"name": "💇‍♀️♂️curly_short 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6375726c795f73686f7274236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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",
+							"NDAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

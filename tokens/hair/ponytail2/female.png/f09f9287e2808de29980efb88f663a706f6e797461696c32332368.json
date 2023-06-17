@@ -1,0 +1,59 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:ponytail23#h": {
+				"name": "💇‍♀️♀ponytail2 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a706f6e797461696c32332368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXEmDRS/QADlVgCkJgBqEQjqo3f/igBG64CHAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAA2VJREFUeNrtnNGO6zAIRDN4cP//j1",
+							"fgbNtU2isZV/a1Ak/bl0rLCZ4BnB5HRkZGRkZGRkZGRkZGRkZGRkZGxv8QAJBZWJ",
+							"h9kjrGIBHGM0eKhzFYiPCu+adIESmlFCGJRQjvm3+lJb8BEIkQeCGUKMJbA/DcNw",
+							"RS7Bmej/DeAlDKw1P3EAMgxBBCCSC8+Ql0AuBDQiXgCN9rSLIEes9ve/aJwvZHZ/",
+							"5eCJ81pDElv6V+m38pwkJAKA8GKsARXmqovwTua2OhfmoLKgQslAAAftZQbwXc2c",
+							"aaglJBVLQiEALdCL9QQ3e1sQBFa9V6VNQK9j+DhvCjhvq+4Us2dlcNgRL1wHFU+I",
+							"f+NqBRe9VQL8Jv2Nh9NaRC9ZIMoPYjvNTQfBu7tYbUS74CdWwILzXUiXDcxu6tIR",
+							"W8/jN1EGG3hjxtbAPQbWN3H4WQf3+agbDZWO8jSqgX33sUgoNyASAH5iJ0G1vifc",
+							"TuoxBIef8oBZMR+gP87CP6bezuo5APAEUwGaHZ2Esf0elk3jSkhDRksY0FrwA4HS",
+							"GUlz4iNAoZ0JDVNnYcwNg3mI197yP6bWzbp8YBLLax1xNcOB1h9ebv2UdERiF+/J",
+							"CFzQZhLxvLPz/MQXi1sei2sa4hLOQp4itGIR66CsDYNwwbYdcQFeAU8VUbPURLZz",
+							"GAURfVNOQl4vNHIc//Y1kD8lUA3S7KNeQl4gOjkLiNdZBF9ryOMGqEm4Y8RTw4Cp",
+							"EBG9sUgNteRxgD8KEhCHTiv+orrQiCnbRSVPcEMOaiRjvxl411AP1L2WczrbveiF",
+							"qqIW5jbZFH+ko81A237APHnnvRQQCDGmI2yMcQJ4DYRlSNALHnZnrQCI+PQjz5VA",
+							"fA/qXs4fk3/ddbXi8b7cQtcWonj2U/fAAp7RDSW74jMVZB1jvY4ws/QTSwlPW8k2",
+							"I+SDQB9NtY6+BQ4UPBwE4QLfN2ipHQBBByUd5Jh3aC3ky7jIuKaN7OnzwKsV76t4",
+							"e21apKEphrY3G+YWcAfB6eAGba2N+FzjnOe0i+oTJ7FKJtnPoolv4EsKATb0eQA/",
+							"C1TgJYAsAulT3a7YAEMBWAvWR0AnAtztdEZ9soV+H2npbfbEkA0wFQzk6gjbMzJ/",
+							"NLQFoLkPlfQ8CKwGfZyvy1klUIbB6dPxaz9CD65+HzAxjkFiDlGgGlAAAAAElFTk",
+							"SuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

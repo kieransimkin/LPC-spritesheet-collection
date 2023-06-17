@@ -1,0 +1,63 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:mohawk#c": {
+				"name": "💇‍♀️♀mohawk 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6d6f6861776b2363/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAElBMVEVMaXFqKF6cWZHMoMUwByf6+PkIXndvAAAAAXRSTlMAQObYZgAAAA",
+							"lwSFlzAAALEwAACxMBAJqcGAAAAetJREFUeNrt3TsO2zAQQMH98f5XDmRXaeUAzA",
+							"Iz/WNh0ZQMA9oIAAAAAOAfSP3mPrNGv7ePyFOp39tHVJd+cZ95Rr+3j+xO/d7+cw",
+							"jrF/fR2frFfeRJ/eI+slq/uI+p377D+rt9TB794v55kNVv7n2A6y9g6Tf3/s9Z3g",
+							"MAAAAAAAAAAAAAAAAAAAAAAAAAAP+T0i/uK6pi9Dv7iuqpyrcj7PSX+87TdepUjn",
+							"5fn9Pn9OnuzEz9tv6ZGdKnT3VlvtkC+rt9R3d1Vs67E1h/t8/45PN2bIH+bv+Z+V",
+							"I/TVDW3+2jsvWr+9Iv7s0sWt4DAAAAAAAAAAAAAAAAAAAAAAAAAAAAfxv96t7Lq5",
+							"f3U6Nf209O/TK9QH+3f65/nV+2gP5qPzPVdVK/tM9nfGS/3gL6u/2zA7KzuvU7++",
+							"8UwtTv7Z+76Gn93v45h/WL+4g6+s195NFv7qP0q/s4+tU9AAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAwH5eOb66n6j6ZQ393T4rq6Zfr6G/20/WqVN9sku/r8/M7O7T5/Skfl",
+							"sfk5nP/MhniRz9tv67CyYr+xlB2PqF/XeNzxKvx5nr7/afh6HfRmHr7/YRzyBX/d",
+							"7++4NEv7f/rKFf3QMAAAAAAAAAAAAAAAAAAAAAAG/8Acz4EwlDHYsPAAAAAElFTk",
+							"SuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:parted#h": {
+				"name": "💇‍♀️♂️parted 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a7061727465642368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXGcWZEwByfMoMWcWZFqKF76+Pn///9DZbg+AAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAKaSURBVHja7ZvRbuswDEMbipT//4",
+							"8vZHe73cMGNPKcBRaHrelDC4QntijbezxKpVKpVCqVSqVSqVQqlUqlUqmEUNlwnf",
+							"uUxBSEQnjeOtKMorsZcR3Cnf335nK3dpLABIQb+y+aG43WvMUVrkC49QAws3h22d",
+							"ydJwhMQLj1AAj7zVujNXOXG5Yj3HsAOGXeTLB4cb7r3wSEG6coUE30ZoT6HBIzCR",
+							"Yj3DlFgTBZ+P8wIh5hUliMcOcUBcHgFp4TMZs4DViLcOsUhWEg+mXwaHoXQB7h3i",
+							"kKwssdw8A37csjnJCi8Kk7EniZMUDo3ZtIIpwRhKFP3Q8BvszYcQNYinBGEBZJ9j",
+							"+U7kcA371ZgTCfoqARoqR4eTsC/IVC/P2730c4IQjLXmOs7Qgg8Q3pFDX8f4mxty",
+							"OASxGmU1RUgK8x9gyAG6eoNMJ0isrH2B6jcNMUdXUQnhFjo4ArinmUcmwIIBOEJ8",
+							"VYASPObkkglaLy67ni/0buhjH22hw2I8aG7RFjo5Jrx0no0hj70cj1JOW25RyE1G",
+							"fz67lP9z8aOdWW6toYG/578/C/+R1b6bvH2BmN3O5DIBNjVac6royxs0517A0gU9",
+							"JnnOooAJk+In+q4ykrAGc+mz/VMXQcbsdRo+FEBU82ck/7D5rzKATrG7nhf8+yTh",
+							"WB1Y3cs5cQopUgdFQbsbaRGwjjhySsX5WnCxu5sZw9foEIU9VKL23kxmoSYiUbsh",
+							"ZXBWBlIxcAIkV5o2IxT2b1n4pLO+kIsq0T0PCfKgLrGrkHQCoef/WFvFhNrSKwuI",
+							"bTFGtJfUW7/L8EQIwBo/UawAKwGMDYzvexpyxj7WmuJxDr2H1Tzcv/ywjE2Yry/8",
+							"JZyHsZrgh6US8dO8ubnu39Mwh+tv8f13kYERh2BpAAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

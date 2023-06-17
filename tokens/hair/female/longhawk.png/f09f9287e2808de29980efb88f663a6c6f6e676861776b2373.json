@@ -1,0 +1,71 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:longhawk#s": {
+				"name": "💇‍♀️♀longhawk 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6c6f6e676861776b2373/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAOGSURBVHja7dvRcjMnDIBRLIT3/d",
+							"+4s+7f6f0qU0X1OfcfBA+wtpOsBQAAAAAAAAAAAAAA8HtERGPePr9eX+vfZ2c05e",
+							"3z6/W1/ft+Xzti9+Tt8+v1xf17XRH5dIRi3j6/Xl/bv+e6n2FPj2Axb59fry/t37",
+							"V3nM8AuyNvn1+vL+3fuAe47kfYbsjb59frS/t3Rd4PsP30TWAxb59fr6/u37PvAf",
+							"ajEYp5+/x6fWn/3iNk7PsM7v3f5+3z6/X1/Zun8ACo5O3z6/Wl/fsZJPZ+fgKref",
+							"v8en1p/97fhGft90ilvH1+vb60f1eeWIUBinn7/Hp9af/ev0pa0Za3z6/X1/4We2",
+							"dn3j6/Xl+T0Zm3z6/X10Rr3j6/Xg8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAMDvEjsid4ztv339+tY+Yp+d+2TM7MvHZ/j69c39znNO7jO0r94g09",
+							"evb+4/BzAi4jWyr94g09evb+7P2Rnxej3cvt199QaZvn59c5/36Xu+fbv76g0yff",
+							"365r5++7f21Rtk+vr17X3t+6vmvnqDTF+/vn3/Te+rN8i3v376r1a/QeCrT5CXAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD434tbW6",
+							"7XT+5frzzvk0+HKOZ6/eh+vW7nusdoyPX60f1ar8zrnY+HKOZ6/ej+cwbPdT5DRE",
+							"Ou14/uPx+i7jeBeT09g8Vcrx/d/xkirnfu6Mj1+tH9PcQ+eQo/QS3X60f3a63cJ9",
+							"+xnz7FirleP7pfK/LEFRnZkuv1o/vPUyyujHj8QayW6/Wj+/spFifXiqZcrx/d//",
+							"0U68v1+tH9WmvvaMz1+tH9/U1ENOZ6/ej+foh15nr96P7+r4jOXK8f3de+gajnev",
+							"3oHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgLrYGbFjbP/t69",
+							"c393l27rMjZvbl8zN8/fru/Rdn5zknnx7C9r56g0xfv761X6+IiM8RjIl9+QYZvn",
+							"59c38P8XpF5D4nJvblG2T4+vXd/T9D7JMxsP+BG2T0+vX9/b+nMCb2P3CDjF6/vr",
+							"//ozpCV/8DN8jo9et/R7/W2P6HbhC9/pvl/vZXANwgAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAECjvwC06z/9AQL+0gAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

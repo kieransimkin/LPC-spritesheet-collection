@@ -1,0 +1,91 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:bunches#l": {
+				"name": "💇‍♀️♂️bunches 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a62756e63686573236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac77616",
-							"c6b696e67/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e672377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac73706",
-							"56c6c63617374/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e672363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac74687",
-							"2757374/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e672374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac736c6",
-							"17368/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e67236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac73686",
-							"f6f74/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e672373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806375726c795f6c6f6e6720f09f8eac68757",
-							"274/0"
+							"f9287e2808de29980efb88f663a6375726c795f6c6f6e672368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {

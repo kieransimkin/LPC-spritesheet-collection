@@ -1,0 +1,59 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:curly_red#h": {
+				"name": "💇‍♀️♂️curly_red 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6375726c795f7265642368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXH6AADMAAAwAACcAAD6GRlqAACUUPc6AAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAA41JREFUeNrtXNuO6yAMjC/k/z/5CBsCdI",
+							"+0tYkSsXgeuslKrZqZYI+x0+MIBAKBQCAQCAQCgUAgEAgEAoHdQURUXwMv0M+ITI",
+							"TyGhI+zj8jAPKZ/wAyvSTh5vyrAMmnwA0Sbs5/UvqcCtwg4c4CCP/l/lUC6XEJt+",
+							"Y/c1bogySHRgXmJdx+AaQWwZOZvxsk3DsFgMQPQOE/37/A9KyEW9vYfP9mYL520E",
+							"PjCqgS8sk+Cbe2sVT5/3FilhC5HNmzyMY2VjmvhI1nNgllDaFLwp1trAQQbAKgKw",
+							"dcH1EUMAlwi41dNofQyX3EyATySY9KeIONlRyCK+YQQjy5v15CPm0hfFbCDxsLnk",
+							"qkxDBcL4cQAuIoAKLpDpyWkIr9LUk47ZVDJGIM35eMJmZawmpjrzrCHMKUf80hiK",
+							"spwPgpABoj+KSENQRpHeGopIccAvtthcxKWCvpqxY3MkjFOk3kkLUrcWIer5fQXo",
+							"mIABI/9NAo4GhjHRu6y7oouQFvqETqZkgppU0riOHTxlq3QmoWwRUrccLZD9AtJA",
+							"0bqoDRxsKkjSXdAsE12xk0v4LkzqW2HWW3sSk1G2vejV3bRd1UiSAdJZMTWm0s/r",
+							"SxDheFu7oosbGNf+XDsrBqCOpsrMdFwZyLWt/GJppxUdBsLPhcFM64qOJjFYva2C",
+							"bAYW1HXF2I7shciU+5KNmIL+UILiYCFbbAO5KXc4jy3lp61hwy5aKuLojk/9obWS",
+							"kCzfBfcojwn7kAOTGsIuL/uSgmxxJUJOsSfD8C5dDr/76UN5+Aqo0ljwn92EuyCC",
+							"CuraBUc4p1FJjPXPL+qyVE9ios1SRcXdTXAij/zN0iyGdLKXATfIuIGndlqqNwaF",
+							"CAyzRCytCSgjccjXILUH1ss7GI9L0A3N3+CWo4Yw4BvuSvm+u4Bmzo+yye91FlI6",
+							"OMI+SD/I/tBEi+CyZtYPQ2Rh2BIQsDntzNRDGfuOF4bHIvAOnhZRelqP09QxI4lf",
+							"5SB6B5ruFvwHXJKsAxuihjPU7nlQRqIWac7NlYgI5mfynIQwSDTZ8SSrOXPFGLw1",
+							"AMWwd7tjZB9wiA4xrAHauAaQH8K4i6AuJSIHLAgwK0gb5ruJVDgOfeLy211lPLx1",
+							"s+o0XHmwJAah2FeEjuYRdVuvrdeHHwb6ZwJonXJ0ziUXU/g3O2ZXzGJ/h3MDjbES",
+							"qPF54c/L+loE73cvxczIuL6Jf59n/UlhVfkuKgswAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:lob#h": {
+				"name": "💇‍♀️♀lob 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6c6f622368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAG1BMVEVMaXGiJgCiJQBqEQi/QADlVgD/igCkJgAmDRR6rQC5AAAAA3RSTl",
+							"MAnNivilsuAAAACXBIWXMAAAsTAAALEwEAmpwYAAADkklEQVR42u2cjYrjMAyEt6",
+							"c/v/8THyM7ubb04FQF54ylFlIWGpb5LGksh/78VFRUVFRUVFRUVFRUVFRUVFRUVF",
+							"RUVNwa5NFaa6XFLfIzwhDfIiiECf2ZRUSFVUTM2k0IN9ZfRFWFDRcVancg3Fp/VT",
+							"7kY1ELE7gA4c4AoL+qMhsuJhpdwRcg3DoBhm5M5CvZOLqC8wg3TwAsXTbCCxIax/",
+							"S7AOHWAFx/I3p0MY0lSCCPcGcbe+j/OJezGRO3qQh3trFdvVN/CEjGkQpyAcKdbS",
+							"zqhxg9/QHqxQFkEF5iY1ctYfSmHghQyEZegPCCnQhyCF5suRL2GYC1yQiv2IlgHe",
+							"CyVAlzC8n08w4goF8aYd7G9hRiVjFjVl3IBH8EwJEFnEeYtrHQfzQR9QxYaCfuy/",
+							"d6ALE7ZG2sE9TTReFmKwFgy8mXRZi2sVgC+uSiYGlplY0gCeUB5O6QtrF+A5VnFx",
+							"VOgcNFyWwXBQBvq63FTEwaYdrGkhegVxcVHmcNF+VpNLWA0UcArc1DmLWxPQHcRb",
+							"Gxu6jwMKXr71/Gjab28NYavckXy8EswqyNpUN+8yqOLIgOU6C/y8/cP052Ua9ihU",
+							"tgDmHaxnoJc/kfCBCw4E5cztXf9xEsq02jEgjTNrYDMMh/uKiQi+j/wZ99hHznop",
+							"aeBqYBuP5/vh4bhRCWvA8BMYntCL7qw43wpsXgZW0siSjzk/7xnbgePZh7D0AX/+",
+							"JEqbH091oIsjZ2AHxk9iGehF5+0AMw2AieZ6DsCvHxlpUGslkbe8lGcORA7wHowz",
+							"Ef5DZECEMsnyRK1EneSyBnY/MAsP67k5WDA8fG6ST+egJgtBCCpI29AMCYZgvmgI",
+							"4iOI8nQR85ARiqKi31cFTGxopicvG6IoM78e5DQWDsxCgIQBknephEqWGgwaK0y9",
+							"Np9LmE/fNIjcYA1TfC5leFeqGBvPKYBvqnvQB4CXvPoBaahKhbn2OWBAKxebDpeS",
+							"DhGAwHrFbPZ0Z6yMssiSUPgApAqIe8zpKCLZQM5b+PxNHEHQBTAQj0EDb69ThKOg",
+							"6VI8cyHcA4l2YkFIpZ6T+nh3Tb2x+IGQ8F9HZeAOYlkT9GcBDoHQU5VMpMI8B4Jm",
+							"zspqE/ungBmJsC7ASQAOJj7dJ/MgAngPPorn+1gBsIjL10n2mX/tMBDAJmtteZ5v",
+							"+UAsZd/tL/rhwwfzKpOvAtO2o7o36s4a6hRv1cSUXF3+M3enktrO9tAZAAAAAASU",
+							"VORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

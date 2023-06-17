@@ -1,0 +1,68 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:flat_top_straig#c": {
+				"name": "💇‍♀️♂️flat_top_straight 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a666c61745f746f705f7374726169672363/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAFVBMVEVMaXHlVgCkJgAmDRRqEQj/igC/QADpGXMyAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAvlJREFUeNrt3c2K4zoQgFGpStH7P/Lgn2",
+							"Rs9+Yqs1Drco5xFgNfIWgnDN2QKgUAAAAAABaWH/r1+sysr1qP+4sZ+sl9/5tvd0",
+							"/9Wv0tr7WOTdDP7uvrx5X6VfqS9aeRR0A/ty8Z+xv3evWW+lX6khH99hnca4wdQD",
+							"+zL9miR6+XK8YOoJ/abwMi+uWO4QPoJ/bbe7jfRvRoTb9Ovz8C9xGDD4B+an8O+H",
+							"vFVwfQz+qPD+HrM9DGD6Cf15ds+4TPiDZ8AP3MfhtwTDj/B/TFAfQT+31Ai/06Xr",
+							"44gH5ef064Sf1C/c8J+rX66x/0v/urvn5uDwAAAAAAAAAAAAAAAAAAAAAAAP9bl+",
+							"+rDP1yfcR18cT4CP3k/rn6JVK/VP+qjwVoQxP0c/uSz3x0e5Z+ar/vP3tsz4rUL9",
+							"Nvq1/q69i61GvUqDUG99fpZ/b7/rP3tb3UGN9fp5/XbwM+3pNSv0xfMmNbPPG+t9",
+							"exJ0g/td8mnHsnziti9AnQz+zvX3t/bA9J/Ur9bdY/DtDP7c83dOpX7UspXy1/0f",
+							"+avvzr8hf93B4AAAAAAAAAAAAAAAAAAAAAAAAAAJjs77du69frMy8LmL6YoZ/c9/",
+							"v+rJ76tfrn+rPB3Uv6yf1j+dl2pX6Vfl9f9zTyCOjn9iXj5wLCkb0F+rn9vr7u9h",
+							"nca4wdQD+zP/cP1ssVbfQA+nn9sX+wX+5oowfQT+z3Ha572t53a02/Tr8/AtsPPf",
+							"O4xx8A/cy+PH8BN/oLOf3cvuR/+if9b+0BAAAAAAAAAAAAAAAAAAAAAAAAAACAj7",
+							"jQL9dHXJdnjY/QT+0zHqt7aujX6u/7B+traIJ+br/tr6vPEalfpt82vzzfwmMH0E",
+							"/tS/Zea9So5w6tV+2R+mX6kq1H3Tag9XhfYwfQT+335Vln95H6ZfqSLdpetc+dqV",
+							"+mPxYQtuulX6k/noB9fd1b0S/UnwO+X3imn9vvA1K/bF9ydGWr/lf1+8pP/cI9AA",
+							"AAAAAAAAAAAAAAAAAA/D5/AHvIWA0b+/hwAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

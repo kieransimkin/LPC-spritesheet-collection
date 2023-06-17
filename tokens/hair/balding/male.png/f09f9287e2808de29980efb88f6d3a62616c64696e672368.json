@@ -1,0 +1,49 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:balding#h": {
+				"name": "💇‍♀️♂️balding 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a62616c64696e672368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXGkJgAmDRRqEQi/QADlVgAoFh7/igCN/JXlAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAZ1JREFUeNrtmdFuwzAIAIMN7v//8e",
+							"RUazfcl4wKd+KuT43UKOIKAXwcAAAAAAAAAAAAAAAAsIXW3fdGTLYK6A2FqfEXL+",
+							"CygbjCyvFXERc+byRBYWUB5gWISEtWWFyAv6QXBYQVVq9BcQHBOxRnESDZCosjUQ",
+							"Fxhd5osRrkL/RkhesDFM+flquwrf4oYJkK11eIMEf8qzaMVcjmQYRVyO5RnFVIrA",
+							"K92GS06A0uP8Z4UM/Aiz9wS02hGX69I9LrKQiW8De8RIaayoM+igu42sSE26ihJt",
+							"9ZVNJAlOgqZPzOIQQkr0KGe4tLx0DmKuQYpr4LQEDiKuRoqwDmiNxBZBHAkWrqKK",
+							"4cqW4WEJ0jnh2sCAH9Qw16iwCZg/T8ENH4HHE9/qpqpwAMpM8R5y9MzeZCQ8WUA6",
+							"XcOWIWMZucAs61EgIy54ijidhtCjjr0KxEpECuL1Gzm+q9FZoeEJDcRpk993miRg",
+							"ZkZ4Dpj9dGNzIgWYA7A+0ISKb7XQYC9gpgmZctoCPgswRQgbINxCZpeG8KUIE2pw",
+							"DxBwAA+Cy+AAtmBPmrm92WAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

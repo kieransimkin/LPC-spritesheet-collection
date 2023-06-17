@@ -1,0 +1,61 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🦶m:ghillies orange#c": {
+				"name": "🦶♂️ghillies orange 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa6b66d3a6768696c6c696573206f72616e67652363/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAD1BMVEVMaXEwFyNfHRvXWxrvfhmV3tMZAAAAAXRSTlMAQObYZgAAAAlwSF",
+							"lzAAALEwAACxMBAJqcGAAAAZxJREFUeNrt3duq2zAURVGtLf3/NxfZOSXpBaKWIr",
+							"sZ4ykyzGCwk9fVGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8F/J2xf1l+zz/lX99f",
+							"qWen3kWb0B/da+peclOD6dF/U36Ft6T56CHMeVG9Dv7OdvuI9e+c1Rf/V+/mjz/J",
+							"f7w1F/9R4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgIyVz9azS+nnU36wfLS29zs",
+							"meVPS36lv6GL3qGF1K7+s3oN/an3tZ0/Em1PoN6Lf2L29C6W/bf70K+rv2AAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAJ/iF2MvS/sv+r19Sxu9JXWe5ohdHysbhPrNfe",
+							"/nat3jCx7H6O/Rt9R83t9XB1N9vhPvb6Dp9/Zz8XOMpyA1xsjKDeh39j+P1q2O2O",
+							"n39gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACf6Rx66W1uoKWt777o9/btsbWU1N",
+							"w+ayP6W/Vz82yWSar6GD36W/UtVeeT/6K/VX98Q/3Jk9dfo//70Tr93h74974BcF",
+							"cMVqiXnEUAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

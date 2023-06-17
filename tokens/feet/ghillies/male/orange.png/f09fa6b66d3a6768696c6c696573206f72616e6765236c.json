@@ -1,0 +1,63 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"🦶m:ghillies orange#l": {
+				"name": "🦶♂️ghillies orange 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"fa6b66d3a6768696c6c696573206f72616e6765236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAAD1BMVEVMaXEwFyNfHRvXWxrvfhmV3tMZAAAAAXRSTlMAQObYZgAAAAlwSF",
+							"lzAAALEwAACxMBAJqcGAAAAhRJREFUeNrt3dtq6zAQBdAZSf//zQff0jS0nEgOuE",
+							"ZrPVkmWxcPBj9NIgAAAAAAAAAAAAAAAAAAAAAAAAAA4E359s2OfMi/nc/373b8Uv",
+							"7tCcr3QPYWoPy44NsTzJ6PrPnt9+vVdnMo31vB2fORtWY+PfBch3U431vB2fPLO1",
+							"RbLfnLsDvfX8HJ80vJ8vmFeRn257srOHn+89+1vRWUBwAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAA4EXm0vO7ZNRtOJg+u3qMrH7/fES2yMhatoa72fkoH+mv/Qzmtz7wZXj9e+",
+							"bXft+t1VLWlsdZextPH+m99v0H+Fp9OUOdLX90m16stezewC6O+g3mH8tPln+p5Y",
+							"n82Q0cy2fMmX8UM67aQJ5s/H73/Ac+pnTOBwAAAAAAAAAAAAAAAAAAAAAAAAAA4B",
+							"Pyvzc6850zzJ6PVpe299v10vq5thjOj8wweb7Wrev8Ht+Ho/n+GWbPR2nr3w7sL0",
+							"2WGhmtxGC+f4bZ81Gytfacb61lTwG+57tnmD2/d53/ddid755h9jwAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAD8OVuf3RpLw+OMG7bdPXY8eoDL81vv6cyydF6PdrcDHPuPwQ",
+							"NcnV9ySzAzS6mt1fs9gH3/MXaAq/NLbDv3Ie72APb9x9gBrs6vM5SBwv2ZA5zc/+",
+							"X5veX9eP7yA5zc/+X5858hdz8AM/gHwwsKRcl91uUAAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

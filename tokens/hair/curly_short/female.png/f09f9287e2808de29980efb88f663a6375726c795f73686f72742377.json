@@ -1,0 +1,90 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:curly_short#w": {
+				"name": "💇‍♀️♀curly_short 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6375726c795f73686f72742377/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,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"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:spiked_porcupin#h": {
+				"name": "💇‍♀️♀spiked_porcupine 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXG/QABqEQikJgDlVgAmDRT/igAknNvAAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAv9JREFUeNrtnNtu3DAMRM3h5f8/uSAlp5",
+							"vmoZXoarEgJ4g32IdFwmNpNKKc62q1Wq1Wq9VqtVqtVqvVarUu3Bd0Ld5SfkTxcV",
+							"3QTQiNMFF/vWBxUYUpgLcgLAxAFEJQGAgCMrwBYen6E5GE4pVEcBxhaQAsTEMyro",
+							"zjCEsbMAsmASYmYgeAswgLS8EgAjHzAAAGszvpSYTFAYg5AkTxiSCyBCCPsDYABo",
+							"mZ371RRiIyEtaTCEvnCBUhC+M0ryKxv64BSCMsnSOUxT2T2UjEhBj+xtIUlEZ45w",
+							"itmCMUTMxAzODzJ1rzgDTC2jlC3TF99DuDmAMWHTSP8Ikc8bke4h46/4Y58rHooG",
+							"mED0TBC1BVv3ych/yccTcAZBA+kCPCPhy7KX+ch+jPWi3+/kmED+SI6SH8mR6i//",
+							"TW/0OYzxG3h6DqXlQOYT5HPLEXVbihlM0Rj2wnVm4oZXPEEx5SuqGUzREP7EUVby",
+							"glc8QDHhLOIT4XljTxZI7I70X5nEc+7FioYkMpmyOSHhImPqY//woGtRpK+RyR9p",
+							"Bx48OnsFhOFWsoJaNg1kMcwH3r+2rKKXRH76CHuIkz3UmChhFzA1gykT9nsMWGkm",
+							"Dc+iNJ83JHrzwA3beQMHG7qz+TtMnOFKQa31qPnSYthMQiSctI0hDa8IDZjkC89K",
+							"hYNPFvSdoh6M6njLWYLwmawGLp5DVJ28YiSEfpOfJcr6GWgyC/JmnGcgW9/pEfqG",
+							"CMeMDD8T1JY3UrYtZ/JokmsO7heE3SuDYGwN2McID+MQ1gVb+T9I6LzKlnNIV6CO",
+							"wz2LVxuksfWW7DRVqZOYy/UjS5l7uRNICj69h5IkCCQqylGsBJAFH4uIyl7Orh2F",
+							"YOwOjJRZYjk9nVbAAHLSBS3OwmcIyC3k4968HiA2CeifFRIO0BZ014NHT4DsKdAw",
+							"4naZ1t/a+WWm+IHneB1/q3A5xfB81nfL5OdjWAwwTMTyOxn2uMs41d/+Nz0AVjNR",
+							"6P6DSA4/LzdXr51M/9D5PexuAvT3j8AriKFMT2KsA9AAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:high_and_tight#c": {
+				"name": "💇‍♀️♀high_and_tight 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a686967685f616e645f74696768742363/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAGFBMVEVMaXGiJgAAAABqEQikJgAmDRTlVgC/QADT4/9fAAAAA3RSTlMAnH",
+							"B3h3D0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrElEQVR42u3dy27bMBBAUb71/3",
+							"9cUJTTJO3GUlF2inMWeSzugJBkO1lNSgAAAAAAAHBPvehD9rW2o53ujdBv7lsb03",
+							"Fzgn5zf5z5aONotfauj9X30sZ69bZaa+ul6yP1qee+3oHPCf39A+j39iXn3l4fob",
+							"Xn8t4E/d7+HJB7X3/F9p7vHEC/r18D5ohp/nTnAPpt/WvAT/cOoN/Uu4BuoH7rDU",
+							"ylfOuLPlL/bUB5eAD93+6/TtDH6+eEa0bRR+zXhBd9vP7zCH3I/jUh6YP2AAAAAA",
+							"AAAAAAAAAAAAAAAAAAAP+e+nj7mX5jX2tr7TjW7qyqD9ev/Fjrz1rVx+pTPY7Vrw",
+							"12R9WH6ucTMF++o425BW28vcBOv7dPdfbH0erantVz10fqU5+PQLuWZ831S0UfqZ",
+							"8TVruWZ70/QL+3T2m283u+OUC/t3/JDwfo9/YuYPQb+KdewvpN/RwwvxZ9zD6l2a",
+							"cH+0P0e/vl6QD93j7pY/cAAAAAAAAAAAAAAAAAAAAAAAAAAMB2Dzfg6bf2ta4VWn",
+							"N7jz5g367lZzcn6Df3Kx/HmP3b28/0m/te2ljrP+cKrdZL10fqU8+9Ha8Jc4NW10",
+							"fqU8m5997O/a139tfp9/ZzwLUC7Xz7vXMA/cb+GvDh5gH0u3oX0A3Uu4H6Jzfw6+",
+							"/vH0C/s/91W1bRR+oBAAAAAAAAAAAAAAAAAAAAAAAAAACAT+rDBXj6nf3cXzdXv6",
+							"wNPvp4/azHOAe0VvXB+uPMRxvXCi19qL7XOs4JdaxHoeoj9annPD88z5vf+vtvwv",
+							"q9/Vz9kteMc0yrXR+pvwbkucHn1t+x+r39x4C7/0Hq9/afnwB9wN4F/F9uoD7sW+",
+							"i5djDrY/apnPvq9FH7a4A+av98Y6R+bw8AAAAAAAAAAAAAAAAAAPzODziYQb04HL",
+							"HrAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

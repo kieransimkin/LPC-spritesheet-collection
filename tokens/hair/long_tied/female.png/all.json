@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac77616c6",
-							"b696e67/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f746965642377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac7370656",
-							"c6c63617374/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f746965642363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac7468727",
-							"57374/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f746965642374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac736c617",
-							"368/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f74696564236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac73686f6",
-							"f74/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f746965642373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac6875727",
-							"4/0"
+							"f9287e2808de29980efb88f663a6c6f6e675f746965642368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +189,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬walking": {
+			"💇‍♀️f:long_tied#w": {
 				"name": "💇‍♀️♀long_tied 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac77616c6",
-					"b696e67/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f746965642377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -288,12 +281,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬spellcast": {
+			"💇‍♀️f:long_tied#c": {
 				"name": "💇‍♀️♀long_tied 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac7370656",
-					"c6c63617374/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f746965642363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -367,12 +359,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬thrust": {
+			"💇‍♀️f:long_tied#t": {
 				"name": "💇‍♀️♀long_tied 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac7468727",
-					"57374/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f746965642374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -459,12 +450,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬slash": {
+			"💇‍♀️f:long_tied#l": {
 				"name": "💇‍♀️♀long_tied 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac736c617",
-					"368/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f74696564236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -554,12 +544,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬shoot": {
+			"💇‍♀️f:long_tied#s": {
 				"name": "💇‍♀️♀long_tied 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac73686f6",
-					"f74/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f746965642373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -649,12 +638,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀long_tied 🎬hurt": {
+			"💇‍♀️f:long_tied#h": {
 				"name": "💇‍♀️♀long_tied 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299806c6f6e675f7469656420f09f8eac6875727",
-					"4/0"
+					"f9287e2808de29980efb88f663a6c6f6e675f746965642368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

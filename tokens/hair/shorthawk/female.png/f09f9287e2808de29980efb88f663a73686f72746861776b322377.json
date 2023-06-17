@@ -1,0 +1,68 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:shorthawk2#w": {
+				"name": "💇‍♀️♀shorthawk 🎬walking",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a73686f72746861776b322377/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAAEACAMAAABs9D",
+							"n1AAAAElBMVEVMaXGgJgC/QADlVgCkJgAmDRS6hOR5AAAAAnRSTlMAnI8qElcAAA",
+							"AJcEhZcwAACxMAAAsTAQCanBgAAALbSURBVHja7d1BchwhDAVQEMz9r5xiemLvkS",
+							"sK5j2vP9Kn25mUN9MaAAAAAAAAAPBPvaK9Ts7rX9m/9zFjjN77mfnsBeifmt/7+4",
+							"C5Dtg5ojqfvQD9k/NXbMaIzAVU57MPUP/9+c8C8bzB2wWK8+kHoP9IvUArH4kFqv",
+							"PZB6D//vx1QIyvE47MZx+A/on5nzf46Hz6Aei/P3+dELE+Q+PMfPoC9M/t/z5hHp",
+							"xPX4D+uf3bWmDpp+azD1D/1PznFY7Ub1BtPv8A9E/Mby3WCT1OzacvQP/c/q3H++",
+							"fYfPYC9M/N/5xwbj59Afrn9j/e7Rdw/QsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAC/X8TZ86vz9/bvny+vn1GzQHZ+df7y/u94jDHn7jdH5xbIzq/OX9//iY8V7z",
+							"tfHf0DBbLzq/NX929P+ydeUyA7vzp/d//1nb9jfuI7J6QXSM6vzt/ev7U24jtfsU",
+							"ByfnX+9v5fn+PvbM0CufnV+dv7/4DyBYrd3h8AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAABo7RXtdXJe/8r+vY8ZY/Tez8xnL0D/1Pze3wfMdcDOEdX57AXon5",
+							"y/YjNGZC6gOp99gPrvz38WiOcN3i5QnE8/AP1H6gVa+UgsUJ3PPgD99+f/it/A6g",
+							"dwc//3CePvAgfmf+KfYP0T+68T4vMZemQ+fQH65/Zff0aYMTJ/yKrN5y9A/9z+64",
+							"h2cj5/Afpf7qU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDvEHH2/Or87f",
+							"1jPl86vv2148kFsvOr87f37xFzjhHbRyQXyM6vzt/ef8Ui5niO+PcLZOdX5/XvX0",
+							"dEVYHs/Or87f2fI+aIghcwO786r//3CTFaYYHs/Or8pf1b/z5l77+A2QLZ+dX5y/",
+							"unlS9Q7Pb+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD/7A/CeRqnj50AbgAAAABJRU",
+							"5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

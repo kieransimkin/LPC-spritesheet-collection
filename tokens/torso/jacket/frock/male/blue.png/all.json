@@ -1,11 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"🧘♂️jacket frock blue": {
+			"🧘♂️jacket froc4": {
 				"name": "🧘♂️jacket frock blue",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c7565/0"
+					"fa798e29982efb88f6a61636b65742066726f6334/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac776",
-							"16c6b696e67/0"
+							"fa7986d3a6a61636b65742066726f636b20626c2377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac737",
-							"0656c6c63617374/0"
+							"fa7986d3a6a61636b65742066726f636b20626c2363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac746",
-							"872757374/0"
+							"fa7986d3a6a61636b65742066726f636b20626c2374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac736",
-							"c617368/0"
+							"fa7986d3a6a61636b65742066726f636b20626c236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac736",
-							"86f6f74/0"
+							"fa7986d3a6a61636b65742066726f636b20626c2373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac687",
-							"57274/0"
+							"fa7986d3a6a61636b65742066726f636b20626c2368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +189,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬walking": {
+			"🧘m:jacket frock bl#w": {
 				"name": "🧘♂️jacket frock blue 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac776",
-					"16c6b696e67/0"
+					"fa7986d3a6a61636b65742066726f636b20626c2377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -309,12 +302,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬spellcast": {
+			"🧘m:jacket frock bl#c": {
 				"name": "🧘♂️jacket frock blue 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac737",
-					"0656c6c63617374/0"
+					"fa7986d3a6a61636b65742066726f636b20626c2363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -408,12 +400,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬thrust": {
+			"🧘m:jacket frock bl#t": {
 				"name": "🧘♂️jacket frock blue 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac746",
-					"872757374/0"
+					"fa7986d3a6a61636b65742066726f636b20626c2374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -525,12 +516,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬slash": {
+			"🧘m:jacket frock bl#l": {
 				"name": "🧘♂️jacket frock blue 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac736",
-					"c617368/0"
+					"fa7986d3a6a61636b65742066726f636b20626c236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -633,12 +623,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬shoot": {
+			"🧘m:jacket frock bl#s": {
 				"name": "🧘♂️jacket frock blue 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac736",
-					"86f6f74/0"
+					"fa7986d3a6a61636b65742066726f636b20626c2373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -791,12 +780,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🧘♂️jacket frock blue 🎬hurt": {
+			"🧘m:jacket frock bl#h": {
 				"name": "🧘♂️jacket frock blue 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa798e29982efb88f6a61636b65742066726f636b20626c756520f09f8eac687",
-					"57274/0"
+					"fa7986d3a6a61636b65742066726f636b20626c2368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

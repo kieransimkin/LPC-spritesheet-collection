@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:bangsshort#h": {
+				"name": "💇‍♀️♂️bangsshort 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a62616e677373686f72742368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEmDRSkJgC/QADlVgBqEQj/igDeAC7bAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAtFJREFUeNrtXNFu3DAMsyjJ///Jg+RLt6",
+							"LYANuBg0wkrn27okcmoigr1xpBEARBEARBEARBEARBEM9DBkjEU/S7u8N9QwJKuE",
+							"M/3AHAlyW4Q8Ky/A/6VXVoIM9IWJd/wIP9RNA4r8ANEtYWAGqw/BkMynEJS/OvH/",
+							"679m4KyOwlvC9h6fof/KuaBfu9qylkjr8bJKzdAqmFBEFdqJAKyFkJi5cgUzGDdY",
+							"0CYl2sy1EJa+cIgaoEZSFAEimYVGBfwro5IriDuAmgHYJgHyKQsxJWzhEi4irBYj",
+							"If5EmboOAOCYvniEGWwDx0mOVuX8K7csTbPUTU43dr859hW8IbcsTwkDcXMNHrP5",
+							"fDEv7OEfFai4If+vFmCfCMhH/kCOsZJRaioA8Hx2Xj77wFnpJQ9rP44P9j4nWnge",
+							"u1azPIiQ/6vxRgDj8a5H52UWtnGkVP9PaD3C3TWPlCvct/M8jd0EUl/VcbW06CvS",
+							"B3RxfVLvo/bayUK0JbQe6axqZ/XwrMmUi2Udcsquyp9nqQGybe08R7NzGb/AvBuo",
+							"421lH2SHUxi/8w8S7oNpcFs4kK/9joov4DrAS5v5j4bBeVOTCTSLZRVW+BTRPvy9",
+							"NYTfOwEQZDASa5gybeRPVbjlBG6cMm/m2rw7jVcdTEudXxrInft9XRWvPqt8D6NG",
+							"R7q2NcAYL9Y5WCFr6/1TEu/zjY+F0HiZ0cMd+Husc7FQpp1GAtR6xudQwhPedRMP",
+							"ABidM5YpR/TwPJWQYFOJoj8i0qPs62+XzE4RwRt04uFiADnVvUIo4yjuYIpIPAJc",
+							"jvDqcRH80RoQDEFNojTMCyseJNcDRJIJNEH+fSmkNtCnDSPRSIM7mI0p/NAPJ/VI",
+							"BoPy1jtOVuBvPw6RqUpSdEiFdEOrLyiAKZhHmidl6AsRqZV7++dz/73QogJ3Gu/K",
+							"6GZxSQ8YRCLHhxGPeUBM4vi3lYgn9v9v4CtCQTs00CdD4AAAAASUVORK5CYII="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

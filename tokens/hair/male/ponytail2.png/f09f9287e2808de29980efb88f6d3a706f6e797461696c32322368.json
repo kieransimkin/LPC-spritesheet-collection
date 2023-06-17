@@ -1,0 +1,58 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:ponytail22#h": {
+				"name": "💇‍♀️♂️ponytail2 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a706f6e797461696c32322368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEwByfMoMX6+PmcWZFqKF7///+yvsD5AAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAA1FJREFUeNrtnNGO6yAMRDNmnP//5JVNNm",
+							"0q7ZUwFVyE/dS8VKoPZsaG9DgyMjIyMjIyMjIyMjIyMjIyMjIy/ocAgMzCxOyT1D",
+							"4GiTCeOVI8jMFEhLvmnyJFpJRShCQmIdw3/0pLfgUgEiHwQihRhFsD8NxXBFJsDY",
+							"9HuLcAlHJ66k4xAEJ0IZQAws13oAsATwmVgCN8ryHJEmjdv23tE4X1Q2P+XgjvGt",
+							"KYkm+p3+ZfirAQEMrJQAU4wkcNtZfAvjYW6ru24ICAhRIAwM8aaq2AnW2sKSgVxI",
+							"FaBEKgGeEXamhXGwtQ9DjUPnoqmtegIfyoobZv+JKNXVVDoPaDcQHQQBtQqb1qqB",
+							"XhN2zswhoC1cdT+08wau81NN7Grq0hj3xF6hiqjxrCaBu7uIaAfz9FEDZryG1jK4",
+							"BmG7v6KIT8+2kEwmpjvY8ooV587VEIDsoDgBwYi9BtbIn3EauPQiDl/VEKBiP0BX",
+							"z3Ee02dvVRyAeAIhiM0Gzso49odDJvGlJCGjLZxoJPAByOEMpHHxEahXRoyGwb2w",
+							"+g8xug+t5HhEYhpQfAZBv73MGF4xH6qrv7iMgoxLcfsrDaIKxlY/nnwyCED+OKZh",
+							"vrGsJCXiI+YxRSF9IsAH3f0G2EXUNUgEvEZ53oIVo6kwF0G2HXkJeIjx+F3L9jWg",
+							"PyVQDtRti3nFvEO0YhcRvrIIuseR2h2wi7atwiHhyFSIeNrcuAy15H6APwoSEIdO",
+							"K/6iu1CIKdtFJU1wTQ56J6O/GXjXUA7YeydzOtq96ImqohbmPtII/0I/FQN1yzDx",
+							"xrnot2AujuxFl8DHEBiJ2IqhEg1jyZ7jTC/aMQTz7VAUQ2IM+/6b9ueb2stxO3xK",
+							"ntPJb98AaktE1It3xHorOCLP92kuo7iAYOZT3vpJgPEk0A7TbWGohLQBE4E0TNvO",
+							"1iJDQBRF0UQqOQ2ky7jIuKaN7OHz0KAe8e2o5WVZLAWBuL6w07A+Dz8AQw2Mby90",
+							"BBipySb6iMHoVoHaeexdKfACZ04nULcgB+rJMApgCwS2VnvR2QAIYCsJeMLgCuxf",
+							"ma6Ggb5Spc39Pymy0JYDgAytUJ1HF25mR8CUhtATL/cwhYEfgsW5n/VjILgc2j88",
+							"9ipm5E/9x8fgCM1RRP8P+QcwAAAABJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

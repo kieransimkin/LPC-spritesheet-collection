@@ -2,12 +2,12 @@ import sharp from "sharp"
 import path from "path"
 import fs from "fs"
 const actions = [
-    {name: 'walking', frames: 9, offset: 128*4},
-    {name: 'spellcast', frames: 7, offset: 0},
-    {name: 'thrust', frames: 8, offset: 64*4},
-    {name: 'slash', frames: 6, offset: 192*4},
-    {name: 'shoot', frames: 13, offset: 256*4},
-    {name: 'hurt', frames: 6, offset: 320*4},
+    {short: '#w', name: 'walking', frames: 9, offset: 128*4},
+    {short: '#c', name: 'spellcast', frames: 7, offset: 0},
+    {short: '#t', name: 'thrust', frames: 8, offset: 64*4},
+    {short: '#l', name: 'slash', frames: 6, offset: 192*4},
+    {short: '#s', name: 'shoot', frames: 13, offset: 256*4},
+    {short: '#h', name: 'hurt', frames: 6, offset: 320*4},
 ];
 
 function arrayBufferToBase64( buffer ) {
@@ -26,7 +26,7 @@ const splitToLineLength = (string) => {
     }
     return chunks;
 }
-const allFiles=[];
+let allFiles=[];
 function getAllFiles(dirPath){
     fs.readdirSync(dirPath).forEach(function(file) {
     let filepath = path.join(dirPath , file);
@@ -40,12 +40,16 @@ function getAllFiles(dirPath){
 });  
 }
 getAllFiles('./input');
+allFiles=allFiles.sort((a,b)=>a.length - b.length);
 const policyId= '420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d'
+const tokenNames=[];
+
 for (const tFile of allFiles) { 
     
     const mainDir = String(tFile).substring(6).split(String(tFile).substring(5,6),2)[0];
     
     let typeEmoji='';
+    
     switch (mainDir) { 
         case 'accessories':
             typeEmoji='👜'
@@ -101,7 +105,6 @@ for (const tFile of allFiles) {
         case 'neck':
             typeEmoji='📿'
             break;
-
         case 'quiver':
             typeEmoji='🏹'
             break;
@@ -156,33 +159,42 @@ for (const tFile of allFiles) {
         }
     }
     let genderEmoji='';
+    let genderShort='';
     if (!gender) { 
         gender='undefined';
     } else { 
         switch (gender) { 
             case 'male':
                 genderEmoji='♂️'
+                genderShort='m:'
             break;
             case 'female':
                 genderEmoji='♀'
+                genderShort='f:'
             break;
             case 'child':
                 genderEmoji='👶'
+                genderShort='c:'
             break;
             case 'muscular':
                 genderEmoji='💪'
+                genderShort='mu:'
             break;
             case 'pregnant':
                 genderEmoji='🤰'
+                genderShort='p:'
             break;
             case 'skeleton':
                 genderEmoji='💀'
+                genderShort='s:'
             break;
             case 'teen':
                 genderEmoji='👦'
+                genderShort='t:'
             break;
             case 'zombie':
                 genderEmoji='🧟'
+                genderShort='z:'
             break;
         }
     }
@@ -207,6 +219,7 @@ for (const tFile of allFiles) {
         insertTitle='';
     }
     if (insertTitle.length) { 
+        fileName=fileName.replace(insertTitle,'');
         fileName=insertTitle+' '+fileName;
     }
     fileName=fileName.replace(String(tFile).substring(5,6),' ')
@@ -249,13 +262,27 @@ for (const tFile of allFiles) {
 
 
 let globalTokenName=typeEmoji+genderEmoji+fileName
-
+let globalTokenNameShort=typeEmoji+genderEmoji+(fileName.slice(0,13))
+let c=2;
+while (tokenNames.includes(globalTokenNameShort)) { 
+    globalTokenNameShort=typeEmoji+genderEmoji+(fileName.slice(0,11))+c
+    c++;
+    if (c>99) {
+        console.log('got to 100:'+globalTokenNameShort);
+        break;
+    }
+}
+if (tokenNames.includes(globalTokenNameShort)) { 
+    console.log('Error token name already taken:'+globalTokenNameShort);
+    break;
+}
+tokenNames.push(globalTokenNameShort);
 var globalMetadata = {
     "721": { 
         
     }
 };
-let globalMetadataImage = "cnft:"+policyId+Buffer.from(globalTokenName).toString('hex')+'/0';
+let globalMetadataImage = "cnft:"+policyId+Buffer.from(globalTokenNameShort).toString('hex')+'/0';
 if (globalMetadataImage.length>64) { 
     globalMetadataImage = splitToLineLength(globalMetadataImage);
 }
@@ -284,9 +311,9 @@ var globalMetadataFile = {
 };
 
 globalMetadataFile['721'][policyId]={};
-globalMetadata['721'][policyId][globalTokenName]={};
-globalMetadata['721'][policyId][globalTokenName]=globalTokenMetadata;
-globalMetadataFile['721'][policyId][globalTokenName]=globalTokenMetadata;
+globalMetadata['721'][policyId][globalTokenNameShort]={};
+globalMetadata['721'][policyId][globalTokenNameShort]=globalTokenMetadata;
+globalMetadataFile['721'][policyId][globalTokenNameShort]=globalTokenMetadata;
 for (const action of actions) { 
     //console.log({width: 64*action.frames, height: 64, left: 0, top: action.offset});
     let image = sharp(inFile)
@@ -310,12 +337,23 @@ for (const action of actions) {
     var imageUrl = "data:image/png;base64,"+arrayBufferToBase64(buffer);
     
     let tokenName=typeEmoji+genderEmoji+fileName+" 🎬"+action.name
+    let tokenNameShort = typeEmoji+genderShort+(fileName.slice(0,15))+""+action.short
+    c=2;
+    while (tokenNames.includes(tokenNameShort)) { 
+        tokenNameShort=typeEmoji+genderShort+(fileName.slice(0,13))+c+""+action.short
+        c++;
+        if (c>99) {
+            console.log('got to 100:'+tokenNameShort );
+            break;
+        }
+    }
+    tokenNames.push(tokenNameShort);
     if (tokenName.length>64) { 
         console.log('Token name too long: '+tokenName);
         continue;
         
     }
-    let metadataImageURL = "cnft:"+policyId+Buffer.from(tokenName).toString('hex')+'/0'
+    let metadataImageURL = "cnft:"+policyId+Buffer.from(tokenNameShort).toString('hex')+'/0'
     if (metadataImageURL.length>64) { 
         metadataImageURL = splitToLineLength(metadataImageURL);
     }
@@ -355,12 +393,12 @@ for (const action of actions) {
     };
     
     metadata['721'][policyId]={};
-    globalMetadataFile['721'][policyId][tokenName]=tokenMetadata;
+    globalMetadataFile['721'][policyId][tokenNameShort]=tokenMetadata;
     //metadata['721'][policyId][tokenName]={};
-    metadata['721'][policyId][tokenName]=tokenMetadata;
+    metadata['721'][policyId][tokenNameShort]=tokenMetadata;
     //console.log(metadata);
     //console.log
-    fs.writeFileSync(outputDir+(Buffer.from(tokenName).toString('hex'))+".json",JSON.stringify(metadata,null,"\t"));
+    fs.writeFileSync(outputDir+(Buffer.from(tokenNameShort).toString('hex'))+".json",JSON.stringify(metadata,null,"\t"));
     var easelImport = { animations, frames, images:[imageUrl]}
 
     fs.writeFileSync(outputDir+action.name+"-test.html", `
@@ -409,15 +447,15 @@ for (const action of actions) {
     
 }
 
-fs.writeFileSync(outputDir+(Buffer.from(globalTokenName).toString('hex'))+".json",JSON.stringify(globalMetadata,null,"\t"));
+fs.writeFileSync(outputDir+(Buffer.from(globalTokenNameShort).toString('hex'))+".json",JSON.stringify(globalMetadata,null,"\t"));
 const globalOnlyMetadataFile = {"721":{}};
 globalOnlyMetadataFile["721"][policyId]={}
-globalOnlyMetadataFile["721"][policyId][globalTokenName]=globalMetadataFile["721"][policyId][globalTokenName];
+globalOnlyMetadataFile["721"][policyId][globalTokenNameShort]=globalMetadataFile["721"][policyId][globalTokenNameShort];
 const noGlobalMetadataFile = {...globalMetadataFile};
 
 fs.writeFileSync(outputDir+"all.json",JSON.stringify(globalMetadataFile,null,"\t"));
 fs.writeFileSync(outputDir+"all-compressed.json",JSON.stringify(globalMetadataFile));
-delete noGlobalMetadataFile["721"][policyId][globalTokenName]
+delete noGlobalMetadataFile["721"][policyId][globalTokenNameShort]
 fs.writeFileSync(outputDir+"noglobal-compressed.json",JSON.stringify(noGlobalMetadataFile));
 fs.writeFileSync(outputDir+"globalonly-compressed.json",JSON.stringify(globalOnlyMetadataFile));
 }

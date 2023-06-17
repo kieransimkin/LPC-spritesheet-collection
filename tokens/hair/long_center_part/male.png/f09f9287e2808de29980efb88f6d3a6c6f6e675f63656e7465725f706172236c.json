@@ -1,0 +1,91 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:long_center_par#l": {
+				"name": "💇‍♀️♂️long_center_part 🎬slash",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6c6f6e675f63656e7465725f706172236c/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAEACAMAAACNqV",
+							"FVAAAAGFBMVEVMaXEAAAC/QACkJgBqEQjlVgD/igAmDRR1IE5SAAAAAnRSTlMAQA",
+							"BPjKgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAdLSURBVHja7Z3bbhtJDEQ1vHT//x",
+							"8v2CN5A8cPHp3ZZrypk8RwDBTZrObcBIt6PIQQQgghhBBCCCGEEEKIVmLxNxdAAz",
+							"B9ZJqZvx8DLp/bhwuAAZA+ItPdzcMt850FwOXj6mkBNADTR470MsDDSz9i7/K5fb",
+							"gAGADq41TbUr+jh+mpfbgA7gDTxxh+ngLcLNO2p4f24QJucIDoI0eJVgea5bAxcu",
+							"cGcvtwATAA1McYOTL9bEEbOcbODcT24QK4A0gflj5ecnMb4+r+s+Vz+3ABMADUn/",
+							"KRVncidQKo7+fm9MA+XMBNDrytD7NVteV5BRzpe9ND+3ABNziA9CVfZY/MrK/mtj",
+							"k9sg8XcIsDQB9mXoWvCBWibga3pmf24QLucIDoY7VenQPS0lYjWmxMT+3DBXAHsP",
+							"58Dso6+N2sLof70mP7cAE8AHWwFHYKS3u9A+EGQvtwAdwB7mA9iZa27gavdiBMj+",
+							"3DBfAA1MF155Hrapg20ufe9NQ+XAB3gOnXs+h5Hl4XQtu7fGwfLuAGB5A+zjuQ8z",
+							"akJT2zDxdwhwNEH/mvvO4Ed6en9uECuANMH8/WG88O3J2e2ocL4A4wfdQ9+Co9c7",
+							"0ksD09sw8XcIcDRB9m6SWsa6Hn9Zs4mh7ahwu4wQGkj3Ufvm4B1zPR5uVj+3AB3I",
+							"EbHLSx/lluT4/twwXwANzB4cNGfX33FEDSU/twAdwBpn/Jfcnj0ZT+bftwAbc58L",
+							"bezMf5x9zm5vTYPlwAD8D0YRae9ZuB9UpMzO0beIN9uAAUAOrXb2RGPM6v2+vH9u",
+							"ECuAN0AQyYvnn1QgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIcT/hmidXw+z98",
+							"pv8a7mN2fNTm3ZA5i9V36HdxE1M9LX7Np88z0u7/cAzN4r596dE5PW+0NrdG2+Nb",
+							"2c9ADM3ivn3q13idbo2nN2c64hnrGxB2D2XjnWn3uY49c9rP/Gth6A2XvlWH8GqU",
+							"kl/sse1tiY2NaCMHurHOtfQWpcSdTo5nMP7cLMJNxDKHuzHOtfMTJjHjVF29fw2i",
+							"vvVuctCLM3yrH+GSTdYh6PivIxvfPbUXALwuydcqx/BvGM43g8Kkp9jsX6PKPvBu",
+							"E9RLI3y7H+dRa3eazvjqipwXO6+5ibegBl75Zj/dPDOJ7fHuHzOI4aHzM39QDK3i",
+							"3H+meQ+QryOM5m9vH9o5j2EMreLMf654Ps8RHkUd9WkJy7eghlb5Zj/fNJ6pPgqO",
+							"E9c1cPoezNcqx/Pcr+FuT7g9twD6HszXKsf0X5HMO/P7sT9wDK3i3H+meUz7t65V",
+							"kE9wDJ3i7H+q+28eJnwNAeQNm75Vj/VRT3rT3EsnfLsf4LDx+xtYdY9m451n8V5L",
+							"G5h1D2ZjnWf8nc3wP3ldArv2cD/oAeED+qB4QQQgghhBBCCCGEEEIIIYQQQgghhB",
+							"BCCCGEEEIIIYQQQgghRBPxQY/+L7cg4pw9bDWDskH/B/jXakFkTTxcg05qDu71gU",
+							"NQf8MBhP3rtCByTf9f8jUI+vLkUaa/4QDi/jVaUPO3008LfIwaRTwfG/V3HEDcv0",
+							"YLYqyBz1YGpOX17FRPD6AbWqDTgsg18fz5CQDlgF0afcn10L07WqDTgsixjnzzGn",
+							"qbY1SMa9mZHrrH/Wu2oMY/Lwt81gDuUdO3L2Vneuwe96/Zgqo7bdQM6CPGKO2l8c",
+							"dQj93j/jVbUFPPy4K5xt6e8ksnQKbH7nH/mi2om/Ax5jkC+ogwG9eGxzI9do/712",
+							"3BMeecrwnQx1GPo8eV+pkeu8f967bgKMCLMEzP3eP+NVvQDHbvh9ffvwF/u3vx7R",
+							"/+N3pZENC/6Paft8CPt6DVvZ9d/x+5A3HHJoq33XMZ2rwl2gAhhBBCCCGEEEIIIY",
+							"QQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEOIH0D//H6+gPcD7+oga3VxThKPPfb",
+							"aC9gBAH5FrfHkBPoEB9A9eQXsAoo+Rmef48hwl394/eAXtAYg+zpnl9lQP99jcP3",
+							"gF7QGIPsaovv13/0Zu3f8bVtAegOgjR45f9m+Nct7aP3gF7QGQftbI7HP/1sdY5J",
+							"pdu7OD8QraAyD9tHXpHOmeFseMmqW9tX/wCtoDEP2sefHn39I+jlkD5Xf2D15Bew",
+							"Ckr81b9y5mtoY2H0ekX9wA1D94Be0BkH4Od59zhttzaPYxLf3S8Qv7h66gPQDSz2",
+							"Eex3FM/xhafoT5xRMo6h+6gvYASD9t+Nm2HyPMj3ntDET7h66gPQDSz1zixy8j5G",
+							"uI/6UNgP1DV9AeAOmnp3/+xITp167BsH/oCtoDIP10+0187UEW9w9dQXsApK9bFv",
+							"/0s2svROH+oStoD8D0dRf5+dH2cW0DaAPiFXQHQPoZZuQAuKUB8Qp6AzD9bxfMq6",
+							"9F39CAeAV3B9ipn/GAq+cN+GC0B0D6OR90+bAB8QraA3AP791/fQTG5g2Y8kAIIY",
+							"QQQgghhBBCCCGEEEIIIYQQQgghRAP/AJkpgnpTZMN5AAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

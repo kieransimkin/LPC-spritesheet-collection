@@ -1,0 +1,57 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:bangslong2#h": {
+				"name": "💇‍♀️♀bangslong 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a62616e67736c6f6e67322368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXEwBydqKF6cWZHMoMX6+Pn///8h5zRlAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAwZJREFUeNrtXNFu4zAMs0TJ///JB8ppsa",
+							"0H3DkKHGQWgWHdw9RGtC2K1tZaoVAoFAqFQqFQKBQKhUKhUCgUCrdCVFVFbgywef",
+							"5hBgAiJ3OYDlD5ZwL5dWoZpwNsn393c9ORQJXlAXY//2Fu3qHubjafwHSAIsDMux",
+							"vM+1kCUgG2zz8ic2MZxym+NkARAO1xdBisO3RyBacDbC5jRaHau0FUBFzB8wTkAm",
+							"wuY0VNlelr0ppyBWOWgGSAzWWsqKs45MgExeQsAckAm8tYLmCx1zPzhxM7IBkgL2",
+							"MfXUMgTd+veY7PPkgywAUyNvIfFDyRBG3t/anH8pWVAS6Qscw/azieuQ/k22s+va",
+							"wMkJexoqN6wAYHz64h0qYJyAW4QAcrXkX8NzCQJaBNE5DWwQ/3ovSzpq4MkJWx4w",
+							"BKe1Eid1Vw+fF5BbI0QFbGXuNFidymon6+5zwB2QA5GRsEdPcvBMzLKLlRyH6IRl",
+							"kdIC1js16UfNWx97cSsjpAVsZmvaiRfxt+VA0XzMvYtBfF5T/qeN2pHktyqRdFHd",
+							"uN2ffREMpudmBSB+e9KKqoPsQU5ex2fmxSRSXNrNHImRvAfpo6ajMC0jo4Z2ZFJ+",
+							"fMPL+f3wEq+tGTPqTqJmVs0sySsQVoA3rkH6eG01RDQelv2BJrI5AAf3kZTh6mCV",
+							"BRCN3YPWcLkkX8L6309J222Pj10GDY7lY7V0PGhUQ/LiToqur8pSy5s+NSY7c+Il",
+							"vEh5fhmQsJD0M2RJSa7XYEZYt4eBn+9jL8hJfhsXlgcMCqkZ4m4IK5GhKgNmioyc",
+							"z5HZDyMprQRwV1aOyEImCWgayXEW4qHb2DgmJgXkZ99zJm7Wy2clAzCtoiICej6G",
+							"XM38nGXAxbAU64FgEXq6r/kLE0UtEdvJkGioHFJxgPIO/Wu/UYDigCFtdwEhDZt9",
+							"67FwF37AB6eR4UFAHrCQBiJs9x+EFFwOoz6DCCQgfB6q8U128B2qhBQYwHV/7XM6",
+							"DsAxAEVP7vqcPA0QNU/m9ppoOC+pc9t/oZ/xjs/QNkURKZjpf12gAAAABJRU5Erk",
+							"Jggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

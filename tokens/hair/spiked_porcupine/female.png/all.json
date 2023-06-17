@@ -1,11 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"💇‍♀️♀spiked_porcupine": {
+			"💇‍♀️♀spiked_porcup": {
 				"name": "💇‍♀️♀spiked_porcupine",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e65/0"
+					"f9287e2808de29980efb88fe299807370696b65645f706f72637570/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac77616c6b696e67/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac7370656c6c63617374/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac746872757374/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac736c617368/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac73686f6f74/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-							"09f8eac68757274/0"
+							"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +189,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬walking": {
+			"💇‍♀️f:spiked_porcupin#w": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac77616c6b696e67/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -276,12 +269,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬spellcast": {
+			"💇‍♀️f:spiked_porcupin#c": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac7370656c6c63617374/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -347,12 +339,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬thrust": {
+			"💇‍♀️f:spiked_porcupin#t": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac746872757374/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -427,12 +418,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬slash": {
+			"💇‍♀️f:spiked_porcupin#l": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac736c617368/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -508,12 +498,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬shoot": {
+			"💇‍♀️f:spiked_porcupin#s": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac73686f6f74/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -586,12 +575,11 @@
 				],
 				"bodyType": "female"
 			},
-			"💇‍♀️♀spiked_porcupine 🎬hurt": {
+			"💇‍♀️f:spiked_porcupin#h": {
 				"name": "💇‍♀️♀spiked_porcupine 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe299807370696b65645f706f72637570696e6520f",
-					"09f8eac68757274/0"
+					"f9287e2808de29980efb88f663a7370696b65645f706f72637570696e2368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

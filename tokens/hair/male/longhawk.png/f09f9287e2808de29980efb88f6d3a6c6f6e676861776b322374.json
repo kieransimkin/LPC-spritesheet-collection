@@ -1,0 +1,71 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:longhawk2#t": {
+				"name": "💇‍♀️♂️longhawk 🎬thrust",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6c6f6e676861776b322374/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAEACAMAAADyTj",
+							"5VAAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAANzSURBVHja7d1Rcts4EARQaACI97",
+							"/xFpXKBdSqwk743n9T09DQcWyVOQYAAAAAAAAAT1NVvQc4XqD1G1j13nPVufNPB8",
+							"gLHN/AKB/2r/f7mlXz3PsXDhAXOL6BWT7sX+/rqlrnzj8dIC5wfAOzfNi/9nXv37",
+							"kFSgeICxzfwCyf9p+z9id+6vzTAdL88Q0M82H/uuPXvX6nFigcIC5wfAOzfHx+61",
+							"6++f0XoPT84wHC/PENDPNh/1q15x2fh84/HSAucHwDs/wPzm/VvF9/HlugdIAof3",
+							"wDw3zY/xNf+/D7FwwQFzi+gVk+7z/ubz6OvX/xAHH+9Ab+YIPD8xu1V/RjoPT10w",
+							"Hy/NEN/EE+7L92jejHqOHrxwOk+fMbmOXT/nPWSH6REZ9/OkCaP76BYT4+vzUi8f",
+							"nHA4T54xsY5tP+qw6ffzpAmj++gWE+7V+H379xOn98A8P86Y/C9P8oTvsNBgAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAANqrWfdjax6a794+vkLV3HPN/e3fLe+d797+BxPMtf",
+							"decz8y3739Dyb4LFBV1euB+e7tfzDB3nNVvV5fDtA73739DyZY9/Z8P0DvfPf2P5",
+							"gg3b/W+e7tfzJB+N/Hzvnu7X9yhUfn+z8uygOnAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAoIf7+dP14Pyz37/Xa+33Xl9foXu++wLn5/d6vfZ1X+KR+e4LnPdf63",
+							"qv76/QPt/9Bgj73xPsa3+uUE/Md1/g+Pzuf4LuL0Hr+nqFeue73wD5+f25Ql3vNe",
+							"uR+e43QHx+Y9TcawcXaJ7vfgPE5zfGmnu9a369g83z3W+A+PxGrV1XrVoPzXe/Ad",
+							"L+9w7Wtaq+n6B3vvsCx+c3xqq9xnhsvvsNEJ/fZwfHeG6++w2Q9h9jznpyvvsCx+",
+							"c3VniB7vnuN0DafwTfQf4T+e4LnPYf6W/U2+e73wDpJyIen+++wINHLzAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAADQ0v2kqgr+Un33fPcG8auvPdfcs+qZ+e4NftB/z7X3Dh",
+							"562TvfvUHc/1VV9VmhemS+e4O8//0A+6o1965n5rs3yPv/ucT8/uHV3fPdG+T9/2",
+							"5RPTXfvUHe/+PpTw7s3iDv//R89waeOwUAAAAAAAAAAAAAAAAAAAAAAAAA8P/2H3",
+							"hkJ2F9wKl6AAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

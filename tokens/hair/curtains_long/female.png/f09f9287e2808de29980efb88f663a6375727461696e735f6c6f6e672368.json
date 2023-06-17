@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:curtains_long#h": {
+				"name": "💇‍♀️♀curtains_long 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a6375727461696e735f6c6f6e672368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXG/QABqEQikJgAmDRTlVgD/igA5z+EIAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAudJREFUeNrtnEtuwzAMRMNf7n/kgpTt2H",
+							"E2NA25gma6aFGgQDNPIjl02tcLgiAIgiAIgiAIgiAIgiAIgh4Vb4IXz9hPRCQiwq",
+							"pA+MTxp4UAM+tDCOf1n9z3RiA+6xMIZ/Y/jOPwn4gsT+AGhFMDMGvmN//Nsv7dgH",
+							"DuC/B+v83a2TWLr7UzwskvQHjeTq/ZO+3fDQhRgaKGaBxfMhLti3DqMZYp/GdSfa",
+							"n754UkRaCOcOoxlt18Eg3LNFDkARQRTj3GBgDR5dipo1ho9ERYH2N103gA3Lrl14",
+							"4vrwCoILwjiWwljEcrYUwHs+IUZ89vEeENSYRFaGsiY5WwKN2nl6MdEdbHWKYDgM",
+							"FyINPpO9kxtIawPMZ6DWT5NPHBdiFM8u2/aE+E5TGWad/Eg8RgAPjr9KZXESWE1T",
+							"F2HWAPTXycIOgj4ME/cSt6IqyOsVG3vpv4hS6+qPcUFci/qLP2RFgdYx1AdZ0Y/r",
+							"ceLsMFwSrC6hj7s4knmwhLG6NGnKIeTyI/m3gyCMpuipLZnijdMMbWdlE7ADQjgP",
+							"oYW27i/gNyAHCRwFZJBwNQHGPLTTyWgLLPEXrJfGUdcZVbH2OLTfxz9NcccW0fy5",
+							"IOsf/E/1oS4R9NPJnEbSlDa46gvI9uPwkN+ECpnEROLzn3TIfX7LDLEfmDrCwUHz",
+							"Lf+6LKJeycIzgLQDkAtIvEsw1R5SR+yhFJAK38BwD/WZ7rufYNSfyUIzQJgL38k5",
+							"DDI7w7M3uDzjkiB2Dpv+0G2IRFqEpATzkiuY70TZIf/62WgUAOwClHpAEQiQUAA4",
+							"ArXfyQI5g1+UzaT3+MQBaDKAD0DYI7ANEHAKBzEHytq9RNANAZ4QeALQQAoPMg25",
+							"y3pQvTiDu50QF4gg4AjQAA9AXgO7xFdnWfDV0H0HaoTW/DDXjgBmz+NwIA0P8K7P",
+							"zH38h1jxKtDTf5Pg8AOt8A3mUBf7KG/5jRvwbFcwDfyxnB/yf2Ge191fiPMf9Xfw",
+							"MwE+Y7t0+CAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

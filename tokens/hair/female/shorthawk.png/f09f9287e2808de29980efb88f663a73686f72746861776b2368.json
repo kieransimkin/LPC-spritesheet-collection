@@ -1,0 +1,47 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:shorthawk#h": {
+				"name": "💇‍♀️♀shorthawk 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a73686f72746861776b2368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAElBMVEVMaXGcWZHMoMX6+PkwByecWZFdhtK6AAAAAnRSTlMAnI8qElcAAA",
+							"AJcEhZcwAACxMAAAsTAQCanBgAAAE5SURBVHja7ZuBDYQwDAMbp91/5VcLvwBBMt",
+							"C7ASK9jYuj8q0BAAAAAAAAAAAAALjpat07YGcicigzIlwDNpd/6TemfpcULA/AgB",
+							"hKlQwoDcCASB0nyPUEVAZgQEz5VDGgNAADHpCAnVvU0u98gF0D9m5R6wRRqYZWBt",
+							"zTot6dnz6U3TXgjhZV/gF+C3wD6u+QcoRpAdUaVnsHYUApAewh5hrGHmKuYSTAXM",
+							"NIgLmG3ZQArjN8q/wnFomNV3moPsAsEt5Vnhr19lUcvKs4kAASAO5FAqyLBHgXCf",
+							"AuEgAAAOBssgpRYs3644APhaQQQhhX6ekAEbCdQAcY4EtAapAAq/7JGeTTfzpwfm",
+							"CPHDb9tW4U0MNiwOEACfAZsBKAAUYDZg3CAKMB/78ZoofHgsxlAFq46E1caj6ZH0",
+							"R8BTpM5BKGAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:balding#c": {
+				"name": "💇‍♀️♂️balding 🎬spellcast",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a62616c64696e672363/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAEACAMAAAATE1",
+							"b1AAAAFVBMVEVMaXGkJgAmDRRqEQi/QADlVgD/igA/ssBgAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAmNJREFUeNrt3dFq3DAQQFGNZtT//+SiTQ",
+							"pN0j7YfpgonAOBbMgdzK5ismuwxgAAAAAAAAAA+kz9Wf3Mj49z6k/qx4yPE/LiBH",
+							"1znx8HZF0boO/tx4xVf03IdfUA9K39mGutFfH+KGrFxQPQt/ZjZq31q6pi299cPQ",
+							"XoO/t9Dt5rYNWqWvWrKi6fw/WN/Riz/gyIPSJCf1Q/ZsSq9wGxbiwAfWu/J9R+6X",
+							"cfNxaAvrnfZ+H917sHVNxZAPrWfoyMeIsjKlN/Wj9mZmTUnpN3FoC+tx9jvkbsr6",
+							"k/sH9fBTMfXAnR9/YAAAAAAAAAAAAAAAAAAAAAAAAAAP9j87Cz+/H0ppX63n7kww",
+							"n65v7efdP136Tft09/MkDf24/X7e+n/tj+tf/L/SWg7+1H7F3Q6sEB6Jv7ePQ3rG",
+							"/uV+STAfrefozIHBn334noe/vx2nkpQ39o7wk8/QX0WdQP6Kf+6N71mOOvJwEAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAv7nl8Vv/l9y/edVvf3Mfnn1zbt0Df249ZXwZcWg",
+							"L63v4fA65tvqRv7lc8GqDv7feATxMiLh6AvrEfsz4PyEvnYH1vv/8Lyk8Dck79Mf",
+							"3ebenR2xB9c/9lwJz6k3oAAAAAAAAAAAAAAAAAAAAAAAAAAACAn8F2YYf3qT+7D/",
+							"3Jfa0K/bH9a8CTCfrefsy11gr9sX2tejJB39u/LYCq1J/Z7wFVFbcn6Hv7MWP3GS",
+							"v1J/Zj5oocefu9iL63/7MBYab+zN4TePwLmM8+itP39nvC1B/cuxpzeg8AAAAAAA",
+							"AAAAAAAAAAfF+/AZmpHztJh7ayAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

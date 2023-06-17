@@ -1,0 +1,56 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:plain2#h": {
+				"name": "💇‍♀️♀plain 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a706c61696e322368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAGFBMVEVMaXEmDRS/QADlVgCkJgBqEQjqo3f/igBG64CHAAAAAXRSTlMAQO",
+							"bYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAvBJREFUeNrtm1GP3DAIhAMenP//jy",
+							"twbrO5SpUgq7grD093L1XFt3iGYW/bWCwWi8VisVgsFovFYrFYLNb/UCIi7MLE7g",
+							"OwewyIsN45QKOcwUSEq/Yfqk21tdYUgExCuG7/Dd78AUC1QuBEqFWESwOI3g8E2v",
+							"wz/DzCtQWgtT1at6sDUMgthFpAuPgLdADArqURCITvM6Qcgez77Z99SMP4Idm/E+",
+							"Frhqym5Evqt/uXpmgQUeiOwgQEwssM5UdgXRsrFq+2ShcVNGgBAH7PUHYCVraxrq",
+							"AwgXQZQ6AQSSP8wAytamNFoNa79a1L74L8Z9AR/pqh3L/wIRv7rRoiBumbbFuX+C",
+							"W/Bgxq5wxlEX7Cxn6vhnQxuzRDpOcRXmboeRv71RrSL/0qzLEjvMxQEuF9G/vdGt",
+							"Kv/1+5jTCtIS8bOwCkbezyUchfCHsSAH72iFbaxRmF3N9ERt9rewSjkA9sIucekb",
+							"exjEI+sIlc9oikk3nTkFbSkG31i54YLntEKQq5oSGrX/Tcxr7vEXkbO+6pdQCrX/",
+							"R6LH+vPaIShcTzAzQMGyS0sXUbK2kbGxqCBhwiPiMKWdxGAWYqcog4L3ozNOQU8e",
+							"ejkOUJuIacIn4jCqnb2MVHYCQgh4gXoxC9YWNZ7/2sRSGhvjqGoLhJh4FgFaOQsL",
+							"EBIH+UHe2XqI0MSlGIH/KAOImXtmERX2BM+BXxmo1tEUMcAGoXUTPzPEX47eSKjY",
+							"3mwwIA8kfZLfrvgZYZAVRsrC9ysFgiSnGc+DLo3Y85YEvTAnq83/CnpNA/HwCXEI",
+							"NyBGoIehfpcoSCBRWxEBAgEBBA7SXyTbos4+OaoK4mBPD4/OC1Q/tpFUoCDy8Sx1",
+							"/YOYDIwwng6T3i56CgTXdlnv18lhFx6t68/QQwQQLGExQA4qxDAFMA+JfK9vHtAA",
+							"J4+gnSA0BoMY3oFBUef6cV32whgMcBQI9NYMTZ7MnzI6BjBWD/J+1iEcZFGMQsbh",
+							"YC4zVg9kP0z8fnDwJ3E6TM9PNOAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

@@ -1,12 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"🧘jacket trim frock_lace bronze": {
+			"🧘jacket trim14": {
 				"name": "🧘jacket trim frock_lace bronze",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a65/",
-					"0"
+					"fa7986a61636b6574207472696d3134/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -17,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac77616c6b696e67/0"
+							"fa7986a61636b6574207472696d206631342377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -49,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac7370656c6c63617374/0"
+							"fa7986a61636b6574207472696d206631342363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -81,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac746872757374/0"
+							"fa7986a61636b6574207472696d206631342374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -113,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac736c617368/0"
+							"fa7986a61636b6574207472696d20663134236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -145,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac73686f6f74/0"
+							"fa7986a61636b6574207472696d206631342373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -177,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-							"0f09f8eac68757274/0"
+							"fa7986a61636b6574207472696d206631342368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +188,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬walking": {
+			"🧘jacket trim f14#w": {
 				"name": "🧘jacket trim frock_lace bronze 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac77616c6b696e67/0"
+					"fa7986a61636b6574207472696d206631342377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -252,12 +244,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬spellcast": {
+			"🧘jacket trim f14#c": {
 				"name": "🧘jacket trim frock_lace bronze 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac7370656c6c63617374/0"
+					"fa7986a61636b6574207472696d206631342363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -307,12 +298,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬thrust": {
+			"🧘jacket trim f14#t": {
 				"name": "🧘jacket trim frock_lace bronze 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac746872757374/0"
+					"fa7986a61636b6574207472696d206631342374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -364,12 +354,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬slash": {
+			"🧘jacket trim f14#l": {
 				"name": "🧘jacket trim frock_lace bronze 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac736c617368/0"
+					"fa7986a61636b6574207472696d20663134236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -419,12 +408,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬shoot": {
+			"🧘jacket trim f14#s": {
 				"name": "🧘jacket trim frock_lace bronze 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac73686f6f74/0"
+					"fa7986a61636b6574207472696d206631342373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -482,12 +470,11 @@
 					}
 				]
 			},
-			"🧘jacket trim frock_lace bronze 🎬hurt": {
+			"🧘jacket trim f14#h": {
 				"name": "🧘jacket trim frock_lace bronze 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa7986a61636b6574207472696d2066726f636b5f6c6163652062726f6e7a652",
-					"0f09f8eac68757274/0"
+					"fa7986a61636b6574207472696d206631342368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

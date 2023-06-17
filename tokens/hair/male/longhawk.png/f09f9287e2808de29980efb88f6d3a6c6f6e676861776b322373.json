@@ -1,0 +1,68 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:longhawk2#s": {
+				"name": "💇‍♀️♂️longhawk 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a6c6f6e676861776b322373/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAGFBMVEVMaXGcWZEwByecWZFqKF7MoMX6+Pn///8kgnYoAAAAAnRSTlMAnI",
+							"8qElcAAAAJcEhZcwAACxMAAAsTAQCanBgAAALYSURBVHja7drLbuMwEEVBqh/W//",
+							"/xQJ7lrMIeQBFUtT/EDSBCTpy1AAAAAAAAAAAAAAAAfo2IePSA6X69fpR/OiseO2",
+							"C6X68f9Z/PmRH51AHT/Xr9rD/PiHrsgOl+vX7U93m9QeKpA6b79frR858Z/e0fOm",
+							"C6X68fPf9Xf14vkGcOmO7X60fPf9T1+sjtj2B3Dxjv1+tnfefV5zMHTPfr9dPnvy",
+							"KvG5CPHPAf9uv1s7761gs4GTDdr9ePnv/vt6CZ913A6YBxrteP+uvv0DX6GvX2Ab",
+							"Ncrx/1qzrWpL97wHS/Xj/pry9y1uRfQe8eMN2v14/+FTprjdw9YLxfr5+oePaA6X",
+							"69fiTWswfc/fPr392P3T4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAADgF4qMqAy9Xr+RR3ZWdoVer//59avurmy9Xr9x/64LGBFx6PX6n/bdWRHHcS",
+							"y9Xv/Tvq7bt53r9e/uR7dPr399vyb0+jf3a4VerwcAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAfcdHr9RuOo/rTtX2CXv/u/jiOPq",
+							"8j9Hr9jw+oOj+1f4Je/+b+uoJ99veE0Ov1G79DXZ8B69y+gnr9m/u/J8T5qQy9Xr",
+							"9xQnb14AC9/s39WpVdn8jtl5he/+Z+RXWcUVF6vX7rJRZnRVTo9fqdl1h0raXX67",
+							"dfYmvp9fo9maHX67ffYcMD9Po392vwFwi9/vX9itDr9fsH6PV6AAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbhRZERl6vX6nr87Kzgi9Xr9xQmd1d+",
+							"1eQr3+zf06IiK+VzD0ev3GEccRUdkder1+94jsCr1eP7iFodfrt01P0Ovf3K+l1+",
+							"sBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABu8AfKAz/99X/GkwAAAA",
+							"BJRU5ErkJggg=="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

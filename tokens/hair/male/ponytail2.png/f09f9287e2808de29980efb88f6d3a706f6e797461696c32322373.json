@@ -1,0 +1,96 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️m:ponytail22#s": {
+				"name": "💇‍♀️♂️ponytail2 🎬shoot",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f6d3a706f6e797461696c32322373/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0AAAAEACAMAAACteu",
+							"Y1AAAAFVBMVEVMaXEwByfMoMWcWZH6+PlqKF7///921TWjAAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAACDBJREFUeNrt3Y1y2yoQQOH9YfX+j9wBOU",
+							"7s294JrGJMON9Mp+1MD8YSVJHtpiIAAAAAAAAAAAAAAAAAAAAAgKtphK48gez86e",
+							"kTtUZ4RKiuOYHs/Onpc8vP3c3cw8eGmDuB7Pzp6VN9uJlZcXM3D11tAtn509Mne7",
+							"dipVgxm7SAMxPIzp+ePr3+a33YOcSrF3B2AhfMn54+0derRyl1gFIHWmwC2fnT0+",
+							"fWv599HeBoQ/hSE0jPn54+0d8HOEqx+qOUtSZw1fzp6Uf6dgWpdRvADjNbawLp+d",
+							"PTJ/rbLUy7dFhZcAL5+dPTj/eiarebF/PztejXbsDsBNLzp6dP9PVrML+9CO3mxc",
+							"NWm0Aup6dP9eddzO09HLf+T7S9wQRSOT19qv/4JIG5hbmuN4H0/OnpE337JGjU2M",
+							"Nt4POgsyeQnj89faIXVQ2tF492/VhvAvn509OP97cd4DUe6t9gAqmcnj7V1x2gUT",
+							"dB7RecQH7+9PTjfdsB9R+Uus7ZgBdMIJXT06f62z/IVpXxfxF74QS8M/VcfnUvm/",
+							"e+W/95IxO574hw0QR8ZAMl8qd+bAHRX3X81+vvO8Bz3xUk/111bhMY20Af+egBHH",
+							"/+9Ff22fP3+v4U7TW0K9a/TJlAdv709Jle6puhvvAE0vOnp8+sX3UrrutOIDt/en",
+							"rP3YIUi4UnkJ4/PX3qW5vG3A2YnkAyp6fPfWtrtbUnkJ0/PX1y/YasPIH8/OnpMy",
+							"ZvwPQEkjk9fc7k9Z+eQAg9/bxedPEJqNDTz+tFVp8AAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAgB+iqhox/v8E09Nv3KuGVxGq9PT0nb27mZmbuY",
+							"9sQnr6vfuaFyttlP4R6Ol374uVcv7oH4Gefude1M72aGPUqxg9PX3HBmzlUeyofe",
+							"8WpKffuRe1ugOtHHa7hPVOgJ5+4759CegaVrzuwnoJc6Wnp//2AOFah4mwo70M4V",
+							"0vhtPT79yLusbtJ2/7z/vekKWn37kXVWl/XkXq1cujdwL09Bv3T1ez9qGG0QHo6X",
+							"fuRTxEwwc/EEQ/vxcRjt/E3lREx69g9Ln+JjL7J4Pzlzx/kRxg9z67AWbj/CfPv9",
+							"ZPMSi9bEp7P8XC+f/bAVSlZwNx/oeuYecASr+niAv6yedPX//49z9/u3r1XsSee1",
+							"m9f/Vf/Ff1Gtle36FPrj/Nrt/up3HfcXH7FJB2vxX72MvqfXoDvPbxf1ufXH+aXb",
+							"/dO/Djj9/fQRqcwOc7UKv2kloA1x0/WbR/i+M3vIEGH/8vB6D7wxDPB3B2L2O9yD",
+							"ULKBZ9/tkNcNXxyz1/1dce/y+XMM09gffpx06gJBfAx+OPnsB7FXsfv9G/AC47/r",
+							"1fwvy36pvA9b1k+zk38TJ2Aq/uJWLp4zf7+F/wBNbcAG+zgTS5gRbt32YD6Ws30A",
+							"9clWXxt1KSz18372e/GT3/rbzNN5CygZZewG+wgWRrs/8C3r2f/vc/G2jy86fffP",
+							"1ufgvEBmADAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA6T",
+							"T530rS0+/bq6q7x/AY9PQb97W2po5BT0/f1btZMSulFHN3paen7+jDa3wOYNY9Aj",
+							"39zr1otPYcwkq9jNHT03//C8BSjrb7DqsDWN8WpKffua9XsNsAftjAFqSn37k/b6",
+							"Hq3nMtfv6iawvS0+/cS30Jr5gXVzW3w7t3MD39xn29h6qvf5uKmnpx674E0tPv27",
+							"cXITzUVfTchOaq9PT0334VwkIk6i/bV4Sd78bS0+/ct5chtMVtgOh9GZyefuteNO",
+							"Lhd6r0K/XC8Zt7/OVhyw18qpuefude1P/9O/qf7yXby9zH5/z5v39H//P9/422Qr",
+							"/5+VNxexjARHfqRWR2Lyv3rB+18rAayma9SLaXrfvt18/TAMV0r/55N9GzfjrvoR",
+							"4H8M365wVE/9p+/fWTHWD1ng0wt19+/TzeRJnv1j/dA9C/uF9//fg/f7NHL/RT++",
+							"XXDxuIfuUNJGwgNtDOx+9XPT4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAACwDI0IVVV6evr+XCO8irEh6Om37sPdzM3M3JWenr6zr2",
+							"2x0oZQenr6zr6Ucv7oH4Gefude6vWr1cc5iik9PX3PBqwjHFaOcxf2bUF6+p372x",
+							"1UDe0o9RdmSk9P/90BvF7C6u7zYqHe+0UgPf3WvXp7EeKwiJrW3yo9Pf13r2DtLS",
+							"QrHtrK20/09PTfHCC8XsdEWqiiSk9P//17qFANH/wYED39zn39GJCHSjj9ur2IcP",
+							"zm9O0apiJqTj+pl0tw/Of09wGCfuoGmIXzl+vrCFo/z6D0G+P8j5//9qJDZgKb99",
+							"tvoO3XTxsg6LfeQCufP536+KFffmq/HLkFWLZ/PAzD/ZU3JWM7YO7zT5y/7PprG2",
+							"Dm458/e3y9onXfQq/a38cZffyLNsCs+c/u8+vv/POzHv9zAd5fCB9bQKv2X24Cch",
+							"s4+fir97OO330DTXv8SB2Az9dwJ/XZE/hpcP7xS57/rOOXXT8f3wZkzvH/MoBGbg",
+							"Jz+r+MpMl7mO4TmHv+sffxk+z6SR7/7PP/8i7g0E1UupdcL9f1Mvb87zefOqlf+v",
+							"hlHz97/NLP/xdtgEkbSJMbYO1+/gbSyRtIpxyst5H/ekU372efP118AS2/gZR+4Q",
+							"U8fQPJ3h9gefEtM/3bnT820OTnT7/5+tXNNyAbgA0EAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAJjvD71Dq+CcUyqFAAAAAElFTkSuQmCC"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

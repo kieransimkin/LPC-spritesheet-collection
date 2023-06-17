@@ -1,11 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"💇‍♀️♂️bedhead": {
+			"💇‍♀️♂️bedhead2": {
 				"name": "💇‍♀️♂️bedhead",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f62656468656164/0"
+					"f9287e2808de29980efb88fe29982efb88f6265646865616432/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac77616",
-							"c6b696e67/0"
+							"f9287e2808de29980efb88f6d3a62656468656164322377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac73706",
-							"56c6c63617374/0"
+							"f9287e2808de29980efb88f6d3a62656468656164322363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac74687",
-							"2757374/0"
+							"f9287e2808de29980efb88f6d3a62656468656164322374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac736c6",
-							"17368/0"
+							"f9287e2808de29980efb88f6d3a6265646865616432236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac73686",
-							"f6f74/0"
+							"f9287e2808de29980efb88f6d3a62656468656164322373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac68757",
-							"274/0"
+							"f9287e2808de29980efb88f6d3a62656468656164322368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +189,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬walking": {
+			"💇‍♀️m:bedhead2#w": {
 				"name": "💇‍♀️♂️bedhead 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac77616",
-					"c6b696e67/0"
+					"f9287e2808de29980efb88f6d3a62656468656164322377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -270,12 +263,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬spellcast": {
+			"💇‍♀️m:bedhead2#c": {
 				"name": "💇‍♀️♂️bedhead 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac73706",
-					"56c6c63617374/0"
+					"f9287e2808de29980efb88f6d3a62656468656164322363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -337,12 +329,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬thrust": {
+			"💇‍♀️m:bedhead2#t": {
 				"name": "💇‍♀️♂️bedhead 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac74687",
-					"2757374/0"
+					"f9287e2808de29980efb88f6d3a62656468656164322374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -412,12 +403,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬slash": {
+			"💇‍♀️m:bedhead2#l": {
 				"name": "💇‍♀️♂️bedhead 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac736c6",
-					"17368/0"
+					"f9287e2808de29980efb88f6d3a6265646865616432236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -488,12 +478,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬shoot": {
+			"💇‍♀️m:bedhead2#s": {
 				"name": "💇‍♀️♂️bedhead 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac73686",
-					"f6f74/0"
+					"f9287e2808de29980efb88f6d3a62656468656164322373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -559,12 +548,11 @@
 				],
 				"bodyType": "male"
 			},
-			"💇‍♀️♂️bedhead 🎬hurt": {
+			"💇‍♀️m:bedhead2#h": {
 				"name": "💇‍♀️♂️bedhead 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88fe29982efb88f6265646865616420f09f8eac68757",
-					"274/0"
+					"f9287e2808de29980efb88f6d3a62656468656164322368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

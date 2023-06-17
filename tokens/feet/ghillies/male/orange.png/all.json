@@ -1,11 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"🦶♂️ghillies orange": {
+			"🦶♂️ghillies oran": {
 				"name": "🦶♂️ghillies orange",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e6765/0"
+					"fa6b6e29982efb88f6768696c6c696573206f72616e/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -16,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac77616c6",
-							"b696e67/0"
+							"fa6b66d3a6768696c6c696573206f72616e67652377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -48,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac7370656",
-							"c6c63617374/0"
+							"fa6b66d3a6768696c6c696573206f72616e67652363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -80,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac7468727",
-							"57374/0"
+							"fa6b66d3a6768696c6c696573206f72616e67652374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -112,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac736c617",
-							"368/0"
+							"fa6b66d3a6768696c6c696573206f72616e6765236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -144,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac73686f6",
-							"f74/0"
+							"fa6b66d3a6768696c6c696573206f72616e67652373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -176,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac6875727",
-							"4/0"
+							"fa6b66d3a6768696c6c696573206f72616e67652368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -195,12 +189,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬walking": {
+			"🦶m:ghillies orange#w": {
 				"name": "🦶♂️ghillies orange 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac77616c6",
-					"b696e67/0"
+					"fa6b66d3a6768696c6c696573206f72616e67652377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -270,12 +263,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬spellcast": {
+			"🦶m:ghillies orange#c": {
 				"name": "🦶♂️ghillies orange 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac7370656",
-					"c6c63617374/0"
+					"fa6b66d3a6768696c6c696573206f72616e67652363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -326,12 +318,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬thrust": {
+			"🦶m:ghillies orange#t": {
 				"name": "🦶♂️ghillies orange 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac7468727",
-					"57374/0"
+					"fa6b66d3a6768696c6c696573206f72616e67652374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -387,12 +378,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬slash": {
+			"🦶m:ghillies orange#l": {
 				"name": "🦶♂️ghillies orange 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac736c617",
-					"368/0"
+					"fa6b66d3a6768696c6c696573206f72616e6765236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -445,12 +435,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬shoot": {
+			"🦶m:ghillies orange#s": {
 				"name": "🦶♂️ghillies orange 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac73686f6",
-					"f74/0"
+					"fa6b66d3a6768696c6c696573206f72616e67652373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -509,12 +498,11 @@
 				],
 				"bodyType": "male"
 			},
-			"🦶♂️ghillies orange 🎬hurt": {
+			"🦶m:ghillies orange#h": {
 				"name": "🦶♂️ghillies orange 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"fa6b6e29982efb88f6768696c6c696573206f72616e676520f09f8eac6875727",
-					"4/0"
+					"fa6b66d3a6768696c6c696573206f72616e67652368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",

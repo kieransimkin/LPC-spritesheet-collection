@@ -1,0 +1,55 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️f:twists_fade#h": {
+				"name": "💇‍♀️♀twists_fade 🎬hurt",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88f663a7477697374735f666164652368/0"
+				],
+				"mediaType": "image/png",
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"files": [
+					{
+						"id": "0",
+						"src": [
+							"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAABACAMAAAAkhl",
+							"CNAAAAFVBMVEVMaXGkJgBqEQgmDRT/igDlVgC/QAAKKod+AAAAAXRSTlMAQObYZg",
+							"AAAAlwSFlzAAALEwAACxMBAJqcGAAAAqRJREFUeNrtnEF2pDAMRFFJ1v2PPE82CW",
+							"Y2M7KJST9XJXS6s0r0LYmSgeOgKIqiKIqiKIqiKIr6HVJFvGg9qNXBVzVzkXgxFy",
+							"JcHH8xi7hbEZNiUvIRfAbhrsvfIvQiKEUKROBmoqsR7ht/Q426WTCQCF8cpmsR7g",
+							"ygQCJwVlexSYlguutKhFsDKA0A6qvFGwNcVyLcnQCkLlnU9RsR9FQBmUe4fRM2gz",
+							"msrl94kWT0phFuD6A43MXrGSRc4NC1CLf2EarFa9hbC23fuhbh3j5CpUYfpwJANg",
+							"OmEW7tIzQCdn0MEroU4UM+4mNLmP71B2v6H5hD+ISP+OgSFgvnrnQGTCF8wEd8eA",
+							"nDP3/xowinfcRZwiIBagZtOAqZQzjpI84S9tVDIgk4CllpBc8SFj2kFJQzjTgKWe",
+							"YjzhJ2NfHCUchaK1hLWNfEwVHIWitYS5hcTdzGRiFbA5iygq2EXU18YBRy7L2nPW",
+							"kFWwnrmnh6FLL7nvasFawl7GriA9Os3fe0J61glLC+iedL2B0A97TTGYQeAKD5WV",
+							"TvpGnkBnqIXGdRGJlF3Zw0jVz6NOpWs5CqH52RO500jdxsE0m2kGrkOgA0cstHIW",
+							"b9KINGbjmA4v0oY8zIUeMAins/ysgbOWqyh7vcRxnCDFgLIHbhrlFG/rIE6gEjd4",
+							"0yckbuS/79BYY0b+T6UYYO3KHSxT8IMIOyRu42ypB8/HGLPwmki5AItB2KgfUPwS",
+							"HwA+L1PZtIugpBtY3xBkbRChwQOVxQD3bxNxJIvrdV4wcBvAEg+og3CASw3Ei05V",
+							"9tnBPAciMRBLoSRCu9toPXC5twncdymLQYwPQtQtQkgCdukqOGAfA20Zfjzxul3w",
+							"XARwW8DYAPy3i9CfNxMW9bYT4w6e0k+I/Lq/8AsQkU+C8MDnYAAAAASUVORK5CYI",
+							"I="
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "female"
+			}
+		}
+	}
+}

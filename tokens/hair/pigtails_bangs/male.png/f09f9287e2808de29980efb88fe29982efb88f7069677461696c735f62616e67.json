@@ -1,0 +1,194 @@
+{
+	"721": {
+		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
+			"💇‍♀️♂️pigtails_bang": {
+				"name": "💇‍♀️♂️pigtails_bangs",
+				"image": [
+					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+					"f9287e2808de29980efb88fe29982efb88f7069677461696c735f62616e67/0"
+				],
+				"credits": "https://nft-playground.dev/LPC-credits.csv",
+				"license": "CC-BY-SA-3.0",
+				"description": "Cardano Smart Avatars Project",
+				"mediaType": "image/png",
+				"files": [
+					{
+						"id": "walking",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e67732377/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"walking-north": [
+								0,
+								8
+							],
+							"walking-west": [
+								9,
+								17
+							],
+							"walking-south": [
+								18,
+								26
+							],
+							"walking-east": [
+								27,
+								35
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 36
+						}
+					},
+					{
+						"id": "spellcast",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e67732363/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"spellcast-north": [
+								0,
+								6
+							],
+							"spellcast-west": [
+								7,
+								13
+							],
+							"spellcast-south": [
+								14,
+								20
+							],
+							"spellcast-east": [
+								21,
+								27
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 28
+						}
+					},
+					{
+						"id": "thrust",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e67732374/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"thrust-north": [
+								0,
+								7
+							],
+							"thrust-west": [
+								8,
+								15
+							],
+							"thrust-south": [
+								16,
+								23
+							],
+							"thrust-east": [
+								24,
+								31
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 32
+						}
+					},
+					{
+						"id": "slash",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e6773236c/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"slash-north": [
+								0,
+								5
+							],
+							"slash-west": [
+								6,
+								11
+							],
+							"slash-south": [
+								12,
+								17
+							],
+							"slash-east": [
+								18,
+								23
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 24
+						}
+					},
+					{
+						"id": "shoot",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e67732373/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"shoot-north": [
+								0,
+								12
+							],
+							"shoot-west": [
+								13,
+								25
+							],
+							"shoot-south": [
+								26,
+								38
+							],
+							"shoot-east": [
+								39,
+								51
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 52
+						}
+					},
+					{
+						"id": "hurt",
+						"src": [
+							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+							"f9287e2808de29980efb88f6d3a7069677461696c735f62616e67732368/0"
+						],
+						"mediaType": "image/png",
+						"animations": {
+							"hurt": [
+								0,
+								5
+							]
+						},
+						"frames": {
+							"width": 64,
+							"height": 64,
+							"count": 6
+						}
+					}
+				],
+				"bodyType": "male"
+			}
+		}
+	}
+}

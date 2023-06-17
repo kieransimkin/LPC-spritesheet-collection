@@ -1,12 +1,11 @@
 {
 	"721": {
 		"420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100d": {
-			"💇‍♀️👶halfmessy_default": {
+			"💇‍♀️👶halfmessy_def": {
 				"name": "💇‍♀️👶halfmessy_default",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"4/0"
+					"f9287e2808de29980efb88ff09f91b668616c666d657373795f646566/0"
 				],
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
 				"license": "CC-BY-SA-3.0",
@@ -17,8 +16,7 @@
 						"id": "walking",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac77616c6b696e67/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f64656661752377/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -49,8 +47,7 @@
 						"id": "spellcast",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac7370656c6c63617374/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f64656661752363/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -81,8 +78,7 @@
 						"id": "thrust",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac746872757374/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f64656661752374/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -113,8 +109,7 @@
 						"id": "slash",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac736c617368/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f6465666175236c/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -145,8 +140,7 @@
 						"id": "shoot",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac73686f6f74/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f64656661752373/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -177,8 +171,7 @@
 						"id": "hurt",
 						"src": [
 							"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-							"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-							"420f09f8eac68757274/0"
+							"f9287e2808de29980efb88f633a68616c666d657373795f64656661752368/0"
 						],
 						"mediaType": "image/png",
 						"animations": {
@@ -196,12 +189,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬walking": {
+			"💇‍♀️c:halfmessy_defau#w": {
 				"name": "💇‍♀️👶halfmessy_default 🎬walking",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac77616c6b696e67/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f64656661752377/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -274,12 +266,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬spellcast": {
+			"💇‍♀️c:halfmessy_defau#c": {
 				"name": "💇‍♀️👶halfmessy_default 🎬spellcast",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac7370656c6c63617374/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f64656661752363/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -324,12 +315,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬thrust": {
+			"💇‍♀️c:halfmessy_defau#t": {
 				"name": "💇‍♀️👶halfmessy_default 🎬thrust",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac746872757374/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f64656661752374/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -374,12 +364,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬slash": {
+			"💇‍♀️c:halfmessy_defau#l": {
 				"name": "💇‍♀️👶halfmessy_default 🎬slash",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac736c617368/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f6465666175236c/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -423,12 +412,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬shoot": {
+			"💇‍♀️c:halfmessy_defau#s": {
 				"name": "💇‍♀️👶halfmessy_default 🎬shoot",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac73686f6f74/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f64656661752373/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
@@ -475,12 +463,11 @@
 				],
 				"bodyType": "child"
 			},
-			"💇‍♀️👶halfmessy_default 🎬hurt": {
+			"💇‍♀️c:halfmessy_defau#h": {
 				"name": "💇‍♀️👶halfmessy_default 🎬hurt",
 				"image": [
 					"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
-					"f9287e2808de29980efb88ff09f91b668616c666d657373795f64656661756c7",
-					"420f09f8eac68757274/0"
+					"f9287e2808de29980efb88f633a68616c666d657373795f64656661752368/0"
 				],
 				"mediaType": "image/png",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
