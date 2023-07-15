@@ -11,8 +11,8 @@
 					".org/2000/svg'%3E%3Cg %3E%3Crect x='-3' y='141' width='426' heig",
 					"ht='230' fill='%23fff'/%3E%3C/g%3E%3Ctext transform='translate(8",
 					" 92)' x='213' y='57' fill='%23000000' font-size='90' text-anchor",
-					"='middle' xml:space='preserve'%3E🧟👽👱🏼‍♀️ %3C/text%3E%3C/svg%",
-					"3E%0A"
+					"='middle' xml:space='preserve'%3E🧟👽👱🏼‍♀️ ",
+					"%3C/text%3E%3C/svg%3E%0A"
 				],
 				"mediaType": "image/svg+xml",
 				"credits": "https://nft-playground.dev/LPC-credits.csv",
