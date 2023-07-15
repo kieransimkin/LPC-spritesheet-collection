@@ -22,7 +22,10 @@
 					],
 					"files": [
 						{
-							"src": "cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09fa78df09fa79f/walking",
+							"src": [
+								"cnft:420acf8d7151fb73a556975cad1a60bf13e91d417be084fe87ef100df09",
+								"fa78df09fa79f/walking"
+							],
 							"mediaType": "image/png"
 						}
 					],
